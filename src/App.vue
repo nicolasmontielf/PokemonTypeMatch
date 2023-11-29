@@ -1,6 +1,19 @@
 <script setup lang="ts">
+    import LayoutNavbar from "@/components/LayoutNavbar.vue";
+    import LayoutFooter from "@/components/LayoutFooter.vue";
+    import MainComponent from "@/components/MainComponent.vue";
 </script>
 
 <template>
-    <h3 class="text-5xl">Clean component</h3>
+    <div>
+        <header id="header-container">
+            <LayoutNavbar />
+        </header>
+        <main>
+            <MainComponent />
+        </main>
+        <div id="footer-container">
+            <LayoutFooter />
+        </div>
+    </div>
 </template>
