@@ -2,5 +2,5 @@
 </script>
 
 <template>
-    <h3>Clean component</h3>
+    <h3 class="text-5xl">Clean component</h3>
 </template>
