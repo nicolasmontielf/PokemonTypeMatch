@@ -9,7 +9,7 @@
         <header id="header-container">
             <LayoutNavbar />
         </header>
-        <main>
+        <main class="min-h-[80vh]">
             <MainComponent />
         </main>
         <div id="footer-container">
