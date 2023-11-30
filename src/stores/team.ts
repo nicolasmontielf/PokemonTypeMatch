@@ -13,10 +13,15 @@ export const useTeamStore = defineStore('team', () => {
         myTeam.value.splice(index, 1)
     }
 
+    function resetTeam(): void {
+        myTeam.value = []
+    }
+
     return {
         myTeam,
         addPokemon,
         removePokemon,
+        resetTeam
     }
 
 }, { persist: true })
