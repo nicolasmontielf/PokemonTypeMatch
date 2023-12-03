@@ -14,3 +14,11 @@ export function getIcon(name: TypeValue): string {
 export function getListOfTypes(): TypeValue[] {
     return Object.keys(types) as TypeValue[]
 }
+
+export function calculateDamage(attackType: TypeValue, rivalTypes: TypeValue[]): number {
+    const attack = types[attackType]
+
+    return rivalTypes.reduce((acc, type) => {
+        return acc * attack.versus[type]
+    }, 1)
+}

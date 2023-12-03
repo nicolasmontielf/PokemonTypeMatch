@@ -1,5 +1,6 @@
 <script setup lang="ts">
     import MyTeam from '@/components/main/MyTeam.vue'
+    import EnemyTeam from '@/components/enemy/EnemyTeam.vue'
 </script>
 
 <template>
@@ -9,7 +10,7 @@
                 <MyTeam />
             </div>
             <div class="col-span-1">
-                <h3>Pokemon enemigo</h3>
+                <EnemyTeam />
             </div>
         </div>
     </div>
