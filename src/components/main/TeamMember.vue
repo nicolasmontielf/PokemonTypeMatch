@@ -12,7 +12,7 @@
 </script>
 
 <template>
-    <div class="flex my-5 relative gap-1 max-w-xl py-6 px-5 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 items-center">
+    <div class="flex my-5 relative gap-1 max-w-xl py-6 px-5 bg-white border border-gray-200 rounded-lg shadow items-center">
         <div>
             <img v-if="pokemon.image" :src="pokemon.image" class="w-32">
             <p v-else>Sin imagen</p>
@@ -21,7 +21,7 @@
             <div class="mb-2">
                 <h3 class="font-bold">{{ pokemon.name }}</h3>
                 <div v-for="type of pokemon.types" :key="type">
-                    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded">
+                    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded capitalize">
                         {{ type }}
                     </span>
                 </div>
@@ -41,7 +41,7 @@
 
         <div class="absolute top-1 right-3">
             <button
-                class="text-xs font-semibold"
+                class="text-xs font-semibold border py-1 px-3 rounded-md hover:bg-blue-100"
                 @click="openForm = true"
             >
                 Agregar Movimiento
