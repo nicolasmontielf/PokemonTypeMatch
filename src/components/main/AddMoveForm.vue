@@ -1,6 +1,6 @@
 <script setup lang="ts">
     import { reactive } from 'vue'
-    import type { PokemonMove } from '@/types/Pokemon';
+    import type { PokemonMove } from '@/types';
     import TYPES from '@/data/types.json'
     import { useTeamStore } from '@/stores/team';
 

@@ -1,7 +1,7 @@
 <script setup lang="ts">
     import MovesItem from '@/components/main/MovesItem.vue'
     import AddMoveForm from '@/components/main/AddMoveForm.vue' 
-    import type { Pokemon } from '@/types/Pokemon'
+    import type { Pokemon } from '@/types'
     import { ref } from 'vue'
 
     const openForm = ref<boolean>(false)

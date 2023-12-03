@@ -4,7 +4,7 @@
     import { getPokemon } from '@/services/pokemon';
     import { slugifyString } from '@/services/common';
     import TYPES from '@/data/types.json'
-    import type { Pokemon } from '@/types/Pokemon';
+    import type { Pokemon } from '@/types';
 
     const teamStore = useTeamStore()
     const types = Object.keys(TYPES)

@@ -1,6 +1,6 @@
 // @ts-ignore
 import { Pokedex } from 'pokeapi-js-wrapper';
-import type { PokemonData } from '@/types/Pokemon';
+import type { PokemonData } from '@/types';
 
 const P = new Pokedex({
     versionPath: '/api/v2/',

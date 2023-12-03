@@ -1,6 +1,6 @@
 import { ref } from 'vue'
 import { defineStore } from 'pinia'
-import type { Pokemon, PokemonMove } from '@/types/Pokemon'
+import type { Pokemon, PokemonMove } from '@/types'
 
 export const useTeamStore = defineStore('team', () => {
     const myTeam = ref<Pokemon[]>([])

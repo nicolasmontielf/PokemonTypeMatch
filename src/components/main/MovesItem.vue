@@ -1,5 +1,5 @@
 <script setup lang="ts">
-    import type { PokemonMove } from '@/types/Pokemon';
+    import type { PokemonMove } from '@/types';
     import TYPES from '@/data/types.json'
 
     const props = defineProps<{
