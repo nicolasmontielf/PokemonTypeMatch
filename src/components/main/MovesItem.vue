@@ -10,8 +10,8 @@
 </script>
 
 <template>
-    <div class="flex gap-1 px-4 py-2 bg-white border border-gray-200 rounded-lg shadow-md justify-center items-center">
-        <img :src="typeLogo" class="w-6 rounded-md">
-        <p class="capitalize font-semibold">{{ move.name }}</p>
+    <div class="flex gap-2 px-4 py-2 bg-white border border-gray-200 rounded-lg shadow-md items-center">
+        <img :src="typeLogo" class="w-5 rounded-md">
+        <p class="capitalize font-semibold text-sm">{{ move.name }}</p>
     </div>
 </template>
