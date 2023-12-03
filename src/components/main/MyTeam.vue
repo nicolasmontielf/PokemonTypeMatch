@@ -15,23 +15,25 @@
 <template>
     <div>
         <div class="flex flex-col flex-wrap mt-2 mb-10">
-            <div>
+            <div class="flex gap-3">
                 <h3 class="text-xl font-bold inline">Mi equipo</h3>
-                <button
-                    type="button"
-                    class="inline mx-2 px-3 py-2 text-xs font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300"
-                    @click="showAddPokemonForm = !showAddPokemonForm"
-                >
-                    {{ showAddPokemonForm ? 'Ocultar' : 'Agregar' }}
-                </button>
+                <div class="flex gap-2">
+                    <button
+                        type="button"
+                        class="inline-flex px-3 py-2 text-xs font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800"
+                        @click="showAddPokemonForm = !showAddPokemonForm"
+                    >
+                        {{ showAddPokemonForm ? 'Ocultar' : 'Agregar' }}
+                    </button>
 
-                <button
-                    type="button"
-                    class="inline mx-2 text-red-700 hover:text-white border border-red-700 hover:bg-red-800 focus:ring-4 focus:outline-none focus:ring-red-300 font-medium rounded-lg text-xs px-3 py-2 text-center"
-                    @click="resetTeam"
-                >
-                    Reset team
-                </button>
+                    <button
+                        type="button"
+                        class="inline-flex text-red-700 hover:text-white border border-red-700 hover:bg-red-800 focus:ring-4 focus:outline-none focus:ring-red-300 font-medium rounded-lg text-xs px-3 py-2 text-center"
+                        @click="resetTeam"
+                    >
+                        Reset team
+                    </button>
+                </div>
             </div>
 
             <div class="w-3/5" v-if="showAddPokemonForm">
@@ -39,8 +41,8 @@
             </div>
 
         </div>
-        <div class="flex flex-col">
-            <div class="my-2" v-for="(pokemon, index) of teamStore.myTeam" :key="index">
+        <div class="flex flex-col gap-1">
+            <div v-for="(pokemon, index) of teamStore.myTeam" :key="index">
                 <TeamMember :pokemon="pokemon" />
             </div>
         </div>
