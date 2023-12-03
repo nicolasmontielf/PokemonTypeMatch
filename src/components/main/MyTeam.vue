@@ -8,7 +8,9 @@
     const teamStore = useTeamStore()
 
     function resetTeam() {
-        teamStore.resetTeam()
+        if (confirm("Estas por borrar todo tu equipo, seguro?") === true) {
+            teamStore.resetTeam()
+        }
     }
 </script>
 
