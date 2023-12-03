@@ -20,8 +20,10 @@
         <div>
             <div class="mb-2">
                 <h3 class="font-bold">{{ pokemon.name }}</h3>
-                <div v-for="type of pokemon.types" :key="type">
-                    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded capitalize">
+                <div>
+                    <span v-for="type of pokemon.types"
+                        :key="type"
+                        class="inline bg-blue-100 text-blue-800 text-xs font-medium mx-1 px-2.5 py-0.5 rounded capitalize">
                         {{ type }}
                     </span>
                 </div>
