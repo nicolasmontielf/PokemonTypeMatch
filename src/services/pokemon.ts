@@ -1,4 +1,3 @@
-// @ts-ignore
 import { Pokedex } from 'pokeapi-js-wrapper';
 import type { PokemonData } from '@/types';
 
