@@ -1,11 +1,11 @@
 <script setup lang="ts">
     import { reactive } from 'vue'
     import type { PokemonMove } from '@/types';
-    import TYPES from '@/data/types.json'
     import { useTeamStore } from '@/stores/team';
+    import { getListOfTypes } from '@/services/types';
 
     const teamStore = useTeamStore()
-    const types = Object.keys(TYPES)
+    const types = getListOfTypes()
 
     const props = defineProps<{
         open: boolean,
@@ -52,8 +52,13 @@
                     <label class="block text-sm font-medium leading-6 text-gray-900">Tipo</label>
                     <div class="mt-2">
                         <select v-model="move.type" class="px-2 block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:max-w-xs sm:text-sm sm:leading-6">
-                            <option :value="type" v-for="type of types" :key="type">
-                                {{ type.toUpperCase() }}
+                            <option
+                                class="capitalize"
+                                :value="type"
+                                v-for="type of types"
+                                :key="type"
+                            >
+                                {{ type }}
                             </option>
                         </select>
                     </div>
@@ -63,7 +68,7 @@
                     <button
                         type="button"
                         class="inline px-3 mx-1 py-2 text-xs font-medium text-center text-white bg-red-400 rounded-lg focus:ring-4 focus:outline-none"
-                        @click="$emit('dialog-closed')"
+                        @click="closeAndReset"
                     >
                         Cerrar
                     </button>

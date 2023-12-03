@@ -3,11 +3,9 @@
     import { useTeamStore } from '@/stores/team';
     import { getPokemon } from '@/services/pokemon';
     import { slugifyString } from '@/services/common';
-    import TYPES from '@/data/types.json'
     import type { Pokemon } from '@/types';
 
     const teamStore = useTeamStore()
-    const types = Object.keys(TYPES)
 
     const pokemon = reactive<Pokemon>({
         id: 0,
@@ -73,18 +71,14 @@
             <div class="col-span-1 my-3">
                 <label class="block text-sm font-medium leading-6 text-gray-900">Nombre del Pokemon</label>
                 <div class="mt-2 relative">
-                    <input disabled :value="pokemon.name" type="text" class="px-2 w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
+                    <input disabled :value="pokemon.name" type="text" class="px-2 w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300">
                 </div>
             </div>
 
             <div class="col-span-1 my-3">
                 <label class="block text-sm font-medium leading-6 text-gray-900">Tipo</label>
                 <div class="mt-2">
-                    <select disabled :value="pokemon.types" class="px-2 block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:max-w-xs sm:text-sm sm:leading-6">
-                        <option :value="type" v-for="type of types" :key="type">
-                            {{ type.toUpperCase() }}
-                        </option>
-                    </select>
+                    <input disabled :value="pokemon.types.toString()" type="text" class="px-2 w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300">
                 </div>
             </div>
 
@@ -97,12 +91,7 @@
                     Agregar
                 </button>
             </div>
-
         </div>
         
-        
-
-        
-
     </form>
 </template>

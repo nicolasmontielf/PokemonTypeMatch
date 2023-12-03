@@ -27,3 +27,19 @@ export interface Pokemon {
     types: string[]
     moves?: PokemonMove[]
 }
+
+export type TypeValue = "normal" | "fire" | "water" | "electric" | "grass" | "ice" | "fighting" | "poison" | "ground" | "flying" | "psychic" | "bug" | "rock" | "ghost" | "dragon" | "dark" | "steel"
+
+export interface Type {
+    data: {
+        name: string,
+        icon: string
+    },
+    versus: {
+        [key in TypeValue]: number
+    }
+}
+
+export type TypesFile = {
+    [key in TypeValue]: Type
+}
