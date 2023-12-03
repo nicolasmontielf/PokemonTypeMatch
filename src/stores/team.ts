@@ -1,14 +1,15 @@
 import { ref } from 'vue'
 import { defineStore } from 'pinia'
+import type { Pokemon, PokemonMove } from '@/types/Pokemon'
 
 export const useTeamStore = defineStore('team', () => {
-    const myTeam = ref([])
+    const myTeam = ref<Pokemon[]>([])
 
-    function addPokemon(pokemon): void {
+    function addPokemon(pokemon: Pokemon): void {
         myTeam.value.push(pokemon)
     }
 
-    function removePokemon(pokemon): void {
+    function removePokemon(pokemon: Pokemon): void {
         const index = myTeam.value.indexOf(pokemon)
         myTeam.value.splice(index, 1)
     }
@@ -17,11 +18,22 @@ export const useTeamStore = defineStore('team', () => {
         myTeam.value = []
     }
 
+    function addMove(pokemonId: number, move: PokemonMove): void {
+        const pokemon = myTeam.value.findIndex(p => p.id === pokemonId)
+        if (pokemon === -1) {
+            return;
+        }
+
+        const currentMoves = myTeam.value[pokemon].moves ?? []
+        myTeam.value[pokemon].moves = [...currentMoves, move]
+    }
+
     return {
         myTeam,
         addPokemon,
         removePokemon,
-        resetTeam
+        resetTeam,
+        addMove
     }
 
 }, { persist: true })

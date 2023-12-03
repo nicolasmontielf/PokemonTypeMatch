@@ -6,14 +6,14 @@
         move: PokemonMove
     }>()
 
-    const types: any = Object.keys(TYPES)
-    const typeLogo = types[props.move.type]
+    const pokemonTypes: any = TYPES;
 
+    const typeLogo = pokemonTypes[props.move.type]?.data?.icon
 </script>
 
 <template>
-    <div class="flex gap-1">
-        <img :src="typeLogo" class="w-16">
+    <div class="flex gap-1 px-4 py-2 bg-white border border-gray-200 rounded-lg shadow-md hover:bg-gray-100 justify-center items-center">
+        <img :src="typeLogo" class="w-6">
         <p>{{ move.name }}</p>
     </div>
 </template>

@@ -4,7 +4,7 @@
     import type { Pokemon } from '@/types/Pokemon'
     import { ref } from 'vue'
 
-    const openForm = ref<boolean>(true)
+    const openForm = ref<boolean>(false)
 
     defineProps<{
         pokemon: Pokemon
@@ -12,9 +12,9 @@
 </script>
 
 <template>
-    <div class="flex my-5 relative gap-5 max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 justify-center items-center">
+    <div class="flex my-5 relative gap-1 max-w-xl py-6 px-5 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 items-center">
         <div>
-            <img v-if="pokemon.image" :src="pokemon.image" class="w-24">
+            <img v-if="pokemon.image" :src="pokemon.image" class="w-32">
             <p v-else>Sin imagen</p>
         </div>
         <div>
@@ -27,7 +27,7 @@
                 </div>
             </div>
             
-            <div v-if="pokemon?.moves?.length" class="grid grid-cols-2 gap-3">
+            <div v-if="pokemon?.moves?.length" class="grid grid-cols-2 gap-3 mt-3">
                 <div v-for="(moves, index) of pokemon.moves" :key="index">
                     <MovesItem :move="moves" />
                 </div>
