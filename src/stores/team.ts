@@ -28,12 +28,23 @@ export const useTeamStore = defineStore('team', () => {
         myTeam.value[pokemon].moves = [...currentMoves, move]
     }
 
+    function removeMove(pokemonId: number, move: PokemonMove): void {
+        const pokemon = myTeam.value.findIndex(p => p.id === pokemonId)
+        if (pokemon === -1) {
+            return;
+        }
+
+        const currentMoves = myTeam.value[pokemon].moves ?? []
+        myTeam.value[pokemon].moves = currentMoves.filter(m => m.name !== move.name)
+    }
+
     return {
         myTeam,
         addPokemon,
         removePokemon,
         resetTeam,
-        addMove
+        addMove,
+        removeMove
     }
 
 }, { persist: true })

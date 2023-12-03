@@ -29,7 +29,10 @@
             
             <div v-if="pokemon?.moves?.length" class="grid grid-cols-2 gap-3 mt-5">
                 <template v-for="(moves, index) of pokemon.moves" :key="index">
-                    <MovesItem :move="moves" />
+                    <MovesItem
+                        :move="moves"
+                        :pokemon-id="pokemon.id"
+                    />
                 </template>
             </div>
 
