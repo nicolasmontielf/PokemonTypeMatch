@@ -4,7 +4,7 @@
 </script>
 
 <template>
-    <div class="container mx-auto">
+    <div class="container mx-auto mt-5 mb-10">
         <div class="grid grid-cols-4 mt-5">
             <div class="col-span-3">
                 <MyTeam />
