@@ -3,16 +3,22 @@
     import AddMoveForm from '@/components/main/AddMoveForm.vue' 
     import type { Pokemon } from '@/types'
     import { ref } from 'vue'
+    import { useTeamStore } from '@/stores/team'
 
+    const props = defineProps<{
+        pokemon: Pokemon
+    }>();
     const openForm = ref<boolean>(false)
 
-    defineProps<{
-        pokemon: Pokemon
-    }>()
+    function removePokemon() {
+        if (confirm("Estas seguro que quieres borrar este pokemon?")) {
+            useTeamStore().removePokemon(props.pokemon.id)
+        }
+    }
 </script>
 
 <template>
-    <div class="flex my-2 relative gap-1 max-w-xl py-6 px-5 bg-white border border-gray-200 rounded-lg shadow items-center">
+    <div class="flex my-2 relative gap-3 max-w-xl py-6 px-5 bg-white border border-gray-200 rounded-lg shadow items-center">
         <div>
             <img v-if="pokemon.image" :src="pokemon.image" class="w-32">
             <p v-else>Sin imagen</p>
@@ -50,6 +56,16 @@
                 @click="openForm = true"
             >
                 Agregar Movimiento
+            </button>
+        </div>
+
+        <div class="absolute left-3 top-1">
+            <button
+                class="text-md font-bold"
+                type="button"
+                @click="removePokemon"
+            >
+                X
             </button>
         </div>
 

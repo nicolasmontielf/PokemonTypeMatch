@@ -9,9 +9,9 @@ export const useTeamStore = defineStore('team', () => {
         myTeam.value.push(pokemon)
     }
 
-    function removePokemon(pokemon: Pokemon): void {
-        const index = myTeam.value.indexOf(pokemon)
-        myTeam.value.splice(index, 1)
+    function removePokemon(pokemonId: number): void {
+        const teamFiltered = myTeam.value.filter(p => p.id !== pokemonId)
+        myTeam.value = teamFiltered
     }
 
     function resetTeam(): void {
