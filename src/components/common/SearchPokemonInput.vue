@@ -51,9 +51,10 @@
                 type="text"
                 class="px-2 w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300"
                 @keyup.enter="search"
+                :disabled="isLoading"
             >
 
-            <button type="button" class="absolute right-3 top-2" @click="search">
+            <button :disabled="isLoading" type="button" class="absolute right-3 top-2" @click="search">
                 <SearchIcon class="w-5" />
             </button>
         </div>
