@@ -3,17 +3,19 @@
     import AddMoveForm from '@/components/main/AddMoveForm.vue' 
     import type { Pokemon } from '@/types'
     import { ref } from 'vue'
-    import { useTeamStore } from '@/stores/team'
 
-    const props = defineProps<{
-        pokemon: Pokemon
-    }>();
     const openForm = ref<boolean>(false)
+    const props = defineProps<{
+        pokemon: Pokemon,
+        hideFeatures?: boolean
+    }>();
+
+    const emit = defineEmits<{
+        (e: 'remove', pokemonId: number): void
+    }>();
 
     function removePokemon() {
-        if (confirm("Estas seguro que quieres borrar este pokemon?")) {
-            useTeamStore().removePokemon(props.pokemon.id)
-        }
+        emit('remove', props.pokemon.id)
     }
 </script>
 
@@ -35,22 +37,24 @@
                 </div>
             </div>
             
-            <div v-if="pokemon?.moves?.length" class="grid grid-cols-2 gap-3 mt-5">
-                <template v-for="(moves, index) of pokemon.moves" :key="index">
-                    <MovesItem
-                        :move="moves"
-                        :pokemon-id="pokemon.id"
-                    />
-                </template>
-            </div>
+            <div v-if="!hideFeatures">
+                <div v-if="pokemon?.moves?.length" class="grid grid-cols-2 gap-3 mt-5">
+                    <template v-for="(moves, index) of pokemon.moves" :key="index">
+                        <MovesItem
+                            :move="moves"
+                            :pokemon-id="pokemon.id"
+                        />
+                    </template>
+                </div>
 
-            <div v-else>
-                <p class="text-sm font-semibold">No hay movimientos</p>
+                <div v-else>
+                    <p class="text-sm font-semibold">No hay movimientos</p>
+                </div>
             </div>
 
         </div>
 
-        <div class="absolute top-2 right-3">
+        <div class="absolute top-2 right-3" v-if="!hideFeatures">
             <button
                 class="text-xs font-semibold border py-1 px-3 rounded-md hover:bg-blue-100"
                 @click="openForm = true"

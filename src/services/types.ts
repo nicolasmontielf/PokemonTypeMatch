@@ -12,7 +12,7 @@ export function getIcon(name: TypeValue): string {
 }
 
 export function getListOfTypes(): TypeValue[] {
-    return Object.keys(types) as TypeValue[]
+    return Object.keys(types).sort((a, b) => a.localeCompare(b)) as TypeValue[]
 }
 
 export function calculateDamage(attackType: TypeValue, rivalTypes: TypeValue[]): number {

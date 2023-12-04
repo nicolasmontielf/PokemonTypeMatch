@@ -7,6 +7,10 @@
     const showAddPokemonForm = ref(false)
     const teamStore = useTeamStore()
 
+    function removePokemon(pokemonId: number) {
+        teamStore.removePokemon(pokemonId)
+    }
+
     function resetTeam() {
         if (confirm("Estas por borrar todo tu equipo, seguro?") === true) {
             teamStore.resetTeam()
@@ -45,7 +49,10 @@
         </div>
         <div class="flex flex-col gap-1">
             <div v-for="(pokemon, index) of teamStore.myTeam" :key="index">
-                <TeamMember :pokemon="pokemon" />
+                <TeamMember
+                    :pokemon="pokemon"
+                    @remove="removePokemon"
+                />
             </div>
         </div>
     </div>

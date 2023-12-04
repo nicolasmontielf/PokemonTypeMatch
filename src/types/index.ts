@@ -1,7 +1,7 @@
 export interface PokemonTypeData {
     slot: number,
     type: {
-        name: string,
+        name: TypeValue,
     }
 }
 
@@ -24,7 +24,7 @@ export interface Pokemon {
     id: number,
     image?: string,
     name: string,
-    types: string[]
+    types: TypeValue[]
     moves?: PokemonMove[]
 }
 
