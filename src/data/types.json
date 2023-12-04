@@ -21,7 +21,8 @@
             "ghost": 0,
             "dragon": 1,
             "dark": 1,
-            "steel": 0.5
+            "steel": 0.5,
+            "fairy": 1
         }
     },
     "fire": {
@@ -46,7 +47,8 @@
             "ghost": 1,
             "dragon": 0.5,
             "dark": 1,
-            "steel": 2
+            "steel": 2,
+            "fairy": 1
         }
     },
     "water": {
@@ -71,7 +73,8 @@
             "ghost": 1,
             "dragon": 0.5,
             "dark": 1,
-            "steel": 1
+            "steel": 1,
+            "fairy": 1
         }
     },
     "electric": {
@@ -96,7 +99,8 @@
             "ghost": 1,
             "dragon": 0.5,
             "dark": 1,
-            "steel": 1
+            "steel": 1,
+            "fairy": 1
         }
     },
     "grass": {
@@ -121,7 +125,8 @@
             "ghost": 1,
             "dragon": 0.5,
             "dark": 1,
-            "steel": 0.5
+            "steel": 0.5,
+            "fairy": 1
         }
     },
     "ice": {
@@ -146,7 +151,8 @@
             "ghost": 1,
             "dragon": 2,
             "dark": 1,
-            "steel": 0.5
+            "steel": 0.5,
+            "fairy": 1
         }
     },
     "fighting": {
@@ -171,7 +177,8 @@
             "ghost": 0,
             "dragon": 1,
             "dark": 2,
-            "steel": 2
+            "steel": 2,
+            "fairy": 0.5
         }
     },
     "poison": {
@@ -196,7 +203,8 @@
             "ghost": 0.5,
             "dragon": 1,
             "dark": 1,
-            "steel": 0
+            "steel": 0,
+            "fairy": 2
         }
     },
     "ground": {
@@ -221,7 +229,8 @@
             "ghost": 1,
             "dragon": 1,
             "dark": 1,
-            "steel": 2
+            "steel": 2,
+            "fairy": 1
         }
     },
     "flying": {
@@ -246,7 +255,8 @@
             "ghost": 1,
             "dragon": 1,
             "dark": 1,
-            "steel": 0.5
+            "steel": 0.5,
+            "fairy": 1
         }
     },
     "psychic": {
@@ -271,7 +281,8 @@
             "ghost": 1,
             "dragon": 1,
             "dark": 0,
-            "steel": 0.5
+            "steel": 0.5,
+            "fairy": 1
         }
     },
     "bug": {
@@ -296,7 +307,8 @@
             "ghost": 0.5,
             "dragon": 1,
             "dark": 2,
-            "steel": 0.5
+            "steel": 0.5,
+            "fairy": 0.5
         }
     },
     "rock": {
@@ -321,7 +333,8 @@
             "ghost": 1,
             "dragon": 1,
             "dark": 1,
-            "steel": 0.5
+            "steel": 0.5,
+            "fairy": 1
         }
     },
     "ghost": {
@@ -346,7 +359,8 @@
             "ghost": 2,
             "dragon": 1,
             "dark": 0.5,
-            "steel": 0.5
+            "steel": 0.5,
+            "fairy": 1
         }
     },
     "dragon": {
@@ -371,7 +385,8 @@
             "ghost": 1,
             "dragon": 2,
             "dark": 1,
-            "steel": 0.5
+            "steel": 0.5,
+            "fairy": 0
         }
     },
     "dark": {
@@ -396,7 +411,8 @@
             "ghost": 2,
             "dragon": 1,
             "dark": 0.5,
-            "steel": 0.5
+            "steel": 0.5,
+            "fairy": 0.5
         }
     },
     "steel": {
@@ -421,7 +437,34 @@
             "ghost": 1,
             "dragon": 1,
             "dark": 1,
-            "steel": 0.5
+            "steel": 0.5,
+            "fairy": 2
+        }
+    },
+    "fairy": {
+        "data": {
+            "name": "Hada",
+            "icon": "https://archives.bulbagarden.net/media/upload/thumb/c/c6/Fairy_icon_SwSh.png/64px-Fairy_icon_SwSh.png"
+        },
+        "versus": {
+            "normal": 1,
+            "fire": 0.5,
+            "water": 1,
+            "electric": 1,
+            "grass": 1,
+            "ice": 1,
+            "fighting": 2,
+            "poison": 0.5,
+            "ground": 1,
+            "flying": 1,
+            "psychic": 1,
+            "bug": 1,
+            "rock": 1,
+            "ghost": 1,
+            "dragon": 2,
+            "dark": 2,
+            "steel": 0.5,
+            "fairy": 1
         }
     }
 }
