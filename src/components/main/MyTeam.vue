@@ -1,6 +1,6 @@
 <script setup lang="ts">
     import { ref } from 'vue'
-    import TeamMember from '@/components/main/TeamMember.vue'
+    import PokemonItem from '@/components/main/PokemonItem.vue'
     import AddPokemonForm from '@/components/main/AddPokemonForm.vue'
     import { useTeamStore } from '@/stores/team';
 
@@ -49,7 +49,7 @@
         </div>
         <div class="flex flex-col gap-1">
             <div v-for="(pokemon, index) of teamStore.myTeam" :key="index">
-                <TeamMember
+                <PokemonItem
                     :pokemon="pokemon"
                     @remove="removePokemon"
                 />

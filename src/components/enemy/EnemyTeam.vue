@@ -1,7 +1,7 @@
 <script setup lang="ts">
     import { ref } from 'vue'
     import type { Pokemon } from '@/types';
-    import TeamMember from '@/components/main/TeamMember.vue'
+    import PokemonItem from '@/components/main/PokemonItem.vue'
     import SearchPokemonInput from '@/components/common/SearchPokemonInput.vue';
     import { useCommonStore } from '@/stores/common';
 
@@ -35,7 +35,7 @@
         </div>
 
         <div class="w-full" v-if="pokemon">
-            <TeamMember
+            <PokemonItem
                 :pokemon="pokemon"
                 @remove="removePokemon"
                 hide-features
