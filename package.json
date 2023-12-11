@@ -10,9 +10,11 @@
         "build-only": "vite build",
         "type-check": "vue-tsc --noEmit -p tsconfig.vitest.json --composite false",
         "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
-        "format": "prettier --write src/"
+        "format": "prettier --write src/",
+        "get:moves": "node ./src/scripts/get_moves.js"
     },
     "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
         "pinia": "^2.1.7",
         "pinia-plugin-persistedstate": "^3.2.0",
         "pokeapi-js-wrapper": "^1.2.3",

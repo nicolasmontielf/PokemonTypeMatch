@@ -1,0 +1,5794 @@
+[
+    {
+        "name": "Destructor",
+        "type": "normal",
+        "power": "40",
+        "pp": "35",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Golpe K�rate",
+        "type": "lucha",
+        "power": "50",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Doble Bofet�n",
+        "type": "normal",
+        "power": "15",
+        "pp": "10",
+        "accuracy": "85%",
+        "effect": "Golpea de 2 a 5 veces seguidas."
+    },
+    {
+        "name": "Pu�o Cometa",
+        "type": "normal",
+        "power": "18",
+        "pp": "15",
+        "accuracy": "85%",
+        "effect": "Golpea de 2 a 5 veces seguidas."
+    },
+    {
+        "name": "Megapu�o",
+        "type": "normal",
+        "power": "80",
+        "pp": "20",
+        "accuracy": "85%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "D�a de Pago",
+        "type": "normal",
+        "power": "40",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Recolecta dinero tras batallas contra Pok�mon salvajes o entrenadores del juego."
+    },
+    {
+        "name": "Pu�o Fuego",
+        "type": "fuego",
+        "power": "75",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "10% de quemar al rival."
+    },
+    {
+        "name": "Pu�o Hielo",
+        "type": "hielo",
+        "power": "75",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "10% de congelar al rival."
+    },
+    {
+        "name": "Pu�o Trueno",
+        "type": "electrico",
+        "power": "75",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "10% de paralizar al rival."
+    },
+    {
+        "name": "Ara�azo",
+        "type": "normal",
+        "power": "40",
+        "pp": "35",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Agarre",
+        "type": "normal",
+        "power": "55",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Guillotina",
+        "type": "normal",
+        "power": "1",
+        "pp": "5",
+        "accuracy": "30%",
+        "effect": "Puede debilitar al Pok�mon rival de un solo golpe."
+    },
+    {
+        "name": "Viento Cortante",
+        "type": "normal",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Debe cargarse el primer turno para golpear en el segundo. Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Danza Espada",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta dos niveles el Ataque al usuario."
+    },
+    {
+        "name": "Corte",
+        "type": "normal",
+        "power": "50",
+        "pp": "30",
+        "accuracy": "95%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Tornado",
+        "type": "volador",
+        "power": "40",
+        "pp": "35",
+        "accuracy": "100%",
+        "effect": "Golpea a Pok�mon en mitad de un Vuelo, Bote o Ca�da Libre con el doble de poder base."
+    },
+    {
+        "name": "Ataque Ala",
+        "type": "volador",
+        "power": "60",
+        "pp": "35",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Remolino",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "El Pok�mon rival es intercambiado por otro al azar del entrenador rival. Si es salvaje, huir�."
+    },
+    {
+        "name": "Vuelo",
+        "type": "volador",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "95%",
+        "effect": "Precisa un turno de preparaci�n en el cielo, en que s�lo puede ser golpeado por Tornado, Remolino, Trueno, Cicl�n, Gancho Alto, Antia�reo y Vendaval."
+    },
+    {
+        "name": "Atadura",
+        "type": "normal",
+        "power": "15",
+        "pp": "20",
+        "accuracy": "85%",
+        "effect": "El Pok�mon rival permanece atrapado de 4 a 5 turnos, recibiendo un da�o del 12.5% del PS cada turno."
+    },
+    {
+        "name": "Atizar",
+        "type": "normal",
+        "power": "80",
+        "pp": "20",
+        "accuracy": "75%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "L�tigo Cepa",
+        "type": "planta",
+        "power": "45",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Pisot�n",
+        "type": "normal",
+        "power": "65",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "30% de hacer retroceder al rival. Golpea a Pok�mon que han usado Reducci�n con el doble de poder base e ignorando su Evasi�n."
+    },
+    {
+        "name": "Doble Patada",
+        "type": "lucha",
+        "power": "30",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Golpea 2 veces seguidas."
+    },
+    {
+        "name": "Megapatada",
+        "type": "normal",
+        "power": "120",
+        "pp": "5",
+        "accuracy": "75%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Patada Salto",
+        "type": "lucha",
+        "power": "100",
+        "pp": "10",
+        "accuracy": "95%",
+        "effect": "Si el ataque falla, el usuario recibe un da�o equivalente al 50% de su PS m�ximo."
+    },
+    {
+        "name": "Patada Giro",
+        "type": "lucha",
+        "power": "60",
+        "pp": "15",
+        "accuracy": "85%",
+        "effect": "30% de hacer retroceder al rival."
+    },
+    {
+        "name": "Ataque Arena",
+        "type": "tierra",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Baja un nivel la Precisi�n al rival."
+    },
+    {
+        "name": "Golpe Cabeza",
+        "type": "normal",
+        "power": "70",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "30% de hacer retroceder al rival."
+    },
+    {
+        "name": "Cornada",
+        "type": "normal",
+        "power": "65",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Ataque Furia",
+        "type": "normal",
+        "power": "15",
+        "pp": "20",
+        "accuracy": "85%",
+        "effect": "Golpea de 2 a 5 veces seguidas."
+    },
+    {
+        "name": "Perforador",
+        "type": "normal",
+        "power": "1",
+        "pp": "5",
+        "accuracy": "30%",
+        "effect": "Puede debilitar al Pok�mon rival de un solo golpe."
+    },
+    {
+        "name": "Placaje",
+        "type": "normal",
+        "power": "40",
+        "pp": "35",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Golpe Cuerpo",
+        "type": "normal",
+        "power": "85",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "30% de paralizar al rival."
+    },
+    {
+        "name": "Constricci�n",
+        "type": "normal",
+        "power": "15",
+        "pp": "20",
+        "accuracy": "90%",
+        "effect": "El Pok�mon rival permanece atrapado de 4 a 5 turnos, recibiendo un da�o del 12.5% del PS cada turno."
+    },
+    {
+        "name": "Derribo",
+        "type": "normal",
+        "power": "90",
+        "pp": "20",
+        "accuracy": "85%",
+        "effect": "Provoca un da�o de retroceso del 25% del da�o provocado al Pok�mon rival."
+    },
+    {
+        "name": "Golpe",
+        "type": "normal",
+        "power": "120",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El usuario golpea con este ataque durante 2 � 3 turnos sin poder ser intercambiado, tras lo cual pasa a estar confundido."
+    },
+    {
+        "name": "Doble Filo",
+        "type": "normal",
+        "power": "120",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Provoca un da�o de retroceso al usuario equivalente al 33% del da�o provocado al rival."
+    },
+    {
+        "name": "L�tigo",
+        "type": "normal",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Baja un nivel la Defensa al rival."
+    },
+    {
+        "name": "Picotazo Ven",
+        "type": "veneno",
+        "power": "15",
+        "pp": "35",
+        "accuracy": "100%",
+        "effect": "30% de envenenar al rival."
+    },
+    {
+        "name": "Doble Ataque",
+        "type": "bicho",
+        "power": "25",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "20% de envenenar al rival. Golpea 2 veces seguidas."
+    },
+    {
+        "name": "Pin Misil",
+        "type": "bicho",
+        "power": "25",
+        "pp": "20",
+        "accuracy": "95%",
+        "effect": "Golpea de 2 a 5 veces seguidas."
+    },
+    {
+        "name": "Malicioso",
+        "type": "normal",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Baja un nivel la Defensa al rival."
+    },
+    {
+        "name": "Mordisco",
+        "type": "siniestro",
+        "power": "60",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "30% de hacer retroceder al rival."
+    },
+    {
+        "name": "Gru�ido",
+        "type": "normal",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "100%",
+        "effect": "Baja un nivel el Ataque al rival."
+    },
+    {
+        "name": "Rugido",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "El Pok�mon rival es intercambiado por otro al azar del entrenador rival. Si es salvaje, huir�."
+    },
+    {
+        "name": "Canto",
+        "type": "normal",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "55%",
+        "effect": "Provoca Sue�o."
+    },
+    {
+        "name": "Supers�nico",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "55%",
+        "effect": "Provoca Confusi�n."
+    },
+    {
+        "name": "Bomba S�nica",
+        "type": "normal",
+        "power": "1",
+        "pp": "20",
+        "accuracy": "90%",
+        "effect": "Causa un da�o de 20 PS al Pok�mon rival."
+    },
+    {
+        "name": "Anulaci�n",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "El Pok�mon rival no puede usar el �ltimo movimiento que ha usado de 4 a 7 turnos."
+    },
+    {
+        "name": "�cido",
+        "type": "veneno",
+        "power": "40",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "10% de reducir un nivel la Defensa Especial al rival."
+    },
+    {
+        "name": "Ascuas",
+        "type": "fuego",
+        "power": "40",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "10% de quemar al rival."
+    },
+    {
+        "name": "Lanzallamas",
+        "type": "fuego",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "10% de quemar al rival."
+    },
+    {
+        "name": "Neblina",
+        "type": "hielo",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "--",
+        "effect": "Impide las reducciones de stats por parte de los movimientos del rival o tu compa�ero durante 5 turnos."
+    },
+    {
+        "name": "Pistola Agua",
+        "type": "agua",
+        "power": "40",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Hidrobomba",
+        "type": "agua",
+        "power": "110",
+        "pp": "5",
+        "accuracy": "80%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Surf",
+        "type": "agua",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El poder base se duplica si el rival est� bajo el agua preparando un Buceo."
+    },
+    {
+        "name": "Rayo Hielo",
+        "type": "hielo",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "10% de congelar al rival."
+    },
+    {
+        "name": "Ventisca",
+        "type": "hielo",
+        "power": "110",
+        "pp": "5",
+        "accuracy": "70%",
+        "effect": "10% de congelar al rival. En Granizo no falla."
+    },
+    {
+        "name": "Psicorrayo",
+        "type": "psiquico",
+        "power": "65",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "10% de confundir al rival."
+    },
+    {
+        "name": "Rayo Burbuja",
+        "type": "agua",
+        "power": "65",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "10% de reducir un nivel la Velocidad al rival."
+    },
+    {
+        "name": "Rayo Aurora",
+        "type": "hielo",
+        "power": "65",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "10% de reducir un nivel el Ataque al rival."
+    },
+    {
+        "name": "Hiperrayo",
+        "type": "normal",
+        "power": "150",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "Impide al usuario usar un movimiento o ser intercambiado en el siguiente turno."
+    },
+    {
+        "name": "Picotazo",
+        "type": "volador",
+        "power": "35",
+        "pp": "35",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Pico Taladro",
+        "type": "volador",
+        "power": "80",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Sumisi�n",
+        "type": "lucha",
+        "power": "80",
+        "pp": "20",
+        "accuracy": "80%",
+        "effect": "Provoca un da�o de retroceso del 25% del da�o provocado al Pok�mon rival."
+    },
+    {
+        "name": "Patada Baja",
+        "type": "lucha",
+        "power": "1",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Este movimiento tiene un poder base variable entre 20 y 120, en funci�n del peso del Pok�mon rival."
+    },
+    {
+        "name": "Contraataque",
+        "type": "lucha",
+        "power": "1",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Si el usuario es golpeado por un ataque f�sico el mismo turno en que usa este movimiento, le devolver� al atacante el doble del da�o recibido."
+    },
+    {
+        "name": "Mov. S�smico",
+        "type": "lucha",
+        "power": "1",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Causa un da�o equivalente al nivel del usuario."
+    },
+    {
+        "name": "Fuerza",
+        "type": "normal",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Absorber",
+        "type": "planta",
+        "power": "20",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "El usuario recupera PS equivalente a la mitad del da�o causado."
+    },
+    {
+        "name": "Megaagotar",
+        "type": "planta",
+        "power": "40",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El usuario recupera PS equivalente a la mitad del da�o causado."
+    },
+    {
+        "name": "Drenadoras",
+        "type": "planta",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Hace perder al rival un 12.5% de su PS cada turno, y lo transfiere a nuestro Pok�mon. Inefectivo contra Pok�mon de tipo Planta."
+    },
+    {
+        "name": "Desarrollo",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel el Ataque y el Ataque Especial al usuario. En D�a Soleado el aumento es de dos niveles."
+    },
+    {
+        "name": "Hoja Afilada",
+        "type": "planta",
+        "power": "55",
+        "pp": "25",
+        "accuracy": "95%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Rayo Solar",
+        "type": "planta",
+        "power": "120",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Precisa un turno de carga, salvo en D�a Soleado. En Llovizna, Granizo y Tormenta de Arena su poder base es la mitad."
+    },
+    {
+        "name": "Polvo Veneno",
+        "type": "veneno",
+        "power": "--",
+        "pp": "35",
+        "accuracy": "75%",
+        "effect": "Provoca Envenenamiento."
+    },
+    {
+        "name": "Paralizador",
+        "type": "planta",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "75%",
+        "effect": "Provoca Par�lisis."
+    },
+    {
+        "name": "Somn�fero",
+        "type": "planta",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "75%",
+        "effect": "Provoca Sue�o."
+    },
+    {
+        "name": "Danza P�talo",
+        "type": "planta",
+        "power": "120",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El usuario golpea con este ataque durante 2 � 3 turnos sin poder ser intercambiado, tras lo cual pasa a estar confundido."
+    },
+    {
+        "name": "Disparo Demora",
+        "type": "bicho",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "95%",
+        "effect": "Baja un nivel la Velocidad al rival."
+    },
+    {
+        "name": "Furia Drag�n",
+        "type": "dragon",
+        "power": "1",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Causa un da�o de 40 PS al Pok�mon rival."
+    },
+    {
+        "name": "Giro Fuego",
+        "type": "fuego",
+        "power": "35",
+        "pp": "15",
+        "accuracy": "85%",
+        "effect": "El Pok�mon rival permanece atrapado de 4 a 5 turnos, recibiendo un da�o del 12.5% del PS cada turno."
+    },
+    {
+        "name": "Impactrueno",
+        "type": "electrico",
+        "power": "40",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "10% de paralizar al rival."
+    },
+    {
+        "name": "Rayo",
+        "type": "electrico",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "10% de paralizar al rival."
+    },
+    {
+        "name": "Onda Trueno",
+        "type": "electrico",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "90%",
+        "effect": "Provoca Par�lisis."
+    },
+    {
+        "name": "Trueno",
+        "type": "electrico",
+        "power": "110",
+        "pp": "10",
+        "accuracy": "70%",
+        "effect": "30% de paralizar al rival. Golpea a Pok�mon en mitad de un Vuelo, Bote o Ca�da Libre. En Llovizna no falla. En D�a Soleado tiene 50% de precisi�n."
+    },
+    {
+        "name": "Lanzarrocas",
+        "type": "roca",
+        "power": "50",
+        "pp": "15",
+        "accuracy": "90%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Terremoto",
+        "type": "tierra",
+        "power": "100",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El da�o es doble si golpea a un Pok�mon en mitad de una excavaci�n."
+    },
+    {
+        "name": "Fisura",
+        "type": "tierra",
+        "power": "1",
+        "pp": "5",
+        "accuracy": "30%",
+        "effect": "Puede debilitar al Pok�mon rival de un solo golpe."
+    },
+    {
+        "name": "Excavar",
+        "type": "tierra",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Precisa un turno de preparaci�n bajo tierra, en que s�lo puede ser golpeado por Terremoto y Magnitud, con el doble de poder base."
+    },
+    {
+        "name": "T�xico",
+        "type": "veneno",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Provoca Intoxicaci�n."
+    },
+    {
+        "name": "Confusi�n",
+        "type": "psiquico",
+        "power": "50",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "10% de confundir al rival."
+    },
+    {
+        "name": "Ps�quico",
+        "type": "psiquico",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "10% de reducir un nivel la Defensa Especial al rival."
+    },
+    {
+        "name": "Hipnosis",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "60%",
+        "effect": "Provoca Sue�o."
+    },
+    {
+        "name": "Meditaci�n",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel el Ataque al usuario."
+    },
+    {
+        "name": "Agilidad",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "--",
+        "effect": "Aumenta dos niveles la Velocidad al usuario."
+    },
+    {
+        "name": "Ataque R�pido",
+        "type": "normal",
+        "power": "40",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Golpea primero."
+    },
+    {
+        "name": "Furia",
+        "type": "normal",
+        "power": "20",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Aumenta un nivel el Ataque al usuario si �ste es golpeado entre que usa este movimiento y el siguiente."
+    },
+    {
+        "name": "Teletransporte",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Termina la batalla contra Pok�mon salvajes, no tiene efecto en batalla contra entrenadores."
+    },
+    {
+        "name": "Tinieblas",
+        "type": "fantasma",
+        "power": "1",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Causa un da�o equivalente al nivel del usuario."
+    },
+    {
+        "name": "Mim�tico",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Este movimiento se ve sustituido por el �ltimo ataque utilizado por el Pok�mon rival (con 5 PP) por el resto de la batalla o hasta su intercambio."
+    },
+    {
+        "name": "Chirrido",
+        "type": "normal",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "85%",
+        "effect": "Baja dos niveles la Defensa al rival."
+    },
+    {
+        "name": "Doble Equipo",
+        "type": "normal",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel la Evasi�n al usuario."
+    },
+    {
+        "name": "Recuperaci�n",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario recupera el 50% de su PS m�ximo."
+    },
+    {
+        "name": "Fortaleza",
+        "type": "normal",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel la Defensa al usuario."
+    },
+    {
+        "name": "Reducci�n",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Aumenta dos niveles la Evasi�n. El Pok�mon recibe el doble de da�o de Pisot�n y Rodillo de P�as, que no ven reducida su precisi�n."
+    },
+    {
+        "name": "Pantalla de Humo",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Baja un nivel la Precisi�n al rival."
+    },
+    {
+        "name": "Rayo Confuso",
+        "type": "fantasma",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Provoca Confusi�n."
+    },
+    {
+        "name": "Refugio",
+        "type": "agua",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel la Defensa al usuario."
+    },
+    {
+        "name": "Rizo Defensa",
+        "type": "normal",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel la Defensa al usuario. Duplica el poder base de Desenrollar y Bola Hielo."
+    },
+    {
+        "name": "Barrera",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta dos niveles la Defensa al usuario."
+    },
+    {
+        "name": "Pantalla de Luz",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "--",
+        "effect": "Reduce el da�o provocado a tu Pok�mon por ataques especiales del rival en un 50% (33% en 2vs2) durante 5 turnos."
+    },
+    {
+        "name": "Niebla",
+        "type": "hielo",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "--",
+        "effect": "Elimina todos los modificadores de stats de todos los Pok�mon."
+    },
+    {
+        "name": "Reflejo",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Reduce el da�o provocado a tu Pok�mon por ataques f�sicos del rival en un 50% (33% en 2vs2) durante 5 turnos."
+    },
+    {
+        "name": "Foco Energ�a",
+        "type": "normal",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "--",
+        "effect": "Aumenta la probabilidad de que el Pok�mon haga Golpe Cr�tico."
+    },
+    {
+        "name": "Venganza",
+        "type": "normal",
+        "power": "1",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Aguanta todos los golpes de su rival durante 2 turnos, para luego causarle un da�o en PS equivalente al doble del recibido por �l."
+    },
+    {
+        "name": "Metr�nomo",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Usa un movimiento al azar."
+    },
+    {
+        "name": "Mov. Espejo",
+        "type": "volador",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Usa el �ltimo movimiento que ha utilizado el Pok�mon rival."
+    },
+    {
+        "name": "Autodestrucci�n",
+        "type": "normal",
+        "power": "200",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El usuario cae debilitado tras usar este movimiento. El movimiento fallar� si su objetivo desaparece."
+    },
+    {
+        "name": "Bomba Huevo",
+        "type": "normal",
+        "power": "100",
+        "pp": "10",
+        "accuracy": "75%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Leng�etazo",
+        "type": "fantasma",
+        "power": "30",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "30% de paralizar al rival."
+    },
+    {
+        "name": "Poluci�n",
+        "type": "veneno",
+        "power": "30",
+        "pp": "20",
+        "accuracy": "70%",
+        "effect": "40% de envenenar al rival."
+    },
+    {
+        "name": "Residuos",
+        "type": "veneno",
+        "power": "65",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "30% de envenenar al rival."
+    },
+    {
+        "name": "Hueso Palo",
+        "type": "tierra",
+        "power": "65",
+        "pp": "20",
+        "accuracy": "85%",
+        "effect": "10% de hacer retroceder al rival."
+    },
+    {
+        "name": "Llamarada",
+        "type": "fuego",
+        "power": "110",
+        "pp": "5",
+        "accuracy": "85%",
+        "effect": "10% de quemar al rival."
+    },
+    {
+        "name": "Cascada",
+        "type": "agua",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "20% de hacer retroceder al rival."
+    },
+    {
+        "name": "Tenaza",
+        "type": "agua",
+        "power": "35",
+        "pp": "10",
+        "accuracy": "85%",
+        "effect": "El Pok�mon rival permanece atrapado de 4 a 5 turnos, recibiendo un da�o del 12.5% del PS cada turno."
+    },
+    {
+        "name": "Rapidez",
+        "type": "normal",
+        "power": "60",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Siempre golpea."
+    },
+    {
+        "name": "Cabezazo",
+        "type": "normal",
+        "power": "130",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "100% de aumentar un nivel la Defensa al usuario el primer turno. Golpea en el segundo turno."
+    },
+    {
+        "name": "Clavo Ca��n",
+        "type": "normal",
+        "power": "20",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Golpea de 2 a 5 veces seguidas."
+    },
+    {
+        "name": "Restricci�n",
+        "type": "normal",
+        "power": "10",
+        "pp": "35",
+        "accuracy": "100%",
+        "effect": "10% de reducir un nivel la Velocidad al rival."
+    },
+    {
+        "name": "Amnesia",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta dos niveles la Defensa Especial al usuario."
+    },
+    {
+        "name": "Kin�tico",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "80%",
+        "effect": "Baja un nivel la Precisi�n al rival."
+    },
+    {
+        "name": "Amortiguador",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario recupera el 50% de su PS m�ximo."
+    },
+    {
+        "name": "Pat. Salto Alta",
+        "type": "lucha",
+        "power": "130",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Si el ataque falla, el usuario recibe un da�o equivalente al 50% de su PS m�ximo."
+    },
+    {
+        "name": "Deslumbrar",
+        "type": "normal",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Provoca Par�lisis."
+    },
+    {
+        "name": "Come Sue�os",
+        "type": "psiquico",
+        "power": "100",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Restaura PS equivalente a la mitad del da�o hecho al rival. Surte efectos s�lo si el objetivo est� dormido."
+    },
+    {
+        "name": "Gas Venenoso",
+        "type": "veneno",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "90%",
+        "effect": "Provoca Envenenamiento."
+    },
+    {
+        "name": "Presa",
+        "type": "normal",
+        "power": "15",
+        "pp": "20",
+        "accuracy": "85%",
+        "effect": "Golpea de 2 a 5 veces seguidas."
+    },
+    {
+        "name": "Chupavidas",
+        "type": "bicho",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El usuario recupera PS equivalente a la mitad del da�o causado."
+    },
+    {
+        "name": "Beso Amoroso",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "75%",
+        "effect": "Provoca Sue�o."
+    },
+    {
+        "name": "Ataque A�reo",
+        "type": "volador",
+        "power": "140",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "30% de hacer retroceder al rival. Se prepara el primer turno para atacar en el segundo."
+    },
+    {
+        "name": "Transformaci�n",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario pasa a ser una copia casi id�ntica del Pok�mon objetivo, incluyendo stats (salvo PS), apariencia, movimientos (con 5 PP) y habilidades."
+    },
+    {
+        "name": "Burbuja",
+        "type": "agua",
+        "power": "40",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "10% de reducir un nivel la Velocidad al rival."
+    },
+    {
+        "name": "Pu�o Mareo",
+        "type": "normal",
+        "power": "70",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "20% de confundir al rival."
+    },
+    {
+        "name": "Espora",
+        "type": "planta",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Provoca Sue�o."
+    },
+    {
+        "name": "Destello",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Baja un nivel la Precisi�n al rival."
+    },
+    {
+        "name": "Psicoonda",
+        "type": "psiquico",
+        "power": "1",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Causa un da�o equivalente a 0.5 a 1.5 veces el nivel del usuario."
+    },
+    {
+        "name": "Salpicadura",
+        "type": "normal",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "--",
+        "effect": "No hace nada."
+    },
+    {
+        "name": "Armadura �cida",
+        "type": "veneno",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta dos niveles la Defensa al usuario."
+    },
+    {
+        "name": "Martillazo",
+        "type": "agua",
+        "power": "100",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Explosi�n",
+        "type": "normal",
+        "power": "250",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El usuario cae debilitado tras usar este movimiento. El movimiento fallar� si su objetivo desaparece."
+    },
+    {
+        "name": "Golpes Furia",
+        "type": "normal",
+        "power": "18",
+        "pp": "15",
+        "accuracy": "80%",
+        "effect": "Golpea de 2 a 5 veces seguidas."
+    },
+    {
+        "name": "Huesomerang",
+        "type": "tierra",
+        "power": "50",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Golpea 2 veces seguidas."
+    },
+    {
+        "name": "Descanso",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Duerme al usuario por 2 turnos y recupera todo su PS."
+    },
+    {
+        "name": "Avalancha",
+        "type": "roca",
+        "power": "75",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "30% de hacer retroceder al rival."
+    },
+    {
+        "name": "Hipercolmillo",
+        "type": "normal",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "90%",
+        "effect": "10% de hacer retroceder al rival."
+    },
+    {
+        "name": "Afilar",
+        "type": "normal",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel el Ataque al usuario."
+    },
+    {
+        "name": "Conversi�n",
+        "type": "normal",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "--",
+        "effect": "El tipo Pok�mon del usuario cambia al tipo de uno de sus movimientos al azar (Poder Oculto y Meteorobola cuentan como de tipo Normal)."
+    },
+    {
+        "name": "Triataque",
+        "type": "normal",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "20% de quemar, congelar o paralizar al rival."
+    },
+    {
+        "name": "Superdiente",
+        "type": "normal",
+        "power": "1",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Causa un da�o equivalente a la mitad del PS que le queda al Pok�mon rival."
+    },
+    {
+        "name": "Cuchillada",
+        "type": "normal",
+        "power": "70",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Sustituto",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Crea un Sustituto con el 25% del PS m�ximo del usuario."
+    },
+    {
+        "name": "Forcejeo",
+        "type": "normal",
+        "power": "50",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Puede ser usado ilimitadas veces por cualquier Pok�mon que haya agotado los PP de todos sus movimientos o no los pueda usar. Causa da�o de retroceso del 25% del PS m�x."
+    },
+    {
+        "name": "Esquema",
+        "type": "normal",
+        "power": "--",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Copia el �ltimo movimiento intentado por el rival de manera permanente, de manera que ocupar� la posici�n de este movimiento incluso tras terminar la batalla."
+    },
+    {
+        "name": "Triple Patada",
+        "type": "lucha",
+        "power": "10",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Golpea 3 veces el mismo turno, con 10, 20 y 30 de poder base respectivamente. Si alg�n golpe falla, el resto no se ejecutan."
+    },
+    {
+        "name": "Ladr�n",
+        "type": "siniestro",
+        "power": "60",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "Toma el objeto del rival si no tiene nada equipado, incluso aunque el rival caiga debilitado a consecuencia del ataque."
+    },
+    {
+        "name": "Telara�a",
+        "type": "bicho",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Impide al rival ser intercambiado, salvo usando Relevo, Ida y Vuelta, Voltiocambio o �ltima Palabra, o si tiene Muda Concha o Bot�n Escape."
+    },
+    {
+        "name": "Tel�pata",
+        "type": "normal",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "El siguiente movimiento que utilice el Pok�mon no fallar�."
+    },
+    {
+        "name": "Pesadilla",
+        "type": "fantasma",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Causa un 25% de da�o al Pok�mon rival cada turno mientras permanezca dormido."
+    },
+    {
+        "name": "Rueda Fuego",
+        "type": "fuego",
+        "power": "60",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "10% de quemar al rival. Puede ser utilizado incluso cuando el Pok�mon est� congelado, curando autom�ticamente la congelaci�n."
+    },
+    {
+        "name": "Ronquido",
+        "type": "normal",
+        "power": "50",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "30% de hacer retroceder al rival. S�lo puede ser utilizado cuando el Pok�mon est� dormido."
+    },
+    {
+        "name": "Maldici�n",
+        "type": "fantasma",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel el Ataque y la Defensa y reduce un nivel la Velocidad al usuario. Usado por un Fantasma, pierde 50% de PS m�x. y el rival pierde un 25% de PS cada turno."
+    },
+    {
+        "name": "Azote",
+        "type": "normal",
+        "power": "1",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El poder base de este movimiento es mayor cuanto menor el PS restante del usuario."
+    },
+    {
+        "name": "Conversi�n2",
+        "type": "normal",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "--",
+        "effect": "El tipo del usuario cambia a un tipo al azar de entre los que son resistentes o inmunes al tipo del �ltimo movimiento utilizado por el rival."
+    },
+    {
+        "name": "Aerochorro",
+        "type": "volador",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "95%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Esporagod�n",
+        "type": "planta",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "100%",
+        "effect": "Baja dos niveles la Velocidad al rival."
+    },
+    {
+        "name": "Inversi�n",
+        "type": "lucha",
+        "power": "1",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El poder base de este movimiento es mayor cuanto menor el PS restante del usuario."
+    },
+    {
+        "name": "Rencor",
+        "type": "fantasma",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El �ltimo movimiento utilizado por el rival ver� reducidos sus PP en 4."
+    },
+    {
+        "name": "Nieve Polvo",
+        "type": "hielo",
+        "power": "40",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "10% de congelar al rival."
+    },
+    {
+        "name": "Protecci�n",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Evita todo da�o directo y efectos de movimientos del rival. Su precisi�n se reduce con cada uso consecutivo."
+    },
+    {
+        "name": "Ultrapu�o",
+        "type": "lucha",
+        "power": "40",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Golpea primero."
+    },
+    {
+        "name": "Cara Susto",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Baja dos niveles la Velocidad al rival."
+    },
+    {
+        "name": "Finta",
+        "type": "siniestro",
+        "power": "60",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Siempre golpea."
+    },
+    {
+        "name": "Beso Dulce",
+        "type": "hada",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "75%",
+        "effect": "Provoca Confusi�n."
+    },
+    {
+        "name": "Tambor",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Aumenta seis niveles el Ataque al usuario, que pierde la mitad de su PS m�ximo. Si el usuario tiene 50% de PS o menos, el movimiento falla."
+    },
+    {
+        "name": "Bomba Lodo",
+        "type": "veneno",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "30% de envenenar al rival."
+    },
+    {
+        "name": "Bofet�n Lodo",
+        "type": "tierra",
+        "power": "20",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "100% de reducir un nivel la Precisi�n al rival."
+    },
+    {
+        "name": "Pulpoca��n",
+        "type": "agua",
+        "power": "65",
+        "pp": "10",
+        "accuracy": "85%",
+        "effect": "50% de reducir un nivel la Precisi�n al rival."
+    },
+    {
+        "name": "P�as",
+        "type": "tierra",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "El Pok�mon que salga a luchar recibir� un da�o equivalente al 12.5% de PS (16.66% con 2 filas, 25% con 3 filas). No afecta a Pok�mon voladores o levitadores."
+    },
+    {
+        "name": "Electroca��n",
+        "type": "electrico",
+        "power": "120",
+        "pp": "5",
+        "accuracy": "50%",
+        "effect": "100% de paralizar al rival."
+    },
+    {
+        "name": "Profec�a",
+        "type": "normal",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "--",
+        "effect": "Hasta el intercambio o derrota del rival, su Evasi�n y tu Precisi�n no pueden ser modificados. Si el rival es de tipo Fantasma, no es inmune a ataques de tipo Normal o Lucha."
+    },
+    {
+        "name": "Mismo Destino",
+        "type": "fantasma",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Si el usuario cae debilitado por un ataque del rival antes de usar otro ataque, el Pok�mon rival cae tambi�n debilitado."
+    },
+    {
+        "name": "Canto Mortal",
+        "type": "normal",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Todos los Pok�mon en batalla al producirse este ataque caer�n debilitados al cabo de tres turnos salvo que sean intercambiados (sin Relevo)."
+    },
+    {
+        "name": "Viento Hielo",
+        "type": "hielo",
+        "power": "55",
+        "pp": "15",
+        "accuracy": "95%",
+        "effect": "100% de reducir un nivel la Velocidad al rival."
+    },
+    {
+        "name": "Detecci�n",
+        "type": "lucha",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Evita todo da�o directo y efectos de movimientos del rival. Su precisi�n se reduce con cada uso consecutivo."
+    },
+    {
+        "name": "Ataque �seo",
+        "type": "tierra",
+        "power": "25",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Golpea de 2 a 5 veces seguidas."
+    },
+    {
+        "name": "Fijar Blanco",
+        "type": "normal",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "El siguiente movimiento que utilice el Pok�mon no fallar�."
+    },
+    {
+        "name": "Enfado",
+        "type": "dragon",
+        "power": "120",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El usuario golpea con este ataque durante 2 � 3 turnos sin poder ser intercambiado, tras lo cual pasa a estar confundido."
+    },
+    {
+        "name": "Tormenta Arena",
+        "type": "roca",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Provoca Tormenta de Arena."
+    },
+    {
+        "name": "Gigadrenado",
+        "type": "planta",
+        "power": "75",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El usuario recupera PS equivalente a la mitad del da�o causado."
+    },
+    {
+        "name": "Aguante",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario resiste con vida todo ataque con al menos 1 PS. Su precisi�n se reduce con cada uso consecutivo."
+    },
+    {
+        "name": "Encanto",
+        "type": "hada",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Baja dos niveles el Ataque al rival."
+    },
+    {
+        "name": "Desenrollar",
+        "type": "roca",
+        "power": "30",
+        "pp": "20",
+        "accuracy": "90%",
+        "effect": "El usuario debe usar este movimiento por hasta 5 turnos (mientras no falle). Por cada turno que use el ataque, su poder base se dobla."
+    },
+    {
+        "name": "Falsotortazo",
+        "type": "normal",
+        "power": "40",
+        "pp": "40",
+        "accuracy": "100%",
+        "effect": "Deja al rival con al menos 1 PS."
+    },
+    {
+        "name": "Contoneo",
+        "type": "normal",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "85%",
+        "effect": "Provoca Confusi�n. Aumenta dos niveles el Ataque al rival."
+    },
+    {
+        "name": "Batido",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario recupera el 50% de su PS m�ximo."
+    },
+    {
+        "name": "Chispa",
+        "type": "electrico",
+        "power": "65",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "30% de paralizar al rival."
+    },
+    {
+        "name": "Corte Furia",
+        "type": "bicho",
+        "power": "40",
+        "pp": "20",
+        "accuracy": "95%",
+        "effect": "Por cada turno que el ataque sea usado y acierte, su poder base se dobla, pero s�lo durante 4 turnos. Puedes usar otros movimientos entre medias sin perder el bonus."
+    },
+    {
+        "name": "Ala de Acero",
+        "type": "acero",
+        "power": "70",
+        "pp": "25",
+        "accuracy": "90%",
+        "effect": "10% de aumentar un nivel la Defensa al usuario."
+    },
+    {
+        "name": "Mal de Ojo",
+        "type": "normal",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Impide al rival ser intercambiado, salvo usando Relevo, Ida y Vuelta, Voltiocambio o �ltima Palabra, o si tiene Muda Concha o Bot�n Escape."
+    },
+    {
+        "name": "Atracci�n",
+        "type": "normal",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Provoca una atracci�n al rival del g�nero contrario."
+    },
+    {
+        "name": "Son�mbulo",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario utiliza uno de sus movimientos al azar mientras est� dormido."
+    },
+    {
+        "name": "Campana Cura",
+        "type": "normal",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Cura cualquier problema de estado de cualquier miembro de tu equipo."
+    },
+    {
+        "name": "Retribuci�n",
+        "type": "normal",
+        "power": "1",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Su poder base depende de la Felicidad del Pok�mon, entre 0 y 102."
+    },
+    {
+        "name": "Presente",
+        "type": "normal",
+        "power": "1",
+        "pp": "15",
+        "accuracy": "90%",
+        "effect": "25% de recuperar 80 PS al usuario, 25% de golpear con 40 de poder, 25% de golpear con 80 de poder, 25% de golpear con 120 de poder."
+    },
+    {
+        "name": "Frustraci�n",
+        "type": "normal",
+        "power": "1",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Su poder base depende de la Infelicidad del Pok�mon, entre 0 y 102."
+    },
+    {
+        "name": "Velo Sagrado",
+        "type": "normal",
+        "power": "--",
+        "pp": "25",
+        "accuracy": "--",
+        "effect": "Previene cambios de estado permanentes, P�as T�xicas y confusi�n por 5 turnos al usuario y sus compa�eros."
+    },
+    {
+        "name": "Divide Dolor",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Suma los PS actuales del usuario y del rival y luego los reparte por igual entre los dos."
+    },
+    {
+        "name": "Fuego Sagrado",
+        "type": "fuego",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "95%",
+        "effect": "50% de quemar al rival. Puede ser utilizado incluso cuando el Pok�mon est� congelado, curando autom�ticamente la congelaci�n."
+    },
+    {
+        "name": "Magnitud",
+        "type": "tierra",
+        "power": "1",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Este movimiento tiene un poder base variable entre 10 y 150. El da�o es doble si golpea a un Pok�mon en mitad de una excavaci�n."
+    },
+    {
+        "name": "Pu�o Din�mico",
+        "type": "lucha",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "50%",
+        "effect": "100% de confundir al rival."
+    },
+    {
+        "name": "Megacuerno",
+        "type": "bicho",
+        "power": "120",
+        "pp": "10",
+        "accuracy": "85%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Dragoaliento",
+        "type": "dragon",
+        "power": "60",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "30% de paralizar al rival."
+    },
+    {
+        "name": "Relevo",
+        "type": "normal",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "--",
+        "effect": "El Pok�mon usuario es intercambiado por otro Pok�mon del equipo a elegir, conservando ciertos modificadores y estados."
+    },
+    {
+        "name": "Otra Vez",
+        "type": "normal",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El Pok�mon objetivo queda obligado a usar el �ltimo movimiento que haya usado durante 3 turnos."
+    },
+    {
+        "name": "Persecuci�n",
+        "type": "siniestro",
+        "power": "40",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Este movimiento puede golpear al Pok�mon del rival aun cuando �ste va a ser intercambiado ese turno, duplicando su poder base en el golpe."
+    },
+    {
+        "name": "Giro R�pido",
+        "type": "normal",
+        "power": "20",
+        "pp": "40",
+        "accuracy": "100%",
+        "effect": "Elimina los efectos de P�as, P�as T�xicas, Trampa Rocas, Drenadoras y pseudo-trampas."
+    },
+    {
+        "name": "Dulce Aroma",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Baja un nivel la Evasi�n al rival."
+    },
+    {
+        "name": "Cola F�rrea",
+        "type": "acero",
+        "power": "100",
+        "pp": "15",
+        "accuracy": "75%",
+        "effect": "30% de reducir un nivel la Defensa al rival."
+    },
+    {
+        "name": "Garra Metal",
+        "type": "acero",
+        "power": "50",
+        "pp": "35",
+        "accuracy": "95%",
+        "effect": "10% de aumentar un nivel el Ataque al usuario."
+    },
+    {
+        "name": "Tiro Vital",
+        "type": "lucha",
+        "power": "70",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Siempre golpea. Golpea �ltimo."
+    },
+    {
+        "name": "Sol Matinal",
+        "type": "normal",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "El usuario recupera 66.6% PS en D�a Soleado, 50% PS si no hay clima, y 25% en Llovizna, Granizo o Tormenta de Arena."
+    },
+    {
+        "name": "S�ntesis",
+        "type": "planta",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "El usuario recupera 66.6% PS en D�a Soleado, 50% PS si no hay clima, y 25% en Llovizna, Granizo o Tormenta de Arena."
+    },
+    {
+        "name": "Luz Lunar",
+        "type": "hada",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "El usuario recupera 66.6% PS en D�a Soleado, 50% PS si no hay clima, y 25% en Llovizna, Granizo o Tormenta de Arena."
+    },
+    {
+        "name": "Poder Oculto",
+        "type": "normal",
+        "power": "60",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Este movimiento tiene un tipo variable y un poder base variable entre 30 y 70, dependiendo de los IV′s del usuario."
+    },
+    {
+        "name": "Tajo Cruzado",
+        "type": "lucha",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "80%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Cicl�n",
+        "type": "dragon",
+        "power": "40",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "20% de hacer retroceder al rival. Golpea a Pok�mon en mitad de un Vuelo, Bote o Ca�da Libre con el doble de poder base."
+    },
+    {
+        "name": "Danza Lluvia",
+        "type": "agua",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Provoca Llovizna."
+    },
+    {
+        "name": "D�a Soleado",
+        "type": "fuego",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Provoca D�a Soleado."
+    },
+    {
+        "name": "Triturar",
+        "type": "siniestro",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "20% de reducir un nivel la Defensa al rival."
+    },
+    {
+        "name": "Manto Espejo",
+        "type": "psiquico",
+        "power": "1",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Si el usuario es golpeado por un ataque especial el mismo turno en que usa este movimiento, le devolver� al atacante el doble del da�o recibido."
+    },
+    {
+        "name": "M�s Psique",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Copia los modificadores de stats del Pok�mon rival."
+    },
+    {
+        "name": "Veloc. Extrema",
+        "type": "normal",
+        "power": "80",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "Golpea primero."
+    },
+    {
+        "name": "Poder Pasado",
+        "type": "roca",
+        "power": "60",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "10% de aumentar un nivel el Ataque, la Defensa, la Velocidad, el Ataque Especial y la Defensa Especial al usuario."
+    },
+    {
+        "name": "Bola Sombra",
+        "type": "fantasma",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "20% de reducir un nivel la Defensa Especial al rival."
+    },
+    {
+        "name": "Premonici�n",
+        "type": "psiquico",
+        "power": "120",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Este ataque golpear� al objetivo al final del segundo turno tras su uso. Mientras, se pueden usar otros ataques y tanto el usuario como el rival pueden ser intercambiados."
+    },
+    {
+        "name": "Golpe Roca",
+        "type": "lucha",
+        "power": "40",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "50% de reducir un nivel la Defensa al rival."
+    },
+    {
+        "name": "Torbellino",
+        "type": "agua",
+        "power": "35",
+        "pp": "15",
+        "accuracy": "85%",
+        "effect": "El rival permanece atrapado de 4 a 5 turnos, recibiendo un da�o del 6.25% del PS cada turno. El poder base se duplica si el rival preparando un Buceo."
+    },
+    {
+        "name": "Paliza",
+        "type": "siniestro",
+        "power": "1",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Cada Pok�mon del equipo que est� sano (sin estado) har� un ataque de poder base variable en funci�n de su stat base de Ataque. El da�o se calcula tambi�n con su Ataque."
+    },
+    {
+        "name": "Sorpresa",
+        "type": "normal",
+        "power": "40",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "100% de hacer retroceder al rival. Golpea primero. S�lo puede ser utilizado con �xito el primer turno de ataque del usuario tras ser intercambiado."
+    },
+    {
+        "name": "Alboroto",
+        "type": "normal",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Golpea 3 turnos seguidos, causando un Alboroto que impide que los Pok�mon se duerman y despierta a los Pok�mon dormidos."
+    },
+    {
+        "name": "Reserva",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "El usuario suma un contador de Reserva (m�x. 3). Aumentan  un nivel la Defensa y Defensa Especial del usuario. Pueden ser pasados mediante Relevo y usados con Escupir y Tragar."
+    },
+    {
+        "name": "Escupir",
+        "type": "normal",
+        "power": "1",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Cada contador de Reserva que tenga el usuario (m�x. 3) suma 100 a su poder base. Resetea los contadores y con ello la mejora en defensas."
+    },
+    {
+        "name": "Tragar",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario recupera PS seg�n sus contadores de Reserva: 25% PS con uno, 50% PS con dos, 100% PS con tres. Resetea los contadores y con ello la mejora en defensas."
+    },
+    {
+        "name": "Onda �gnea",
+        "type": "fuego",
+        "power": "95",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "10% de quemar al rival."
+    },
+    {
+        "name": "Granizo",
+        "type": "hielo",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Provoca Granizo."
+    },
+    {
+        "name": "Tormento",
+        "type": "siniestro",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El rival no puede usar el mismo ataque dos veces seguidas."
+    },
+    {
+        "name": "Camelo",
+        "type": "siniestro",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Provoca Confusi�n. Aumenta un nivel el Ataque Especial al rival."
+    },
+    {
+        "name": "Fuego Fatuo",
+        "type": "fuego",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "85%",
+        "effect": "Provoca Quemadura. Activa la habilidad Absorbe Fuego."
+    },
+    {
+        "name": "Legado",
+        "type": "siniestro",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El usuario se debilita. Baja dos niveles el Ataque y el Ataque Especial del rival."
+    },
+    {
+        "name": "Imagen",
+        "type": "normal",
+        "power": "70",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "El poder base se duplica si el usuario est� Quemado, Paralizado o Envenenado."
+    },
+    {
+        "name": "Pu�o Certero",
+        "type": "lucha",
+        "power": "150",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Ataca �ltimo si no es golpeado."
+    },
+    {
+        "name": "Est�mulo",
+        "type": "normal",
+        "power": "70",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El poder base se duplica si golpea a un Pok�mon paralizado, cur�ndole la par�lisis."
+    },
+    {
+        "name": "Se�uelo",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "En batallas m�ltiples, los ataques que usen los Pok�mon rivales ese turno golpear�n al usuario, ignorando la elecci�n de su entrenador. No afecta a los ataques varios objetivos."
+    },
+    {
+        "name": "Adaptaci�n",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Este movimiento se convierte en otro movimiento seg�n el terreno en que tenga lugar la batalla."
+    },
+    {
+        "name": "Carga",
+        "type": "electrico",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "El movimiento de tipo El�ctrico que el usuario use el siguiente turno ver� su poder base duplicado. Aumenta un nivel la Defensa Especial al usuario."
+    },
+    {
+        "name": "Mofa",
+        "type": "siniestro",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "El rival no puede utilizar movimientos que no causen da�o durante los pr�ximos 3 turnos."
+    },
+    {
+        "name": "Refuerzo",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "En batallas m�ltiples, el ataque que use su compa�ero ese turno ver� aumentado su poder base en un 50%."
+    },
+    {
+        "name": "Truco",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El usuario y el rival intercambian sus objetos durante el resto de la batalla. No funciona contra Pok�mon con la habilidad Viscosidad."
+    },
+    {
+        "name": "Imitaci�n",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario adquiere la habilidad del rival mientras permanezca en batalla (salvo Superguarda o Multitipo)."
+    },
+    {
+        "name": "Deseo",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Recupera PS al Pok�mon que se encuentre activo el siguiente turno, sea el usuario u otro, por la mitad del PS m�ximo del usuario."
+    },
+    {
+        "name": "Ayuda",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Usa un movimiento al azar de entre los que conocen el resto de miembros de tu equipo que no est�n en batalla."
+    },
+    {
+        "name": "Arraigo",
+        "type": "planta",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "El usuario recupera un 6.25% de su PS m�ximo al final de cada turno, pero no puede ser intercambiado. Anula la inmunidad a Tierra de voladores y levitadores."
+    },
+    {
+        "name": "Fuerza Bruta",
+        "type": "lucha",
+        "power": "120",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "Baja un nivel el Ataque y la Defensa al usuario."
+    },
+    {
+        "name": "Capa M�gica",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Refleja al Pok�mon rival los efectos de movimientos que no causan da�o (modificador, estado alterado, confusi�n, atracci�n, trampa, drenadoras, abatidoras, bilis)."
+    },
+    {
+        "name": "Reciclaje",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario recupera el objeto equipado que haya consumido o perdido por Picadura, Lanzamiento, Don Natural o Picoteo."
+    },
+    {
+        "name": "Desquite",
+        "type": "lucha",
+        "power": "60",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El poder base se duplica si el usuario es golpeado antes de usar este movimiento en el mismo turno."
+    },
+    {
+        "name": "Demolici�n",
+        "type": "lucha",
+        "power": "75",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Destruye Pantalla de Luz, Reflejo y Velo Aurora, incluso si falla."
+    },
+    {
+        "name": "Bostezo",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Provoca un bostezo en el rival, que caer� dormido el siguiente turno salvo que sea intercambiado."
+    },
+    {
+        "name": "Desarme",
+        "type": "siniestro",
+        "power": "65",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "El rival pierde el objeto que pudiera tener equipado durante el resto de la batalla, salvo que tenga Viscosidad o Multitipo."
+    },
+    {
+        "name": "Esfuerzo",
+        "type": "normal",
+        "power": "1",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "Causa da�o equivalente a la diferencia entre el PS actual del rival y del usuario. No aplica resistencias, pero no afecta a Fantasma."
+    },
+    {
+        "name": "Estallido",
+        "type": "fuego",
+        "power": "150",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El poder de este movimiento ser� mayor cuanto mayor el PS del usuario. El da�o ser�: 150 x ( PS actual / PS total )."
+    },
+    {
+        "name": "Intercambio",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario intercambia la habilidad con el rival (salvo Superguarda y Multitipo)."
+    },
+    {
+        "name": "Cerca",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Mientras el usuario permanezca en batalla, los rivales no pueden usar movimientos que tambi�n conozca el usuario (incluso si los aprende en batalla)."
+    },
+    {
+        "name": "Alivio",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Cura al usuario de su Quemadura, Par�lisis o Envenenamiento."
+    },
+    {
+        "name": "Rabia",
+        "type": "fantasma",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Si el rival debilita al usuario con su siguiente movimiento, los PP de ese movimiento se reducir�n a cero."
+    },
+    {
+        "name": "Robo",
+        "type": "siniestro",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Roba el efecto secundario de los movimientos de apoyo que fuera a utilizar el rival ese turno, y lo utiliza en beneficio del usuario."
+    },
+    {
+        "name": "Da�o Secreto",
+        "type": "normal",
+        "power": "70",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "30% de que ocurra cierto efecto seg�n el terreno de la batalla."
+    },
+    {
+        "name": "Buceo",
+        "type": "agua",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Precisa un turno de preparaci�n bajo el agua, en que s�lo puede ser golpeado por Surf y Torbellino, con el doble de poder base."
+    },
+    {
+        "name": "Empuj�n",
+        "type": "lucha",
+        "power": "15",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Golpea de 2 a 5 veces seguidas."
+    },
+    {
+        "name": "Camuflaje",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Cambia el tipo del Pok�mon en funci�n del terreno de batalla."
+    },
+    {
+        "name": "R�faga",
+        "type": "bicho",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta tres niveles el Ataque Especial al usuario."
+    },
+    {
+        "name": "Resplandor",
+        "type": "psiquico",
+        "power": "70",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "50% de reducir un nivel la Defensa Especial al rival."
+    },
+    {
+        "name": "Bola Neblina",
+        "type": "psiquico",
+        "power": "70",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "50% de reducir un nivel el Ataque Especial al rival."
+    },
+    {
+        "name": "Danza Pluma",
+        "type": "volador",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Baja dos niveles el Ataque al rival."
+    },
+    {
+        "name": "Danza Caos",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Provoca Confusi�n al resto de Pok�mon en batalla."
+    },
+    {
+        "name": "Patada �gnea",
+        "type": "fuego",
+        "power": "85",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "10% de quemar al rival. Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Chapoteo Lodo",
+        "type": "tierra",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Todos los ataques tipo El�ctrico hacen la mitad de da�o hasta que el usuario sea intercambiado."
+    },
+    {
+        "name": "Bola Hielo",
+        "type": "hielo",
+        "power": "30",
+        "pp": "20",
+        "accuracy": "90%",
+        "effect": "El usuario debe usar este movimiento por hasta 5 turnos (mientras no falle). Por cada turno que use el ataque, su poder base se dobla."
+    },
+    {
+        "name": "Brazo Pincho",
+        "type": "planta",
+        "power": "60",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "30% de hacer retroceder al rival."
+    },
+    {
+        "name": "Relajo",
+        "type": "normal",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario recupera el 50% de su PS m�ximo."
+    },
+    {
+        "name": "Vozarr�n",
+        "type": "normal",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Colmillo Ven",
+        "type": "veneno",
+        "power": "50",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "50% de intoxicar al rival."
+    },
+    {
+        "name": "Garra Brutal",
+        "type": "normal",
+        "power": "75",
+        "pp": "10",
+        "accuracy": "95%",
+        "effect": "50% de reducir un nivel la Defensa al rival."
+    },
+    {
+        "name": "Anillo �gneo",
+        "type": "fuego",
+        "power": "150",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "Impide al usuario usar un movimiento o ser intercambiado en el siguiente turno."
+    },
+    {
+        "name": "Hidroca��n",
+        "type": "agua",
+        "power": "150",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "Impide al usuario usar un movimiento o ser intercambiado en el siguiente turno."
+    },
+    {
+        "name": "Pu�o Meteoro",
+        "type": "acero",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "20% de aumentar un nivel el Ataque al usuario."
+    },
+    {
+        "name": "Impresionar",
+        "type": "fantasma",
+        "power": "30",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "30% de hacer retroceder al rival."
+    },
+    {
+        "name": "Meteorobola",
+        "type": "normal",
+        "power": "50",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Su tipo ser� Agua en Llovizna, Fuego en D�a Soleado, Hielo en Granizo o Roca en Tormenta de Arena. El clima duplica su poder base."
+    },
+    {
+        "name": "Aromaterapia",
+        "type": "planta",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Cura cualquier problema de estado de cualquier miembro de tu equipo."
+    },
+    {
+        "name": "Llanto Falso",
+        "type": "siniestro",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Baja dos niveles la Defensa Especial al rival."
+    },
+    {
+        "name": "Aire Afilado",
+        "type": "volador",
+        "power": "60",
+        "pp": "25",
+        "accuracy": "95%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Sofoco",
+        "type": "fuego",
+        "power": "130",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "100% de reducir dos niveles el Ataque Especial al usuario."
+    },
+    {
+        "name": "Rastreo",
+        "type": "normal",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "--",
+        "effect": "Hasta el intercambio o derrota del rival, su Evasi�n y tu Precisi�n no pueden ser modificados. Si el rival es de tipo Fantasma, no es inmune a ataques de tipo Normal o Lucha."
+    },
+    {
+        "name": "Tumba Rocas",
+        "type": "roca",
+        "power": "60",
+        "pp": "15",
+        "accuracy": "95%",
+        "effect": "100% de reducir un nivel la Velocidad al rival."
+    },
+    {
+        "name": "Viento Plata",
+        "type": "bicho",
+        "power": "60",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "10% de aumentar un nivel el Ataque, la Defensa, la Velocidad, el Ataque Especial y la Defensa Especial al usuario."
+    },
+    {
+        "name": "Eco Met�lico",
+        "type": "acero",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "85%",
+        "effect": "Baja dos niveles la Defensa Especial al rival."
+    },
+    {
+        "name": "Silbato",
+        "type": "planta",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "55%",
+        "effect": "Provoca Sue�o."
+    },
+    {
+        "name": "Cosquillas",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Baja un nivel el Ataque y la Defensa al rival."
+    },
+    {
+        "name": "Masa C�smica",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel la Defensa y la Defensa Especial al usuario."
+    },
+    {
+        "name": "Salpicar",
+        "type": "agua",
+        "power": "150",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El poder de este movimiento ser� mayor cuanto mayor el PS del usuario. El da�o ser�: 150 x ( PS actual / PS total )."
+    },
+    {
+        "name": "Doble Rayo",
+        "type": "bicho",
+        "power": "75",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "10% de confundir al rival."
+    },
+    {
+        "name": "Pu�o Sombra",
+        "type": "fantasma",
+        "power": "60",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Siempre golpea."
+    },
+    {
+        "name": "Paranormal",
+        "type": "psiquico",
+        "power": "80",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "10% de hacer retroceder al rival."
+    },
+    {
+        "name": "Gancho Alto",
+        "type": "lucha",
+        "power": "85",
+        "pp": "15",
+        "accuracy": "90%",
+        "effect": "Golpea a Pok�mon en mitad de un Vuelo, Bote o Ca�da Libre."
+    },
+    {
+        "name": "Bucle Arena",
+        "type": "tierra",
+        "power": "35",
+        "pp": "15",
+        "accuracy": "85%",
+        "effect": "El Pok�mon rival permanece atrapado de 4 a 5 turnos, recibiendo un da�o del 12.5% del PS cada turno."
+    },
+    {
+        "name": "Fr�o Polar",
+        "type": "hielo",
+        "power": "1",
+        "pp": "5",
+        "accuracy": "30%",
+        "effect": "Puede debilitar al Pok�mon rival de un solo golpe."
+    },
+    {
+        "name": "Agua Lodosa",
+        "type": "agua",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "85%",
+        "effect": "30% de reducir un nivel la Precisi�n al rival."
+    },
+    {
+        "name": "Recurrente",
+        "type": "planta",
+        "power": "25",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Golpea de 2 a 5 veces seguidas."
+    },
+    {
+        "name": "Golpe A�reo",
+        "type": "volador",
+        "power": "60",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Siempre golpea."
+    },
+    {
+        "name": "Car�mbano",
+        "type": "hielo",
+        "power": "25",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Golpea de 2 a 5 veces seguidas."
+    },
+    {
+        "name": "Defensa F�rrea",
+        "type": "acero",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Aumenta dos niveles la Defensa al usuario."
+    },
+    {
+        "name": "Bloqueo",
+        "type": "normal",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Impide al rival ser intercambiado, salvo usando Relevo, Ida y Vuelta, Voltiocambio o �ltima Palabra, o si tiene Muda Concha o Bot�n Escape."
+    },
+    {
+        "name": "Aullido",
+        "type": "normal",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel el Ataque al usuario."
+    },
+    {
+        "name": "Garra Drag�n",
+        "type": "dragon",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Planta Feroz",
+        "type": "planta",
+        "power": "150",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "Impide al usuario usar un movimiento o ser intercambiado en el siguiente turno."
+    },
+    {
+        "name": "Corpulencia",
+        "type": "lucha",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel el Ataque y la Defensa al usuario."
+    },
+    {
+        "name": "Bote",
+        "type": "volador",
+        "power": "85",
+        "pp": "5",
+        "accuracy": "85%",
+        "effect": "30% de paralizar al rival. Precisa un turno de preparaci�n en el cielo, en que s�lo puede ser golpeado por Tornado, Remolino, Trueno, Cicl�n, Gancho Alto, Antia�reo y Vendaval."
+    },
+    {
+        "name": "Disparo Lodo",
+        "type": "tierra",
+        "power": "55",
+        "pp": "15",
+        "accuracy": "95%",
+        "effect": "100% de reducir un nivel la Velocidad al rival."
+    },
+    {
+        "name": "Cola Veneno",
+        "type": "veneno",
+        "power": "50",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "10% de envenenar al rival. Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Antojo",
+        "type": "normal",
+        "power": "60",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "Toma el objeto del rival si no tiene nada equipado, incluso aunque el rival caiga debilitado a consecuencia del ataque."
+    },
+    {
+        "name": "Placaje El�c",
+        "type": "electrico",
+        "power": "120",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "10% de paralizar al rival. Provoca un da�o de retroceso del 33% del da�o provocado al Pok�mon rival."
+    },
+    {
+        "name": "Hoja M�gica",
+        "type": "planta",
+        "power": "60",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Siempre golpea."
+    },
+    {
+        "name": "Hidrochorro",
+        "type": "agua",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Todos los ataques tipo Fuego hacen un tercio de da�o durante 5 turnos."
+    },
+    {
+        "name": "Paz Mental",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel el Ataque Especial y la Defensa Especial al usuario."
+    },
+    {
+        "name": "Hoja Aguda",
+        "type": "planta",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Danza Drag�n",
+        "type": "dragon",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel el Ataque y la Velocidad al usuario."
+    },
+    {
+        "name": "Pedrada",
+        "type": "roca",
+        "power": "25",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Golpea de 2 a 5 veces seguidas."
+    },
+    {
+        "name": "Onda Voltio",
+        "type": "electrico",
+        "power": "60",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Siempre golpea."
+    },
+    {
+        "name": "Hidropulso",
+        "type": "agua",
+        "power": "60",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "20% de confundir al rival."
+    },
+    {
+        "name": "Deseo Oculto",
+        "type": "acero",
+        "power": "140",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "Este ataque golpear� al objetivo al final del segundo turno tras su uso. Mientras, se pueden usar otros ataques y tanto el usuario como el rival pueden ser intercambiados."
+    },
+    {
+        "name": "Psicoataque",
+        "type": "psiquico",
+        "power": "140",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "100% de reducir dos niveles el Ataque Especial al usuario."
+    },
+    {
+        "name": "Respiro",
+        "type": "volador",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario recupera el 50% de su PS m�ximo. En ese mismo turno perder� su tipo Volador (si lo tiene), con lo que ello afecta a sus inmunidades, debilidades y resistencias."
+    },
+    {
+        "name": "Gravedad",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Por 5 turnos se anula la inmunidad de Levitaci�n, voladores y Levit�n al tipo Tierra, Trampa Arena, P�as T�xicas y P�as. La Evasi�n de todos los Pok�mon baja dos niveles."
+    },
+    {
+        "name": "Gran Ojo",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "--",
+        "effect": "Mientras el usuario siga en batalla, se ignoran los modificadores de Evasi�n del rival y de Precisi�n del usuario. Anula la inmunidad del tipo Siniestro frente al tipo Ps�quico."
+    },
+    {
+        "name": "Espabila",
+        "type": "lucha",
+        "power": "70",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El poder base se duplica si golpea a un Pok�mon dormido, cur�ndole el sue�o."
+    },
+    {
+        "name": "Machada",
+        "type": "lucha",
+        "power": "100",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Baja un nivel la Velocidad al usuario."
+    },
+    {
+        "name": "Giro Bola",
+        "type": "acero",
+        "power": "1",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El poder es mayor cuanto m�s lento el usuario frente al rival. El da�o ser�: 1 + (Vel.Rival / Vel.Usuario) x 25 (incluye modificadores de Velocidad, m�x. 150)."
+    },
+    {
+        "name": "Deseo Cura",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario cae debilitado, y el siguiente Pok�mon recupera todo su PS y se ve curado de cambios de estado."
+    },
+    {
+        "name": "Salmuera",
+        "type": "agua",
+        "power": "65",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El poder base se duplica si el rival tiene menos de la mitad de su PS m�ximo."
+    },
+    {
+        "name": "Don Natural",
+        "type": "normal",
+        "power": "1",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El tipo y poder del ataque dependen de la baya equipada, que se consume con el uso. El poder puede ser 60, 70 � 80. La baya se puede recuperar con Reciclaje."
+    },
+    {
+        "name": "Amago",
+        "type": "normal",
+        "power": "30",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Golpea aunque el rival use Protecci�n, Detecci�n, Vastaguardia o Anticipo ese turno, los cuales se ven anulados."
+    },
+    {
+        "name": "Picoteo",
+        "type": "volador",
+        "power": "60",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Si el rival lleva una baya equipada, el usuario se la coge y la usa en ese instante. Kouba se activa y reduce el da�o de este ataque. La baya se puede recuperar con Reciclaje."
+    },
+    {
+        "name": "Viento Af�n",
+        "type": "volador",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Se duplica la Velocidad del equipo del usuario por 4 turnos, incluyendo el turno en que se usa este movimiento."
+    },
+    {
+        "name": "Acupresi�n",
+        "type": "normal",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "--",
+        "effect": "Aumenta dos niveles un stat al azar del usuario (Ataque, Defensa, Ataque Especial, Defensa Especial, Velocidad, Precisi�n y Evasi�n)."
+    },
+    {
+        "name": "Represi�n Metal",
+        "type": "acero",
+        "power": "1",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Causa un da�o equivalente al 150% del da�o causado por el ataque del rival ese turno. Debe ser utilizado despu�s del ataque del rival."
+    },
+    {
+        "name": "Ida y Vuelta",
+        "type": "bicho",
+        "power": "70",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "El Pok�mon debe ser intercambiado tras usar este ataque. Permite escapar de trampas y pseudo-trampas."
+    },
+    {
+        "name": "A Bocajarro",
+        "type": "lucha",
+        "power": "120",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "Baja un nivel la Defensa y la Defensa Especial al usuario."
+    },
+    {
+        "name": "Vendetta",
+        "type": "siniestro",
+        "power": "50",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Su poder base se duplica si el rival ya se ha movido ese turno."
+    },
+    {
+        "name": "Buena Baza",
+        "type": "siniestro",
+        "power": "60",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Su poder base se duplica si el rival ya ha recibido da�o ese turno (retroceso, P�as, Trampa Rocas, Vidasfera)."
+    },
+    {
+        "name": "Embargo",
+        "type": "siniestro",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Impide al Pok�mon rival usar su objeto equipado, as� como al jugador rival usar objetos en �l, durante 5 turnos."
+    },
+    {
+        "name": "Lanzamiento",
+        "type": "siniestro",
+        "power": "1",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Lanza el objeto equipado al rival. El efecto y da�o causado depende del objeto lanzado. El objeto se puede recuperar con Reciclaje."
+    },
+    {
+        "name": "Psicocambio",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El usuario se ve curado de su estado alterado y se lo traspasa al rival."
+    },
+    {
+        "name": "As Oculto",
+        "type": "normal",
+        "power": "1",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Nunca falla. Su poder depende de cu�ntos PP le resten: Con 5+ PP ser� de 40. Con 4 PP ser� de 50. Con 3 PP ser� de 60. Con 2 PP ser� de 80. Con 1 PP ser� de 200."
+    },
+    {
+        "name": "Anticura",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El rival no puede recuperar PS en 5 turnos, salvo mediante Divide Dolor u objetos."
+    },
+    {
+        "name": "Estruj�n",
+        "type": "normal",
+        "power": "1",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El poder del movimiento es mayor cuanto m�s PS le quede al rival. El poder base ser�: 1 + (PS Actual Rival / PS M�ximo Rival) x 120 (m�x. 121)."
+    },
+    {
+        "name": "Truco Fuerza",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario intercambia sus stats de Ataque y de Defensa entre s�, pero no sus modificadores."
+    },
+    {
+        "name": "Bilis",
+        "type": "veneno",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Cancela el efecto de la habilidad del rival mientras no sea intercambiado."
+    },
+    {
+        "name": "Conjuro",
+        "type": "normal",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "--",
+        "effect": "El equipo del usuario no recibe Golpes Cr�ticos por 5 turnos."
+    },
+    {
+        "name": "Yo Primero",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Siempre que el usuario sea el primero en moverse y que el rival haya elegido un ataque de da�o directo, el usuario copia el ataque del rival y le golpea con su poder al 150%."
+    },
+    {
+        "name": "Copi�n",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Usa el �ltimo movimiento usado en batalla, sea de un rival, compa�ero o propio (salvo a s� mismo)."
+    },
+    {
+        "name": "Cambia Fuerza",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario intercambia los modificadores de Ataque y Ataque Especial con el rival."
+    },
+    {
+        "name": "Cambia Defensa",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario intercambia los modificadores de Defensa y Defensa Especial con el rival."
+    },
+    {
+        "name": "Castigo",
+        "type": "siniestro",
+        "power": "1",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El poder base aumenta cuando el rival tiene modificadores positivos de stats (incluye Precisi�n y Evasi�n). El m�nimo es 60, a�adiendo 20 por modificador y hasta 200."
+    },
+    {
+        "name": "�ltima Baza",
+        "type": "normal",
+        "power": "140",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "Falla mientras el usuario no haya usado el resto de sus movimientos desde que sali� a la batalla (�ltimo intercambio), y exige que al menos conozca otro movimiento."
+    },
+    {
+        "name": "Abatidoras",
+        "type": "planta",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Cambia la habilidad del rival a Insomnio hasta que sea intercambiado, salvo que fuera Ausente o Multitipo."
+    },
+    {
+        "name": "Golpe Bajo",
+        "type": "siniestro",
+        "power": "70",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "Golpea primero, pero falla si el rival no va a usar un movimiento de da�o directo. Falla tambi�n si el rival golpea antes."
+    },
+    {
+        "name": "P�as T�xicas",
+        "type": "veneno",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Sit�a p�as en el campo enemigo. Salvo a inmunes al veneno, voladores y levitadores, envenenan o intoxican a todo Pok�mon rival que entre al campo, seg�n haya 1 � 2 filas."
+    },
+    {
+        "name": "Cambia Almas",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario intercambia los modificadores de todos los stats con el rival."
+    },
+    {
+        "name": "Acua Aro",
+        "type": "agua",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "El usuario recupera un 6.25% de PS cada turno hasta que cae debilitado o es intercambiado (salvo Relevo)."
+    },
+    {
+        "name": "Levit�n",
+        "type": "electrico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario es inmune a los ataques de tipo Tierra durante 5 turnos."
+    },
+    {
+        "name": "Envite �gneo",
+        "type": "fuego",
+        "power": "120",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "10% de quemar al rival. Provoca un da�o de retroceso del 33% del da�o provocado al Pok�mon rival."
+    },
+    {
+        "name": "Palmeo",
+        "type": "lucha",
+        "power": "60",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "30% de paralizar al rival."
+    },
+    {
+        "name": "Esfera Aural",
+        "type": "lucha",
+        "power": "80",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Siempre golpea."
+    },
+    {
+        "name": "Pulimento",
+        "type": "roca",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta dos niveles la Velocidad al usuario."
+    },
+    {
+        "name": "Puya Nociva",
+        "type": "veneno",
+        "power": "80",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "30% de envenenar al rival."
+    },
+    {
+        "name": "Pulso Umbr�o",
+        "type": "siniestro",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "20% de hacer retroceder al rival."
+    },
+    {
+        "name": "Tajo Umbr�o",
+        "type": "siniestro",
+        "power": "70",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Acua Cola",
+        "type": "agua",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Bomba Germen",
+        "type": "planta",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Tajo A�reo",
+        "type": "volador",
+        "power": "75",
+        "pp": "15",
+        "accuracy": "95%",
+        "effect": "30% de hacer retroceder al rival."
+    },
+    {
+        "name": "Tijera X",
+        "type": "bicho",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Zumbido",
+        "type": "bicho",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "10% de reducir un nivel la Defensa Especial al rival."
+    },
+    {
+        "name": "Pulso Drag�n",
+        "type": "dragon",
+        "power": "85",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Carga Drag�n",
+        "type": "dragon",
+        "power": "100",
+        "pp": "10",
+        "accuracy": "75%",
+        "effect": "20% de hacer retroceder al rival. Golpea a Pok�mon que han usado Reducci�n con el doble de poder base e ignorando su Evasi�n."
+    },
+    {
+        "name": "Joya de Luz",
+        "type": "roca",
+        "power": "80",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Pu�o Drenaje",
+        "type": "lucha",
+        "power": "75",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El usuario recupera PS equivalente a la mitad del da�o causado."
+    },
+    {
+        "name": "Onda Vac�o",
+        "type": "lucha",
+        "power": "40",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Golpea primero."
+    },
+    {
+        "name": "Onda Certera",
+        "type": "lucha",
+        "power": "120",
+        "pp": "5",
+        "accuracy": "70%",
+        "effect": "10% de reducir un nivel la Defensa Especial al rival."
+    },
+    {
+        "name": "Energibola",
+        "type": "planta",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "10% de reducir un nivel la Defensa Especial al rival."
+    },
+    {
+        "name": "P�jaro Osado",
+        "type": "volador",
+        "power": "120",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Provoca un da�o de retroceso al usuario equivalente al 33% del da�o provocado al rival."
+    },
+    {
+        "name": "Tierra Viva",
+        "type": "tierra",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "10% de reducir un nivel la Defensa Especial al rival."
+    },
+    {
+        "name": "Trapicheo",
+        "type": "siniestro",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El usuario y el rival intercambian sus objetos durante el resto de la batalla. No funciona contra Pok�mon con la habilidad Viscosidad."
+    },
+    {
+        "name": "Giga Impacto",
+        "type": "normal",
+        "power": "150",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "Impide al usuario usar un movimiento o ser intercambiado en el siguiente turno."
+    },
+    {
+        "name": "Maquinaci�n",
+        "type": "siniestro",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta dos niveles el Ataque Especial al usuario."
+    },
+    {
+        "name": "Pu�o Bala",
+        "type": "acero",
+        "power": "40",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Golpea primero."
+    },
+    {
+        "name": "Alud",
+        "type": "hielo",
+        "power": "60",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El poder base se duplica si el usuario es golpeado antes de usar este movimiento en el mismo turno."
+    },
+    {
+        "name": "Canto Helado",
+        "type": "hielo",
+        "power": "40",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Golpea primero."
+    },
+    {
+        "name": "Garra Umbr�a",
+        "type": "fantasma",
+        "power": "70",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Colmillo Rayo",
+        "type": "electrico",
+        "power": "65",
+        "pp": "15",
+        "accuracy": "95%",
+        "effect": "10% de paralizar al rival y 10% de hacer retroceder al rival. Ambos efectos son independientes y pueden ocurrir a la vez."
+    },
+    {
+        "name": "Colmillo Hielo",
+        "type": "hielo",
+        "power": "65",
+        "pp": "15",
+        "accuracy": "95%",
+        "effect": "10% de congelar al rival y 10% de hacer retroceder al rival. Ambos efectos son independientes y pueden ocurrir a la vez."
+    },
+    {
+        "name": "Colmillo �gneo",
+        "type": "fuego",
+        "power": "65",
+        "pp": "15",
+        "accuracy": "95%",
+        "effect": "10% de quemar al rival y 10% de hacer retroceder al rival. Ambos efectos son independientes y pueden ocurrir a la vez."
+    },
+    {
+        "name": "Sombra Vil",
+        "type": "fantasma",
+        "power": "40",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Golpea primero."
+    },
+    {
+        "name": "Bomba Fango",
+        "type": "tierra",
+        "power": "65",
+        "pp": "10",
+        "accuracy": "85%",
+        "effect": "30% de reducir un nivel la Precisi�n al rival."
+    },
+    {
+        "name": "Psicocorte",
+        "type": "psiquico",
+        "power": "70",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Cabezazo Zen",
+        "type": "psiquico",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "90%",
+        "effect": "20% de hacer retroceder al rival."
+    },
+    {
+        "name": "Disparo Espejo",
+        "type": "acero",
+        "power": "65",
+        "pp": "10",
+        "accuracy": "85%",
+        "effect": "30% de reducir un nivel la Precisi�n al rival."
+    },
+    {
+        "name": "Foco Resplandor",
+        "type": "acero",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "10% de reducir un nivel la Defensa Especial al rival."
+    },
+    {
+        "name": "Treparrocas",
+        "type": "normal",
+        "power": "90",
+        "pp": "20",
+        "accuracy": "85%",
+        "effect": "20% de confundir al rival."
+    },
+    {
+        "name": "Despejar",
+        "type": "volador",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Reduce un nivel la Evasi�n al rival. Elimina Reflejo, Pantalla de Luz, Velo Sagrado, Neblina, P�as, P�as T�xicas y Trampa Rocas en el campo del Pok�mon objetivo (compa�ero o rival)."
+    },
+    {
+        "name": "Espacio Raro",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Por 5 turnos los Pok�mon m�s lentos golpear�n antes que los m�s r�pidos. Sin efecto en movimientos de distinta prioridad, Rezagado, G. R�pida, Cola Pl�mbea o Inc. Lento."
+    },
+    {
+        "name": "Cometa Draco",
+        "type": "dragon",
+        "power": "130",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "100% de reducir dos niveles el Ataque Especial al usuario."
+    },
+    {
+        "name": "Chispazo",
+        "type": "electrico",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "30% de paralizar al rival."
+    },
+    {
+        "name": "Humareda",
+        "type": "fuego",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "30% de quemar al rival."
+    },
+    {
+        "name": "Lluevehojas",
+        "type": "planta",
+        "power": "130",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "100% de reducir dos niveles el Ataque Especial al usuario."
+    },
+    {
+        "name": "Latigazo",
+        "type": "planta",
+        "power": "120",
+        "pp": "10",
+        "accuracy": "85%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Romperrocas",
+        "type": "roca",
+        "power": "150",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "Impide al usuario usar un movimiento o ser intercambiado en el siguiente turno."
+    },
+    {
+        "name": "Veneno X",
+        "type": "veneno",
+        "power": "70",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "10% de envenenar al rival. Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Lanza Mugre",
+        "type": "veneno",
+        "power": "120",
+        "pp": "5",
+        "accuracy": "80%",
+        "effect": "30% de envenenar al rival."
+    },
+    {
+        "name": "Cabeza de Hierro",
+        "type": "acero",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "30% de hacer retroceder al rival."
+    },
+    {
+        "name": "Bomba Im�n",
+        "type": "acero",
+        "power": "60",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Siempre golpea."
+    },
+    {
+        "name": "Roca Afilada",
+        "type": "roca",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "80%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Seducci�n",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Si el rival es del g�nero opuesto, baja dos niveles su Ataque Especial."
+    },
+    {
+        "name": "Trampa Rocas",
+        "type": "roca",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "El Pok�mon que salga a luchar recibir� un da�o equivalente al 12.5% de PS, que aumenta o disminuye seg�n resistencias y debilidades al tipo Roca (3.125% a 50%)."
+    },
+    {
+        "name": "Hierba Lazo",
+        "type": "planta",
+        "power": "1",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Este movimiento tiene un poder base variable entre 20 y 120, en funci�n del peso del Pok�mon rival."
+    },
+    {
+        "name": "Ch�chara",
+        "type": "volador",
+        "power": "65",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "100% de confundir al rival. S�lo puede usarlo un Chatot."
+    },
+    {
+        "name": "Sentencia",
+        "type": "normal",
+        "power": "100",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El tipo del ataque depende de la Tabla equipada."
+    },
+    {
+        "name": "Picadura",
+        "type": "bicho",
+        "power": "60",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Si el rival lleva una baya equipada, el usuario se la coge y la usa en ese instante. Kouba se activa y reduce el da�o de este ataque. La baya se puede recuperar con Reciclaje."
+    },
+    {
+        "name": "Rayo Carga",
+        "type": "electrico",
+        "power": "50",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "70% de aumentar un nivel el Ataque Especial al usuario."
+    },
+    {
+        "name": "Mazazo",
+        "type": "planta",
+        "power": "120",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Provoca un da�o de retroceso al usuario equivalente al 33% del da�o provocado al rival."
+    },
+    {
+        "name": "Acua Jet",
+        "type": "agua",
+        "power": "40",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Golpea primero."
+    },
+    {
+        "name": "Al Ataque",
+        "type": "bicho",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "A Defender",
+        "type": "bicho",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel la Defensa y la Defensa Especial al usuario."
+    },
+    {
+        "name": "Auxilio",
+        "type": "bicho",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario recupera el 50% de su PS m�ximo."
+    },
+    {
+        "name": "Testarazo",
+        "type": "roca",
+        "power": "150",
+        "pp": "5",
+        "accuracy": "80%",
+        "effect": "Provoca un da�o de retroceso del 50% del da�o provocado al Pok�mon rival."
+    },
+    {
+        "name": "Doble Golpe",
+        "type": "normal",
+        "power": "35",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Golpea 2 veces seguidas."
+    },
+    {
+        "name": "Distorsi�n",
+        "type": "dragon",
+        "power": "150",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "Impide al usuario usar un movimiento o ser intercambiado en el siguiente turno."
+    },
+    {
+        "name": "Corte Vac�o",
+        "type": "dragon",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "95%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Danza Lunar",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario cae debilitado. El Pok�mon que salga a la batalla en su lugar ve recuperados sus PS, PP y estado alterado."
+    },
+    {
+        "name": "Agarr�n",
+        "type": "normal",
+        "power": "1",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El poder del movimiento es mayor cuanto m�s PS le quede al rival. El poder base ser�: 1 + (PS Actual Rival / PS M�ximo Rival) x 120 (m�x. 121)."
+    },
+    {
+        "name": "Lluvia �gnea",
+        "type": "fuego",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "75%",
+        "effect": "El Pok�mon rival permanece atrapado de 4 a 5 turnos, recibiendo un da�o del 12.5% del PS cada turno."
+    },
+    {
+        "name": "Brecha Negra",
+        "type": "siniestro",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "50%",
+        "effect": "Provoca Sue�o."
+    },
+    {
+        "name": "Fogonazo",
+        "type": "planta",
+        "power": "120",
+        "pp": "5",
+        "accuracy": "85%",
+        "effect": "40% de reducir dos niveles la Defensa Especial al rival."
+    },
+    {
+        "name": "Viento Aciago",
+        "type": "fantasma",
+        "power": "60",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "10% de aumentar un nivel el Ataque, la Defensa, la Velocidad, el Ataque Especial y la Defensa Especial al usuario."
+    },
+    {
+        "name": "Golpe Umbr�o",
+        "type": "fantasma",
+        "power": "120",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "Precisa un turno de preparaci�n en las tinieblas, en que es totalmente inmune. Su golpe no es evitado por Protecci�n o Detecci�n."
+    },
+    {
+        "name": "Afilagarras",
+        "type": "siniestro",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel el Ataque y la Precisi�n al usuario."
+    },
+    {
+        "name": "Vastaguardia",
+        "type": "roca",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Evita todo da�o directo y efectos de movimientos del rival de objetivo m�ltiple tanto al usuario como a sus compa�eros. Su precisi�n se reduce con cada uso consecutivo."
+    },
+    {
+        "name": "Isoguardia",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Suma los stats de Defensa y Defensa Especial del usuario con los del Pok�mon objetivo, otorgando la mitad a cada uno."
+    },
+    {
+        "name": "Isofuerza",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Suma los stats de Ataque y Ataque Especial del usuario con los del Pok�mon objetivo, otorgando la mitad a cada uno."
+    },
+    {
+        "name": "Zona Extra�a",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Por 5 turnos los stats de Defensa y Defensa Especial de todos los Pok�mon se intercambian entre s�."
+    },
+    {
+        "name": "Psicocarga",
+        "type": "psiquico",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Causa da�o en base al Ataque Especial del usuario y la Defensa del Pok�mon objetivo."
+    },
+    {
+        "name": "Carga T�xica",
+        "type": "veneno",
+        "power": "65",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Si el Pok�mon objetivo est� envenenado, su poder base se dobla."
+    },
+    {
+        "name": "Aligerar",
+        "type": "acero",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Aumenta dos niveles la Velocidad al usuario. Su peso queda reducido en 100 kg."
+    },
+    {
+        "name": "Polvo Ira",
+        "type": "bicho",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "En batallas 2vs2, los ataques que usen los Pok�mon rivales ese turno golpear�n al usuario, ignorando la elecci�n de su entrenador. No afecta a los ataques con m�s de un objetivo."
+    },
+    {
+        "name": "Telequinesis",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Hace levitar al Pok�mon objetivo y reduce su Evasi�n durante 3 turnos. Falla si Gravedad est� activado."
+    },
+    {
+        "name": "Zona M�gica",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Por 5 turnos los objetos equipados por los Pok�mon no surten efecto."
+    },
+    {
+        "name": "Antia�reo",
+        "type": "roca",
+        "power": "50",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Golpea a Pok�mon en mitad de un Vuelo, Bote o Ca�da Libre. Los Pok�mon voladores o con Levitaci�n pierden su inmunidad a Tierra."
+    },
+    {
+        "name": "Llave Cors�",
+        "type": "lucha",
+        "power": "60",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Siempre provoca un Golpe Cr�tico salvo que una habilidad o efecto lo impida."
+    },
+    {
+        "name": "Pirotecnia",
+        "type": "fuego",
+        "power": "70",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Los Pok�mon cercanos al Pok�mon objetivo pierden un 6.25% de su PS m�ximo."
+    },
+    {
+        "name": "Onda T�xica",
+        "type": "veneno",
+        "power": "95",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "10% de envenenar al rival."
+    },
+    {
+        "name": "Danza Aleteo",
+        "type": "bicho",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel el Ataque Especial, la Defensa Especial y la Velocidad al usuario."
+    },
+    {
+        "name": "Cuerpo Pesado",
+        "type": "acero",
+        "power": "1",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Este movimiento tiene un poder base variable en funci�n del peso del usuario y del Pok�mon rival."
+    },
+    {
+        "name": "Sincrorruido",
+        "type": "psiquico",
+        "power": "120",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Golpea a todos los Pok�mon que compartan un tipo con el usuario."
+    },
+    {
+        "name": "Bola Voltio",
+        "type": "electrico",
+        "power": "1",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El poder base de este movimiento es mayor cuanto m�s r�pido el usuario frente al rival, y var�a entre 60 y 150."
+    },
+    {
+        "name": "Anegar",
+        "type": "agua",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Cambia el tipo del Pok�mon objetivo por el tipo Agua."
+    },
+    {
+        "name": "Nitrocarga",
+        "type": "fuego",
+        "power": "50",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Aumenta un nivel la Velocidad al usuario."
+    },
+    {
+        "name": "Enrosque",
+        "type": "veneno",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel el Ataque, la Defensa y la Precisi�n al usuario."
+    },
+    {
+        "name": "Puntapi�",
+        "type": "lucha",
+        "power": "65",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Baja un nivel la Velocidad al rival."
+    },
+    {
+        "name": "Bomba �cida",
+        "type": "veneno",
+        "power": "40",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Baja dos niveles la Defensa Especial al rival."
+    },
+    {
+        "name": "Juego Sucio",
+        "type": "siniestro",
+        "power": "95",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Golpea al rival utilizando su propio stat de Ataque."
+    },
+    {
+        "name": "Onda Simple",
+        "type": "normal",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Cambia la habilidad del rival a Simple hasta que sea intercambiado."
+    },
+    {
+        "name": "Danza Amiga",
+        "type": "normal",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El rival obtiene la habilidad del usuario hasta que sea intercambiado."
+    },
+    {
+        "name": "Cede Paso",
+        "type": "normal",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Siempre que el Pok�mon objetivo haya elegido un ataque sin da�o directo, el usuario le obliga a ejecutarlo despu�s de �l."
+    },
+    {
+        "name": "Canon",
+        "type": "normal",
+        "power": "60",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El poder base del movimiento se dobla si un compa�ero ya lo ha usado en el mismo turno."
+    },
+    {
+        "name": "Eco Voz",
+        "type": "normal",
+        "power": "40",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El poder base del movimiento aumenta si es usado de manera consecutiva. Cada uso adicional incrementa en 40 el poder base, m�ximo 200."
+    },
+    {
+        "name": "Guardia Baja",
+        "type": "normal",
+        "power": "70",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Ignora los modificadores de stats del Pok�mon objetivo."
+    },
+    {
+        "name": "Niebla Clara",
+        "type": "veneno",
+        "power": "50",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Elimina todos los modificadores de stats del Pok�mon objetivo."
+    },
+    {
+        "name": "Poder Reserva",
+        "type": "psiquico",
+        "power": "20",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El poder base del movimiento aumenta cuantos m�s modificadores positivos de stats tiene el usuario."
+    },
+    {
+        "name": "Anticipo",
+        "type": "lucha",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Evita todo da�o directo y efectos de movimientos del rival de alta prioridad tanto al usuario como a sus compa�eros. Su precisi�n se reduce con cada uso consecutivo."
+    },
+    {
+        "name": "Cambio Banda",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "El usuario intercambia su posici�n con la de un Pok�mon aliado."
+    },
+    {
+        "name": "Escaldar",
+        "type": "agua",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "30% de quemar al rival."
+    },
+    {
+        "name": "Rompecoraza",
+        "type": "normal",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Aumenta dos niveles el Ataque, el Ataque Especial y la Velocidad del usuario, pero reduce un nivel su Defensa y Defensa Especial."
+    },
+    {
+        "name": "Pulso Cura",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El Pok�mon objetivo recupera el 50% de su PS m�ximo."
+    },
+    {
+        "name": "Infortunio",
+        "type": "fantasma",
+        "power": "65",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Si el Pok�mon objetivo sufre un cambio de estado, su poder base se dobla."
+    },
+    {
+        "name": "Ca�da Libre",
+        "type": "volador",
+        "power": "60",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Precisa un turno de preparaci�n en el cielo, en el que se lleva al Pok�mon rival por los aires. En el segundo turno lo suelta causando da�o."
+    },
+    {
+        "name": "Cambio de Marcha",
+        "type": "acero",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Aumenta dos niveles la Velocidad del usuario y un nivel su Ataque."
+    },
+    {
+        "name": "Llave Giro",
+        "type": "lucha",
+        "power": "60",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Provoca el intercambio del Pok�mon objetivo por el siguiente de su equipo en orden. Termina las batallas contra Pok�mon salvajes."
+    },
+    {
+        "name": "Calcinaci�n",
+        "type": "fuego",
+        "power": "60",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Quema la Baya del Pok�mon objetivo y la hace inservible."
+    },
+    {
+        "name": "�ltimo Lugar",
+        "type": "siniestro",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El Pok�mon objetivo atacar� �ltimo en el turno en que reciba este ataque."
+    },
+    {
+        "name": "Acr�bata",
+        "type": "volador",
+        "power": "55",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El poder base se duplica si el usuario no lleva equipado objeto."
+    },
+    {
+        "name": "Clonatipo",
+        "type": "normal",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "El tipo Pok�mon del usuario cambia al tipo del Pok�mon objetivo."
+    },
+    {
+        "name": "Represalia",
+        "type": "normal",
+        "power": "70",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "Si un compa�ero ha ca�do debilitado el turno anterior, su poder base se dobla."
+    },
+    {
+        "name": "Sacrificio",
+        "type": "lucha",
+        "power": "1",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El usuario cae debilitado. Provoca da�o al Pok�mon objetivo equivalente al PS restante del usuario."
+    },
+    {
+        "name": "Ofrenda",
+        "type": "normal",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "El usuario traspasa su objeto al Pok�mon objetivo, siempre que �ste no tenga ninguno."
+    },
+    {
+        "name": "Infierno",
+        "type": "fuego",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "50%",
+        "effect": "100% de quemar al rival."
+    },
+    {
+        "name": "Voto Agua",
+        "type": "agua",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Se combina con Voto Fuego y con Voto Planta."
+    },
+    {
+        "name": "Voto Fuego",
+        "type": "fuego",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Se combina con Voto Agua y con Voto Planta."
+    },
+    {
+        "name": "Voto Planta",
+        "type": "planta",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Se combina con Voto Agua y con Voto Fuego."
+    },
+    {
+        "name": "Voltiocambio",
+        "type": "electrico",
+        "power": "70",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "El Pok�mon debe ser intercambiado tras usar este ataque. Permite escapar de trampas y pseudo-trampas."
+    },
+    {
+        "name": "Estoicismo",
+        "type": "bicho",
+        "power": "50",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "100% de reducir un nivel el Ataque Especial al rival."
+    },
+    {
+        "name": "Terratemblor",
+        "type": "tierra",
+        "power": "60",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "100% de reducir un nivel la Velocidad al rival."
+    },
+    {
+        "name": "Vaho G�lido",
+        "type": "hielo",
+        "power": "60",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Siempre provoca un Golpe Cr�tico salvo que una habilidad o efecto lo impida."
+    },
+    {
+        "name": "Cola Drag�n",
+        "type": "dragon",
+        "power": "60",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Provoca el intercambio del Pok�mon objetivo por el siguiente de su equipo en orden. Termina las batallas contra Pok�mon salvajes."
+    },
+    {
+        "name": "Avivar",
+        "type": "normal",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel el Ataque y el Ataque Especial del usuario."
+    },
+    {
+        "name": "Electrotela",
+        "type": "electrico",
+        "power": "55",
+        "pp": "15",
+        "accuracy": "95%",
+        "effect": "Baja un nivel la Velocidad al rival."
+    },
+    {
+        "name": "Voltio Cruel",
+        "type": "electrico",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Provoca un da�o de retroceso del 25% del da�o provocado al Pok�mon rival."
+    },
+    {
+        "name": "Taladradora",
+        "type": "tierra",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "95%",
+        "effect": "Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Golpe Bis",
+        "type": "dragon",
+        "power": "40",
+        "pp": "15",
+        "accuracy": "90%",
+        "effect": "Golpea 2 veces seguidas."
+    },
+    {
+        "name": "Arrumaco",
+        "type": "psiquico",
+        "power": "60",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "30% de hacer retroceder al rival."
+    },
+    {
+        "name": "Asta Drenaje",
+        "type": "planta",
+        "power": "75",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El usuario recupera PS equivalente a la mitad del da�o causado."
+    },
+    {
+        "name": "Espada Santa",
+        "type": "lucha",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Ignora los modificadores de stats del Pok�mon objetivo."
+    },
+    {
+        "name": "Concha Filo",
+        "type": "agua",
+        "power": "75",
+        "pp": "10",
+        "accuracy": "95%",
+        "effect": "50% de reducir un nivel la Defensa al rival."
+    },
+    {
+        "name": "Golpe Calor",
+        "type": "fuego",
+        "power": "1",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Este movimiento tiene un poder base variable en funci�n del peso del usuario y del Pok�mon rival."
+    },
+    {
+        "name": "Cicl�n de Hojas",
+        "type": "planta",
+        "power": "65",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "50% de reducir un nivel la Precisi�n al rival."
+    },
+    {
+        "name": "Rodillo de P�as",
+        "type": "bicho",
+        "power": "65",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "30% de hacer retroceder al rival. Golpea a Pok�mon que han usado Reducci�n con el doble de poder base e ignorando su Evasi�n."
+    },
+    {
+        "name": "Rizo Algod�n",
+        "type": "planta",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Aumenta tres niveles la Defensa del usuario."
+    },
+    {
+        "name": "Pulso Noche",
+        "type": "siniestro",
+        "power": "85",
+        "pp": "10",
+        "accuracy": "95%",
+        "effect": "40% de reducir un nivel la Precisi�n al rival."
+    },
+    {
+        "name": "Onda Mental",
+        "type": "psiquico",
+        "power": "100",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Causa da�o en base al Ataque Especial del usuario y la Defensa del Pok�mon objetivo."
+    },
+    {
+        "name": "Plumerazo",
+        "type": "normal",
+        "power": "25",
+        "pp": "10",
+        "accuracy": "85%",
+        "effect": "Golpea de 2 a 5 veces seguidas."
+    },
+    {
+        "name": "Vendaval",
+        "type": "volador",
+        "power": "110",
+        "pp": "10",
+        "accuracy": "70%",
+        "effect": "30% de confundir al rival. Golpea a Pok�mon en mitad de un Vuelo, Bote o Ca�da Libre. En Llovizna no falla. En D�a Soleado tiene 50% de precisi�n."
+    },
+    {
+        "name": "Ariete",
+        "type": "normal",
+        "power": "120",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Provoca un da�o de retroceso del 25% del da�o provocado al Pok�mon rival."
+    },
+    {
+        "name": "Rueda Doble",
+        "type": "acero",
+        "power": "50",
+        "pp": "15",
+        "accuracy": "85%",
+        "effect": "Golpea 2 veces seguidas."
+    },
+    {
+        "name": "Bomba �gnea",
+        "type": "fuego",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "30% de quemar al rival."
+    },
+    {
+        "name": "Tecno Shock",
+        "type": "normal",
+        "power": "120",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El tipo del ataque depende de la ROM equipada."
+    },
+    {
+        "name": "Canto Arcaico",
+        "type": "normal",
+        "power": "75",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "10% de dormir al rival."
+    },
+    {
+        "name": "Sable M�stico",
+        "type": "lucha",
+        "power": "85",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Causa da�o en base al Ataque Especial del usuario y la Defensa del Pok�mon objetivo."
+    },
+    {
+        "name": "Mundo G�lido",
+        "type": "hielo",
+        "power": "65",
+        "pp": "10",
+        "accuracy": "95%",
+        "effect": "Baja un nivel la Velocidad al rival."
+    },
+    {
+        "name": "Ataque Fulgor",
+        "type": "electrico",
+        "power": "130",
+        "pp": "5",
+        "accuracy": "85%",
+        "effect": "20% de paralizar al rival."
+    },
+    {
+        "name": "Llama Azul",
+        "type": "fuego",
+        "power": "130",
+        "pp": "5",
+        "accuracy": "85%",
+        "effect": "20% de quemar al rival."
+    },
+    {
+        "name": "Danza Llama",
+        "type": "fuego",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "50% de aumentar un nivel el Ataque Especial al usuario."
+    },
+    {
+        "name": "Rayo G�lido",
+        "type": "hielo",
+        "power": "140",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "30% de paralizar al rival. Se prepara el primer turno para atacar en el segundo."
+    },
+    {
+        "name": "Llama G�lida",
+        "type": "hielo",
+        "power": "140",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "30% de quemar al rival. Se prepara el primer turno para atacar en el segundo."
+    },
+    {
+        "name": "Alarido",
+        "type": "siniestro",
+        "power": "55",
+        "pp": "15",
+        "accuracy": "95%",
+        "effect": "100% de reducir un nivel el Ataque Especial al rival."
+    },
+    {
+        "name": "Chuzos",
+        "type": "hielo",
+        "power": "85",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "30% de hacer retroceder al rival."
+    },
+    {
+        "name": "V de Fuego",
+        "type": "fuego",
+        "power": "180",
+        "pp": "5",
+        "accuracy": "95%",
+        "effect": "Baja un nivel la Defensa, la Defensa Especial y la Velocidad al usuario."
+    },
+    {
+        "name": "Llama Fusi�n",
+        "type": "fuego",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El poder base de este movimiento se duplica si otro Pok�mon utiliza Rayo Fusi�n o Ataque Fulgor inmediatamente antes en el mismo turno."
+    },
+    {
+        "name": "Rayo Fusi�n",
+        "type": "electrico",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El poder base de este movimiento se duplica si otro Pok�mon utiliza Llama Fusi�n o Llama Azul inmediatamente antes en el mismo turno."
+    },
+    {
+        "name": "Plancha Voladora",
+        "type": "lucha",
+        "power": "100",
+        "pp": "10",
+        "accuracy": "95%",
+        "effect": "Este ataque cuenta con las efectividades combinadas de los tipos Lucha y Volador."
+    },
+    {
+        "name": "Escudo Tatami",
+        "type": "lucha",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Evita todo da�o directo y efectos de movimientos del rival para �l y sus aliados. No evita movimientos de estado. S�lo puede ser utilizado el primer turno del usuario tras ser intercambiado."
+    },
+    {
+        "name": "Eructo",
+        "type": "veneno",
+        "power": "120",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "El usuario debe haber consumido una Baya para usar este ataque, de lo contrario fallar�."
+    },
+    {
+        "name": "Fertilizante",
+        "type": "tierra",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel el Ataque y el Ataque Especial a todos los Pok�mon de tipo Planta en combate."
+    },
+    {
+        "name": "Red Viscosa",
+        "type": "bicho",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "El Pok�mon que salga a luchar ver� reducida su Velocidad en un nivel. No afecta a Pok�mon voladores o levitadores."
+    },
+    {
+        "name": "Aguij�n Letal",
+        "type": "bicho",
+        "power": "50",
+        "pp": "25",
+        "accuracy": "100%",
+        "effect": "Aumenta dos niveles el Ataque al usuario cuando este ataque debilita a un Pok�mon rival."
+    },
+    {
+        "name": "Golpe Fantasma",
+        "type": "fantasma",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Precisa un turno de preparaci�n en las tinieblas, en que es totalmente inmune. Su golpe no es evitado por Protecci�n o Detecci�n."
+    },
+    {
+        "name": "Halloween",
+        "type": "fantasma",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "El Pok�mon objetivo adquiere el tipo Fantasma, conservando sus anteriores tipos."
+    },
+    {
+        "name": "Rugido de Guerra",
+        "type": "normal",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Baja un nivel el Ataque y el Ataque Especial al rival."
+    },
+    {
+        "name": "Cortina Plasma",
+        "type": "electrico",
+        "power": "--",
+        "pp": "25",
+        "accuracy": "--",
+        "effect": "Los movimientos de tipo Normal pasan a ser de tipo El�ctrico."
+    },
+    {
+        "name": "Carga Par�bola",
+        "type": "electrico",
+        "power": "65",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "El usuario recupera PS equivalente a la mitad del da�o causado."
+    },
+    {
+        "name": "Condena Silvana",
+        "type": "planta",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "El Pok�mon objetivo adquiere el tipo Planta, conservando sus anteriores tipos."
+    },
+    {
+        "name": "Tormenta Floral",
+        "type": "planta",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Liofilizaci�n",
+        "type": "hielo",
+        "power": "70",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "10% de congelar al rival. Es muy efectivo contra Pok�mon de tipo Agua."
+    },
+    {
+        "name": "Voz Cautivadora",
+        "type": "hada",
+        "power": "40",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "Siempre golpea."
+    },
+    {
+        "name": "�ltima Palabra",
+        "type": "siniestro",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Baja un nivel el Ataque y el Ataque Especial al rival. El Pok�mon debe ser intercambiado tras usar este ataque. Permite escapar de trampas y pseudo-trampas."
+    },
+    {
+        "name": "Reversi�n",
+        "type": "siniestro",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Invierte las alteraciones de estad�sticas del Pok�mon objetivo, de manera que los aumentos se vuelven reducciones y viceversa."
+    },
+    {
+        "name": "Beso Drenaje",
+        "type": "hada",
+        "power": "50",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "El usuario recupera PS equivalente al 75% del da�o causado."
+    },
+    {
+        "name": "Truco Defensa",
+        "type": "hada",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Evita todo efecto de movimientos del rival para �l y sus aliados. Su precisi�n se reduce con cada uso consecutivo. No evita movimientos de da�o directo."
+    },
+    {
+        "name": "Defensa Floral",
+        "type": "hada",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel la Defensa a todos los Pok�mon de tipo Planta en combate."
+    },
+    {
+        "name": "Campo de Hierba",
+        "type": "planta",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Crea un campo de niebla durante 5 turnos. Los Pok�mon en el suelo recuperan un 6.25% de su PS m�ximo al final de cada turno, y el poder de los ataques de tipo Planta aumenta un 50%."
+    },
+    {
+        "name": "Campo de Niebla",
+        "type": "hada",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Crea un campo de niebla durante 5 turnos. Los Pok�mon en el suelo no pueden ver alterado su estado, y reciben la mitad de da�o de ataques de tipo Drag�n."
+    },
+    {
+        "name": "Electrificaci�n",
+        "type": "electrico",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Si el Pok�mon objetivo a�n no ha realizado su movimiento en el mismo turno, dicho movimiento se vuelve de tipo El�ctrico."
+    },
+    {
+        "name": "Caranto�a",
+        "type": "hada",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "10% de reducir un nivel el Ataque al rival."
+    },
+    {
+        "name": "Viento Fe�rico",
+        "type": "hada",
+        "power": "40",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Fuerza Lunar",
+        "type": "hada",
+        "power": "95",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "30% de reducir un nivel el Ataque Especial al rival."
+    },
+    {
+        "name": "Estruendo",
+        "type": "normal",
+        "power": "140",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Cerrojo Fe�rico",
+        "type": "hada",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Impide al rival ser intercambiado en el siguiente turno, salvo usando Relevo, Ida y Vuelta, Voltiocambio o �ltima Palabra, o si tiene Muda Concha o Bot�n Escape."
+    },
+    {
+        "name": "Escudo Real",
+        "type": "acero",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Evita todo da�o directo de movimientos del rival. Su precisi�n se reduce con cada uso consecutivo. Reduce dos niveles el Ataque del Pok�mon que intente tocarlo."
+    },
+    {
+        "name": "Camarader�a",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Baja un nivel el Ataque al rival. Golpea aunque el rival use Protecci�n, Detecci�n o Barrera Espinosa ese turno, los cuales se ven anulados."
+    },
+    {
+        "name": "Confidencia",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Baja un nivel el Ataque Especial al rival. Golpea aunque el rival use Protecci�n, Detecci�n o Barrera Espinosa ese turno, los cuales se ven anulados."
+    },
+    {
+        "name": "Torm. Diamantes",
+        "type": "roca",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "95%",
+        "effect": "50% de aumentar dos niveles la Defensa al usuario."
+    },
+    {
+        "name": "Chorro de Vapor",
+        "type": "agua",
+        "power": "110",
+        "pp": "5",
+        "accuracy": "95%",
+        "effect": "30% de quemar al rival."
+    },
+    {
+        "name": "Paso Dimensional",
+        "type": "psiquico",
+        "power": "80",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Golpea aunque el rival use Protecci�n, Detecci�n, Vastaguardia o Anticipo ese turno."
+    },
+    {
+        "name": "Shuriken de Agua",
+        "type": "agua",
+        "power": "15",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Golpea de 2 a 5 veces seguidas. Golpea primero."
+    },
+    {
+        "name": "Llama Embrujada",
+        "type": "fuego",
+        "power": "75",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "100% de reducir un nivel el Ataque Especial al rival."
+    },
+    {
+        "name": "Barrera Espinosa",
+        "type": "planta",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Evita todo da�o directo y efectos de movimientos del rival. Su precisi�n se reduce con cada uso consecutivo. Provoca da�o de un 12.5% del PS m�ximo del Pok�mon que intente tocarlo."
+    },
+    {
+        "name": "Niebla Arom�tica",
+        "type": "hada",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel la Defensa Especial al usuario y sus aliados."
+    },
+    {
+        "name": "Onda An�mala",
+        "type": "electrico",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Baja dos niveles el Ataque Especial al rival."
+    },
+    {
+        "name": "Trampa Venenosa",
+        "type": "veneno",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Baja un nivel el Ataque, el Ataque Especial y la Velocidad al rival si est� envenenado o intoxicado."
+    },
+    {
+        "name": "Polvo Explosivo",
+        "type": "bicho",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Provoca que el rival se haga da�o a s� mismo si usa un ataque de tipo Fuego ese mismo turno."
+    },
+    {
+        "name": "Geocontrol",
+        "type": "hada",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Se prepara en el primer turno para aumentar dos niveles su Ataque Especial, su Defensa Especial y su Velocidad en el segundo."
+    },
+    {
+        "name": "Aura Magn�tica",
+        "type": "electrico",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel la Defensa y la Defensa Especial al usuario y sus aliados con la habilidad M�s o Menos."
+    },
+    {
+        "name": "Paga Extra",
+        "type": "normal",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Duplica el dinero ganado tras batallas contra entrenadores del juego."
+    },
+    {
+        "name": "Campo El�ctrico",
+        "type": "electrico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Crea un campo el�ctrico durante 5 turnos. Los Pok�mon en el suelo no pueden ser dormidos."
+    },
+    {
+        "name": "Brillo M�gico",
+        "type": "hada",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Celebraci�n",
+        "type": "normal",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "--",
+        "effect": "No hace nada."
+    },
+    {
+        "name": "Manos Juntas",
+        "type": "normal",
+        "power": "--",
+        "pp": "40",
+        "accuracy": "--",
+        "effect": "El Pok�mon baila con su aliado en un combate m�ltiple."
+    },
+    {
+        "name": "Ojitos Tiernos",
+        "type": "hada",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Baja un nivel el Ataque al rival. Golpea primero."
+    },
+    {
+        "name": "Moflete Est�tico",
+        "type": "electrico",
+        "power": "20",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "100% de paralizar al rival."
+    },
+    {
+        "name": "Clemencia",
+        "type": "normal",
+        "power": "40",
+        "pp": "40",
+        "accuracy": "100%",
+        "effect": "Deja al rival con al menos 1 PS."
+    },
+    {
+        "name": "Acoso",
+        "type": "bicho",
+        "power": "20",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "El Pok�mon rival permanece atrapado de 4 a 5 turnos, recibiendo un da�o del 12.5% del PS cada turno."
+    },
+    {
+        "name": "Pu�o Incremento",
+        "type": "lucha",
+        "power": "40",
+        "pp": "30",
+        "accuracy": "100%",
+        "effect": "Aumenta un nivel el Ataque al usuario cada vez que golpea a un Pok�mon rival."
+    },
+    {
+        "name": "Ala Mort�fera",
+        "type": "volador",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El usuario recupera PS equivalente al 75% del da�o causado."
+    },
+    {
+        "name": "Mil Flechas",
+        "type": "tierra",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Golpea a Pok�mon en mitad de un Vuelo, Bote o Ca�da Libre. Los Pok�mon voladores o con Levitaci�n pierden su inmunidad a Tierra."
+    },
+    {
+        "name": "Mil Temblores",
+        "type": "tierra",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El Pok�mon rival permanece atrapado de 4 a 5 turnos, recibiendo un da�o del 12.5% del PS cada turno."
+    },
+    {
+        "name": "Fuerza Tel�rica",
+        "type": "tierra",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Luz Aniquiladora",
+        "type": "hada",
+        "power": "140",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "Provoca un da�o de retroceso del 50% del da�o provocado al Pok�mon rival."
+    },
+    {
+        "name": "Pulso Primigenio",
+        "type": "agua",
+        "power": "110",
+        "pp": "10",
+        "accuracy": "85%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Filo del Abismo",
+        "type": "tierra",
+        "power": "120",
+        "pp": "10",
+        "accuracy": "85%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Ascenso Draco",
+        "type": "volador",
+        "power": "120",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "Baja un nivel la Defensa y la Defensa Especial al usuario."
+    },
+    {
+        "name": "Cerco Dimensi�n",
+        "type": "siniestro",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "--",
+        "effect": "Golpea aunque el rival use Protecci�n, Detecci�n, Vastaguardia o Anticipo ese turno. Baja un nivel la Defensa al usuario."
+    },
+    {
+        "name": "Carrera Arrolladora",
+        "type": "normal",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "R�faga Demoledora",
+        "type": "lucha",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Picado Supers�nico",
+        "type": "volador",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Diluvio Corrosivo",
+        "type": "veneno",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Barrena Tel�rica",
+        "type": "tierra",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Aplastamiento Gigal�tico",
+        "type": "roca",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Guada�a Sedosa",
+        "type": "bicho",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Presa Espectral",
+        "type": "fantasma",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "H�lice Trepanadora",
+        "type": "acero",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Hecatombe P�rica",
+        "type": "fuego",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Hidrov�rtice Abisal",
+        "type": "agua",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Megat�n Floral",
+        "type": "planta",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Gigavoltio Destructor",
+        "type": "electrico",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Disruptor Ps�quico",
+        "type": "psiquico",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Crioaliento Despiadado",
+        "type": "hielo",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Dracoaliento Devastador",
+        "type": "dragon",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Agujero Negro Aniquilador",
+        "type": "siniestro",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Arrumaco Sideral",
+        "type": "hada",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por un Pok�mon con el Cristal Z correspondiente. Su potencia depende del movimiento original."
+    },
+    {
+        "name": "Pikavoltio Letal",
+        "type": "electrico",
+        "power": "210",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Pikachu con Pikastal Z equipado."
+    },
+    {
+        "name": "Recogearena",
+        "type": "tierra",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario recupera 66.6% PS en Tormenta de Arena, y 50% PS si no hay clima o en D�a Soleado, Llovizna o Granizo."
+    },
+    {
+        "name": "Escaramuza",
+        "type": "bicho",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Golpea primero. S�lo puede ser utilizado con �xito el primer turno de ataque del usuario tras ser intercambiado."
+    },
+    {
+        "name": "B�nker",
+        "type": "veneno",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Evita todo da�o directo y efectos de movimientos del rival. Su precisi�n se reduce con cada uso consecutivo. Provoca Envenenamiento si un Pok�mon hace contacto."
+    },
+    {
+        "name": "Puntada Sombr�a",
+        "type": "fantasma",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Impide al rival ser intercambiado, salvo usando Relevo, Ida y Vuelta, Voltiocambio o �ltima Palabra, o si tiene Muda Concha o Bot�n Escape."
+    },
+    {
+        "name": "Lariat Oscuro",
+        "type": "siniestro",
+        "power": "85",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Ignora los modificadores de stats del Pok�mon objetivo."
+    },
+    {
+        "name": "Aria Burbuja",
+        "type": "agua",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Si el Pok�mon rival se encuentra Quemado, este ataque le cura la Quemadura al rival."
+    },
+    {
+        "name": "Martillo Hielo",
+        "type": "hielo",
+        "power": "100",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Baja un nivel la Velocidad al usuario."
+    },
+    {
+        "name": "Cura Floral",
+        "type": "hada",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El Pok�mon objetivo recupera 66.6% PS en Campo de Hierba, y 50% PS si no hay campo o en Campo El�ctrico, Campo Ps�quico o Campo de Niebla."
+    },
+    {
+        "name": "Fuerza Equina",
+        "type": "tierra",
+        "power": "95",
+        "pp": "10",
+        "accuracy": "95%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Absorbefuerza",
+        "type": "planta",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "100% de reducir un nivel el Ataque al rival. El usuario recupera PS equivalente al Ataque del Pok�mon objetivo antes de dicha reducci�n."
+    },
+    {
+        "name": "Cuchilla Solar",
+        "type": "planta",
+        "power": "125",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Precisa un turno de carga, salvo en D�a Soleado. En Llovizna, Granizo y Tormenta de Arena su poder base es la mitad."
+    },
+    {
+        "name": "Follaje",
+        "type": "planta",
+        "power": "40",
+        "pp": "40",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Foco",
+        "type": "normal",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "En batallas m�ltiples, los ataques que usen los otros Pok�mon ese turno golpear�n al Pok�mon objetivo, ignorando la elecci�n de su entrenador. No afecta a los ataques varios objetivos."
+    },
+    {
+        "name": "Hilo Venenoso",
+        "type": "veneno",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "100% de reducir un nivel la Velocidad al rival. Provoca Envenenamiento."
+    },
+    {
+        "name": "Aguzar",
+        "type": "normal",
+        "power": "--",
+        "pp": "30",
+        "accuracy": "--",
+        "effect": "Garantiza que el ataque que realice el usuario el siguiente turno sea Golpe Cr�tico."
+    },
+    {
+        "name": "Pi��n Auxiliar",
+        "type": "acero",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Aumenta un nivel el Ataque y el Ataque Especial al usuario y sus aliados con la habilidad M�s o Menos."
+    },
+    {
+        "name": "Golpe Mordaza",
+        "type": "siniestro",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El Pok�mon rival no puede usar movimientos de sonido durante 2 turnos."
+    },
+    {
+        "name": "Bola de Polen",
+        "type": "bicho",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Si el Pok�mon objetivo es un aliado, este movimiento recupera el 50% de su PS m�ximo en lugar de hacerle da�o."
+    },
+    {
+        "name": "Anclaje",
+        "type": "acero",
+        "power": "80",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Impide al rival ser intercambiado, salvo usando Relevo, Ida y Vuelta, Voltiocambio o �ltima Palabra, o si tiene Muda Concha o Bot�n Escape."
+    },
+    {
+        "name": "Campo Ps�quico",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Crea un campo ps�quico durante 5 turnos. Los Pok�mon en el suelo no pueden ser afectados por movimientos con prioridad."
+    },
+    {
+        "name": "Plancha",
+        "type": "bicho",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "100% de reducir un nivel el Ataque al rival."
+    },
+    {
+        "name": "L�tigo �gneo",
+        "type": "fuego",
+        "power": "80",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "100% de reducir un nivel la Defensa al rival."
+    },
+    {
+        "name": "Chuler�a",
+        "type": "siniestro",
+        "power": "20",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El poder base del movimiento aumenta cuantos m�s modificadores positivos de stats tiene el usuario."
+    },
+    {
+        "name": "Llama Final",
+        "type": "fuego",
+        "power": "130",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El usuario perder� su tipo Fuego (si lo tiene), con lo que ello afecta a sus inmunidades, debilidades y resistencias."
+    },
+    {
+        "name": "Cambia Velocidad",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "El usuario intercambia su estad�stica de Velocidad con el rival."
+    },
+    {
+        "name": "Cuerno Certero",
+        "type": "acero",
+        "power": "70",
+        "pp": "10",
+        "accuracy": "--",
+        "effect": "Siempre golpea."
+    },
+    {
+        "name": "Purificaci�n",
+        "type": "veneno",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Cura cualquier problema de estado del Pok�mon objetivo. Si lo hace, el usuario recupera el 50% de su PS m�ximo."
+    },
+    {
+        "name": "Danza Despertar",
+        "type": "normal",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El tipo del ataque depende del primer tipo del usuario."
+    },
+    {
+        "name": "N�cleo Castigo",
+        "type": "dragon",
+        "power": "100",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Si el Pok�mon rival ya ha usado un movimiento este turno, cancela el efecto de su habilidad mientras no sea intercambiado."
+    },
+    {
+        "name": "Patada Tropical",
+        "type": "planta",
+        "power": "70",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "100% de reducir un nivel el Ataque al rival."
+    },
+    {
+        "name": "Mandato",
+        "type": "psiquico",
+        "power": "--",
+        "pp": "15",
+        "accuracy": "--",
+        "effect": "El Pok�mon objetivo ejecuta inmediatamente el �ltimo movimiento que haya usado en combate."
+    },
+    {
+        "name": "Pico Ca��n",
+        "type": "volador",
+        "power": "100",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Ataca �ltimo y provoca Quemadura a todo Pok�mon que lo golpee mientras se carga."
+    },
+    {
+        "name": "Fragor Escamas",
+        "type": "dragon",
+        "power": "110",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "100% de reducir un nivel la Defensa al usuario."
+    },
+    {
+        "name": "Martillo Drag�n",
+        "type": "dragon",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Ninguno."
+    },
+    {
+        "name": "Giro Vil",
+        "type": "siniestro",
+        "power": "60",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Golpea a todos los Pok�mon adyacentes al usuario haciendo contacto en todos ellos."
+    },
+    {
+        "name": "Velo Aurora",
+        "type": "hielo",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Reduce el da�o provocado a tu Pok�mon por ataques f�sicos y especiales del rival en un 50% (33% en 2vs2) durante 5 turnos. S�lo se puede usar durante Granizo."
+    },
+    {
+        "name": "Aluvi�n de Flechas Sombr�as",
+        "type": "fantasma",
+        "power": "180",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Decidueye con Dueyestal Z equipado."
+    },
+    {
+        "name": "Hiperplancha Oscura",
+        "type": "siniestro",
+        "power": "180",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Incineroar con Incinostal Z equipado."
+    },
+    {
+        "name": "Sinfon�a de la Diva Marina",
+        "type": "agua",
+        "power": "195",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Primarina con Primastal Z equipado."
+    },
+    {
+        "name": "C�lera del Guardi�n",
+        "type": "hada",
+        "power": "1",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Tapu Koko, Tapu Lele, Tapu Fini o Tapu Bulu con Tapistal Z equipado. Causa un da�o equivalente al 75% del PS que le queda al Pok�mon rival."
+    },
+    {
+        "name": "Constelaci�n Robaalmas",
+        "type": "fantasma",
+        "power": "195",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Marshadow con Marshastal Z equipado."
+    },
+    {
+        "name": "Surfeo Galv�nico",
+        "type": "electrico",
+        "power": "175",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Raichu de Alola con Alo-Raistal Z equipado. 100% de paralizar al rival."
+    },
+    {
+        "name": "Arrojo Intempestivo",
+        "type": "normal",
+        "power": "210",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Snorlax con Snorlastal Z equipado."
+    },
+    {
+        "name": "Novena Potencia",
+        "type": "normal",
+        "power": "--",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Eevee con Eeveestal Z equipado. Aumenta dos niveles el Ataque, la Defensa, el Ataque Especial, la Defensa Especial y la Velocidad al usuario."
+    },
+    {
+        "name": "Supernova Original",
+        "type": "psiquico",
+        "power": "185",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Mew con Mewstal Z equipado. Crea un Campo Ps�quico durante 5 turnos."
+    },
+    {
+        "name": "Coraza Trampa",
+        "type": "fuego",
+        "power": "150",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "Ataca �ltimo solamente si ha recibido un ataque f�sico del Pok�mon rival durante el mismo turno."
+    },
+    {
+        "name": "Ca��n Floral",
+        "type": "hada",
+        "power": "130",
+        "pp": "5",
+        "accuracy": "90%",
+        "effect": "100% de reducir dos niveles el Ataque Especial al usuario."
+    },
+    {
+        "name": "Psicocolmillo",
+        "type": "psiquico",
+        "power": "85",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Destruye Pantalla de Luz, Reflejo y Velo Aurora, incluso si falla."
+    },
+    {
+        "name": "Pataleta",
+        "type": "tierra",
+        "power": "75",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El poder base se duplica si el usuario fall� el �ltimo movimiento usado."
+    },
+    {
+        "name": "Hueso Sombr�o",
+        "type": "fantasma",
+        "power": "85",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "20% de reducir un nivel la Defensa al rival."
+    },
+    {
+        "name": "Roca Veloz",
+        "type": "roca",
+        "power": "40",
+        "pp": "20",
+        "accuracy": "100%",
+        "effect": "Golpea primero."
+    },
+    {
+        "name": "Hidroariete",
+        "type": "agua",
+        "power": "85",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "20% de reducir un nivel la Defensa al rival."
+    },
+    {
+        "name": "L�ser Prisma",
+        "type": "psiquico",
+        "power": "160",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "Impide al usuario usar un movimiento o ser intercambiado en el siguiente turno."
+    },
+    {
+        "name": "Robasombra",
+        "type": "fantasma",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El usuario obtiene los modificadores positivos de todos los stats del rival antes de atacarle."
+    },
+    {
+        "name": "Meteoimpacto",
+        "type": "acero",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "Ignora las habilidades de los Pok�mon en juego."
+    },
+    {
+        "name": "Rayo Umbr�o",
+        "type": "fantasma",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "Ignora las habilidades de los Pok�mon en juego."
+    },
+    {
+        "name": "Ojos Llorosos",
+        "type": "normal",
+        "power": "--",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Baja un nivel el Ataque y el Ataque Especial al rival."
+    },
+    {
+        "name": "Electropunzada",
+        "type": "electrico",
+        "power": "80",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "30% de hacer retroceder al rival."
+    },
+    {
+        "name": "Furia Natural",
+        "type": "hada",
+        "power": "1",
+        "pp": "10",
+        "accuracy": "90%",
+        "effect": "Causa un da�o equivalente a la mitad del PS que le queda al Pok�mon rival."
+    },
+    {
+        "name": "Multiataque",
+        "type": "normal",
+        "power": "90",
+        "pp": "10",
+        "accuracy": "100%",
+        "effect": "El tipo del ataque depende de la Memoria equipada."
+    },
+    {
+        "name": "Gigarrayo Fulminante",
+        "type": "electrico",
+        "power": "195",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Pikachu con gorra con Ash-Pikastal Z equipado. Alta probabilidad de Golpe Cr�tico."
+    },
+    {
+        "name": "Cabeza Sorpresa",
+        "type": "fuego",
+        "power": "150",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El usuario recibe un da�o equivalente al 50% de su PS m�ximo."
+    },
+    {
+        "name": "Pu�os Plasma",
+        "type": "electrico",
+        "power": "100",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Los movimientos de tipo Normal pasan a ser de tipo El�ctrico."
+    },
+    {
+        "name": "G�iser Fot�nico",
+        "type": "psiquico",
+        "power": "100",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "El da�o de este ataque se calcula con el stat de Ataque o de Ataque Especial, en funci�n de cu�l sea m�s alto."
+    },
+    {
+        "name": "Fotodestrucci�n Apocal�ptica",
+        "type": "psiquico",
+        "power": "200",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Necrozma con Ultranecrostal Z equipado. El da�o de este ataque se calcula con el stat de Ataque o de Ataque Especial, en funci�n de cu�l sea m�s alto."
+    },
+    {
+        "name": "Embestida Solar",
+        "type": "acero",
+        "power": "200",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Solgaleo con Solgaleostal Z equipado. Ignora las habilidades de los Pok�mon en juego."
+    },
+    {
+        "name": "Deflagraci�n Lunar",
+        "type": "fantasma",
+        "power": "200",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Lunala con Lunalastal Z equipado. Ignora las habilidades de los Pok�mon en juego."
+    },
+    {
+        "name": "Somanta Amistosa",
+        "type": "hada",
+        "power": "190",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Mimikyu con Mimikyustal Z equipado."
+    },
+    {
+        "name": "Tempestad Rocosa",
+        "type": "roca",
+        "power": "190",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Lycanroc con Lycanrostal Z equipado. Anula los efectos del campo que haya en el terreno de combate."
+    },
+    {
+        "name": "Estruendo Implacable",
+        "type": "dragon",
+        "power": "185",
+        "pp": "1",
+        "accuracy": "--",
+        "effect": "Movimiento Z que s�lo puede ser usado una vez por combate. S�lo puede ser utilizado por Kommo-o con Kommostal Z equipado. Aumenta un nivel el Ataque, la Defensa, la Velocidad, el Ataque Especial y la Defensa Especial al usuario."
+    },
+    {
+        "name": "Pikaturbo",
+        "type": "electrico",
+        "power": "50",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Golpea primero. Siempre provoca un Golpe Cr�tico salvo que una habilidad o efecto lo impida."
+    },
+    {
+        "name": "Salpikasurf",
+        "type": "agua",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "30% de paralizar al rival."
+    },
+    {
+        "name": "Pikapicado",
+        "type": "volador",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "95%",
+        "effect": "30% de hacer retroceder al rival."
+    },
+    {
+        "name": "Pikatormenta",
+        "type": "electrico",
+        "power": "1",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Su poder base depende de la Felicidad del Pok�mon, entre 0 y 102."
+    },
+    {
+        "name": "Vapodrenaje",
+        "type": "agua",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "El usuario recupera PS equivalente a la mitad del da�o causado."
+    },
+    {
+        "name": "Joltiopar�lisis",
+        "type": "electrico",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "100% de paralizar al rival."
+    },
+    {
+        "name": "Flarembestida",
+        "type": "fuego",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "100% de quemar al rival."
+    },
+    {
+        "name": "Espeaura",
+        "type": "psiquico",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Reduce el da�o provocado a tu Pok�mon por ataques especiales del rival en un 50% (33% en 2vs2) durante 5 turnos."
+    },
+    {
+        "name": "Umbreozona",
+        "type": "siniestro",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Reduce el da�o provocado a tu Pok�mon por ataques f�sicos del rival en un 50% (33% en 2vs2) durante 5 turnos."
+    },
+    {
+        "name": "Leafitobombas",
+        "type": "planta",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "100% de poner Drenadoras al rival."
+    },
+    {
+        "name": "Glaceoprisma",
+        "type": "hielo",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Elimina todos los modificadores de stats de todos los Pok�mon."
+    },
+    {
+        "name": "Sylveotornado",
+        "type": "hada",
+        "power": "90",
+        "pp": "15",
+        "accuracy": "100%",
+        "effect": "Cura cualquier problema de estado de cualquier miembro de tu equipo."
+    },
+    {
+        "name": "Eevimpacto",
+        "type": "normal",
+        "power": "1",
+        "pp": "20",
+        "accuracy": "--",
+        "effect": "Su poder base depende de la Felicidad del Pok�mon, entre 0 y 102."
+    },
+    {
+        "name": "Ferropu�o Doble",
+        "type": "acero",
+        "power": "60",
+        "pp": "5",
+        "accuracy": "100%",
+        "effect": "30% de hacer retroceder al rival. Golpea 2 veces seguidas."
+    }
+]
