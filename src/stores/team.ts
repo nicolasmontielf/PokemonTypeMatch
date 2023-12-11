@@ -1,6 +1,6 @@
 import { ref } from 'vue'
 import { defineStore } from 'pinia'
-import type { Pokemon, PokemonMove } from '@/types'
+import type { Pokemon, PokemonMove, Move } from '@/types'
 
 export const useTeamStore = defineStore('team', () => {
     const myTeam = ref<Pokemon[]>([])
@@ -18,7 +18,7 @@ export const useTeamStore = defineStore('team', () => {
         myTeam.value = []
     }
 
-    function addMove(pokemonId: number, move: PokemonMove): void {
+    function addMove(pokemonId: number, move: Move): void {
         const pokemon = myTeam.value.findIndex(p => p.id === pokemonId)
         if (pokemon === -1) {
             return;

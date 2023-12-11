@@ -43,3 +43,12 @@ export interface Type {
 export type TypesFile = {
     [key in TypeValue]: Type
 }
+
+export interface Move {
+    name: string,
+    type: TypeValue,
+    power: string, // Damage
+    pp: string, // Power points
+    accuracy: string, // The percentaje
+    effect?: string
+}

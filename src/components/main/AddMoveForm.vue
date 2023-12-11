@@ -1,11 +1,14 @@
 <script setup lang="ts">
-    import { reactive } from 'vue'
-    import type { PokemonMove } from '@/types';
+    import { ref } from 'vue'
     import { useTeamStore } from '@/stores/team';
-    import { getListOfTypes } from '@/services/types';
+    import { getMovesForSelect } from '@/services/moves' 
+
+    import { ModelListSelect } from 'vue-search-select'
+    import "vue-search-select/dist/VueSearchSelect.css"
 
     const teamStore = useTeamStore()
-    const types = getListOfTypes()
+    const moves = getMovesForSelect()
+    const selectedMove = ref<string>()
 
     const props = defineProps<{
         open: boolean,
@@ -16,23 +19,17 @@
         (e: 'dialog-closed'): void
     }>()
 
-    const move = reactive<PokemonMove>({
-        name: '',
-        type: 'normal'
-    })
-
     function addMove() {
-        if (!move.name || !move.type) {
+        if (!selectedMove.value) {
             return;
         }
 
-        teamStore.addMove(props.pokemonId, {name: move.name, type: move.type})
+        teamStore.addMove(props.pokemonId, JSON.parse(selectedMove.value))
         closeAndReset()
     }
 
     function closeAndReset() {
-        move.name = ''
-        move.type = 'normal'
+        selectedMove.value = undefined
         emit('dialog-closed')
     }
 </script>
@@ -40,34 +37,21 @@
 <template>
     <dialog class="p-5 fixed right-1 bottom-1/2 border rounded-md bg-red-200" :open="open">
         <form @submit.prevent="addMove">
-            <div class="grid grid-cols-2 gap-3">
-                <div class="col-span-1 my-3">
-                    <label class="block text-sm font-medium leading-6 text-gray-900">Nombre del Movimiento</label>
-                    <div class="mt-2 relative">
-                        <input v-model="move.name" type="text" class="px-2 w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
-                    </div>
-                </div>
-
-                <div class="col-span-1 my-3">
-                    <label class="block text-sm font-medium leading-6 text-gray-900">Tipo</label>
-                    <div class="mt-2">
-                        <select v-model="move.type" class="px-2 block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:max-w-xs sm:text-sm sm:leading-6">
-                            <option
-                                class="capitalize"
-                                :value="type"
-                                v-for="type of types"
-                                :key="type"
-                            >
-                                {{ type }}
-                            </option>
-                        </select>
-                    </div>
-                </div>
-
+            <div class="w-80">
                 <div class="col-span-full">
+                    <ModelListSelect
+                        :list="moves"
+                        optionValue="value"
+                        optionText="label"
+                        v-model="selectedMove"
+                        placeholder="Busca el movimiento"
+                    />
+                </div>
+                
+                <div class="col-span-full mt-5">
                     <button
                         type="button"
-                        class="inline px-3 mx-1 py-2 text-xs font-medium text-center text-white bg-red-400 rounded-lg focus:ring-4 focus:outline-none"
+                        class="inline px-3 mx-1 py-2 text-xs font-medium text-center text-white bg-red-400 rounded-lg"
                         @click="closeAndReset"
                     >
                         Cerrar
@@ -75,12 +59,11 @@
 
                     <button
                         type="submit"
-                        class="inline px-3 mx-1 py-2 text-xs font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300"
+                        class="inline px-3 mx-1 py-2 text-xs font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800"
                     >
                         Agregar
                     </button>
-                </div>
-
+                </div> 
             </div>
         </form>
     </dialog>
