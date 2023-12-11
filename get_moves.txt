@@ -1,0 +1,94 @@
+import axios from 'axios'
+import * as cheerio from 'cheerio'
+import fs from 'node:fs'
+
+
+const stream = fs.createWriteStream('./moves.json', { encoding: 'utf8' })
+const { data } = await axios.get('https://www.pokexperto.net/index2.php?seccion=nds/movimientos_pokemon', {
+    headers: {
+        'Content-Type': 'text/html; charset=utf-8'
+    }
+})
+const $ = cheerio.load(data);
+
+const tableMoves = $('table.pkmain table.sortable.left');
+const moves = $(tableMoves).find('tbody tr.check3.bazul');
+const length = moves.length;
+
+stream.write('[\n')
+
+for (let move of moves) {
+    const data = $(move).find('td');
+    const [nameEl, typeEl, _, powerEl, ppEl, accuracyEl, effectEl] = data;
+
+    const id = $(move).find('th:first-child').text().trim();
+    const name = $(nameEl).find('a:first-child').text().trim();
+    const type = $(typeEl).find('img').attr('alt');
+    const power = $(powerEl).text().trim();
+    const pp = $(ppEl).text().trim();
+    const accuracy = $(accuracyEl).text().trim();
+    const effect = $(effectEl).text().trim();
+
+    stream.write(JSON.stringify({ id, name, type: getCorrectType(type), power, pp, accuracy, effect }) + ',\n')
+}
+
+function getCorrectType(type) {
+    if (type.toLowerCase() === 'normal') {
+        return 'normal';
+    }
+    if (type.toLowerCase() === 'fuego') {
+        return 'fire';
+    }
+    if (type.toLowerCase() === 'agua') {
+        return 'water';
+    }
+    if (type.toLowerCase() === 'electrico') {
+        return 'electric';
+    }
+    if (type.toLowerCase() === 'planta') {
+        return 'grass';
+    }
+    if (type.toLowerCase() === 'hielo') {
+        return 'ice';
+    }
+    if (type.toLowerCase() === 'lucha') {
+        return 'fighting';
+    }
+    if (type.toLowerCase() === 'veneno') {
+        return 'poison';
+    }
+    if (type.toLowerCase() === 'tierra') {
+        return 'ground';
+    }
+    if (type.toLowerCase() === 'volador') {
+        return 'flying';
+    }
+    if (type.toLowerCase() === 'psiquico') {
+        return 'psychic';
+    }
+    if (type.toLowerCase() === 'bicho') {
+        return 'bug';
+    }
+    if (type.toLowerCase() === 'roca') {
+        return 'rock';
+    }
+    if (type.toLowerCase() === 'fantasma') {
+        return 'ghost';
+    }
+    if (type.toLowerCase() === 'dragon') {
+        return 'dragon';
+    }
+    if (type.toLowerCase() === 'siniestro') {
+        return 'dark';
+    }
+    if (type.toLowerCase() === 'acero') {
+        return 'steel';
+    }
+    if (type.toLowerCase() === 'hada') {
+        return 'fairy';
+    }
+
+    return 'nicooo'
+}
+
+stream.write(']')
