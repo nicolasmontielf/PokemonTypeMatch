@@ -62,6 +62,7 @@
             <ModelListSelect
                 :list="listOfPokemones"
                 v-model="query"
+                @update:modelValue="search"
                 optionValue="value"
                 optionText="label"
                 placeholder="Busca el pokemon"
