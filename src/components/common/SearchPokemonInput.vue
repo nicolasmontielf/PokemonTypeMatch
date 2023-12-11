@@ -4,8 +4,18 @@
     import { getPokemon } from '@/services/pokemon';
     import type { Pokemon } from '@/types';
     import { ref } from 'vue'
+    import POKEMONES from '@/data/pokemones.json'
+
+    import { ModelListSelect } from 'vue-search-select'
+    import "vue-search-select/dist/VueSearchSelect.css"
     
-    const query = ref<string>('')
+    const listOfPokemones = POKEMONES.map(pokemon => {
+        return {
+            label: pokemon.toUpperCase().trim(),
+            value: pokemon.toLowerCase().trim()
+        }
+    })
+    const query = ref<string>()
     const isLoading = ref<boolean>(false)
 
     const emit = defineEmits<{
@@ -21,6 +31,7 @@
         if (!query.value) {
             return
         }
+
         setLoader(true)
         const response = await getPokemon(slugifyString(query.value))
 
@@ -36,8 +47,9 @@
             name: response.name.toUpperCase(),
             types: response.types.map((type) => type.type.name)
         })
+
         setLoader(false)
-        query.value = ''
+        query.value = undefined
     }
 
 </script>
@@ -46,15 +58,17 @@
     <div>
         <label class="block text-sm font-medium leading-6 text-gray-900">Nombre del Pokemon</label>
         <div class="mt-2 relative">
-            <input
-                v-model.trim="query"
-                type="text"
-                class="px-2 w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300"
-                @keyup.enter="search"
-                :disabled="isLoading"
-            >
+    
+            <ModelListSelect
+                :list="listOfPokemones"
+                v-model="query"
+                optionValue="value"
+                optionText="label"
+                placeholder="Busca el pokemon"
+                :isDisabled="isLoading"
+            />
 
-            <button :disabled="isLoading" type="button" class="absolute right-3 top-2" @click="search">
+            <button :disabled="isLoading" type="button" class="absolute right-0 top-0 bg-blue-600 p-2 rounded text-white" @click="search">
                 <SearchIcon class="w-5" />
             </button>
         </div>
