@@ -25,7 +25,7 @@ export interface Pokemon {
     image?: string,
     name: string,
     types: TypeValue[]
-    moves?: PokemonMove[]
+    moves?: Move[]
 }
 
 export type TypeValue = "normal" | "fire" | "water" | "electric" | "grass" | "ice" | "fighting" | "poison" | "ground" | "flying" | "psychic" | "bug" | "rock" | "ghost" | "dragon" | "dark" | "steel"
@@ -45,6 +45,7 @@ export type TypesFile = {
 }
 
 export interface Move {
+    id: string,
     name: string,
     type: TypeValue,
     power: string, // Damage

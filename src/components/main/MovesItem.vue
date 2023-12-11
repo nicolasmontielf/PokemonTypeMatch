@@ -1,12 +1,12 @@
 <script setup lang="ts">
     import { computed } from 'vue'
-    import type { PokemonMove, TypeValue } from '@/types';
+    import type { Move, TypeValue } from '@/types';
     import { getIcon, calculateDamage } from '@/services/types';
     import { useTeamStore } from '@/stores/team';
     import { useCommonStore } from '@/stores/common';
 
     const props = defineProps<{
-        move: PokemonMove,
+        move: Move,
         pokemonId: number
     }>()
     const commonStore = useCommonStore()

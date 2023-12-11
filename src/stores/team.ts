@@ -1,6 +1,6 @@
 import { ref } from 'vue'
 import { defineStore } from 'pinia'
-import type { Pokemon, PokemonMove, Move } from '@/types'
+import type { Pokemon, Move } from '@/types'
 
 export const useTeamStore = defineStore('team', () => {
     const myTeam = ref<Pokemon[]>([])
@@ -28,14 +28,14 @@ export const useTeamStore = defineStore('team', () => {
         myTeam.value[pokemon].moves = [...currentMoves, move]
     }
 
-    function removeMove(pokemonId: number, move: PokemonMove): void {
+    function removeMove(pokemonId: number, move: Move): void {
         const pokemon = myTeam.value.findIndex(p => p.id === pokemonId)
         if (pokemon === -1) {
             return;
         }
 
         const currentMoves = myTeam.value[pokemon].moves ?? []
-        myTeam.value[pokemon].moves = currentMoves.filter(m => m.name !== move.name)
+        myTeam.value[pokemon].moves = currentMoves.filter(m => m.id != move.id)
     }
 
     return {
