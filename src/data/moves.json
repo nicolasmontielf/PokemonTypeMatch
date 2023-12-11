@@ -9,7 +9,7 @@
     },
     {
         "name": "Golpe K�rate",
-        "type": "lucha",
+        "type": "fighting",
         "power": "50",
         "pp": "25",
         "accuracy": "100%",
@@ -49,7 +49,7 @@
     },
     {
         "name": "Pu�o Fuego",
-        "type": "fuego",
+        "type": "fire",
         "power": "75",
         "pp": "15",
         "accuracy": "100%",
@@ -57,7 +57,7 @@
     },
     {
         "name": "Pu�o Hielo",
-        "type": "hielo",
+        "type": "ice",
         "power": "75",
         "pp": "15",
         "accuracy": "100%",
@@ -65,7 +65,7 @@
     },
     {
         "name": "Pu�o Trueno",
-        "type": "electrico",
+        "type": "electric",
         "power": "75",
         "pp": "15",
         "accuracy": "100%",
@@ -121,7 +121,7 @@
     },
     {
         "name": "Tornado",
-        "type": "volador",
+        "type": "flying",
         "power": "40",
         "pp": "35",
         "accuracy": "100%",
@@ -129,7 +129,7 @@
     },
     {
         "name": "Ataque Ala",
-        "type": "volador",
+        "type": "flying",
         "power": "60",
         "pp": "35",
         "accuracy": "100%",
@@ -145,7 +145,7 @@
     },
     {
         "name": "Vuelo",
-        "type": "volador",
+        "type": "flying",
         "power": "90",
         "pp": "15",
         "accuracy": "95%",
@@ -169,7 +169,7 @@
     },
     {
         "name": "L�tigo Cepa",
-        "type": "planta",
+        "type": "grass",
         "power": "45",
         "pp": "25",
         "accuracy": "100%",
@@ -185,7 +185,7 @@
     },
     {
         "name": "Doble Patada",
-        "type": "lucha",
+        "type": "fighting",
         "power": "30",
         "pp": "30",
         "accuracy": "100%",
@@ -201,7 +201,7 @@
     },
     {
         "name": "Patada Salto",
-        "type": "lucha",
+        "type": "fighting",
         "power": "100",
         "pp": "10",
         "accuracy": "95%",
@@ -209,7 +209,7 @@
     },
     {
         "name": "Patada Giro",
-        "type": "lucha",
+        "type": "fighting",
         "power": "60",
         "pp": "15",
         "accuracy": "85%",
@@ -217,7 +217,7 @@
     },
     {
         "name": "Ataque Arena",
-        "type": "tierra",
+        "type": "ground",
         "power": "--",
         "pp": "15",
         "accuracy": "100%",
@@ -313,7 +313,7 @@
     },
     {
         "name": "Picotazo Ven",
-        "type": "veneno",
+        "type": "poison",
         "power": "15",
         "pp": "35",
         "accuracy": "100%",
@@ -321,7 +321,7 @@
     },
     {
         "name": "Doble Ataque",
-        "type": "bicho",
+        "type": "bug",
         "power": "25",
         "pp": "20",
         "accuracy": "100%",
@@ -329,7 +329,7 @@
     },
     {
         "name": "Pin Misil",
-        "type": "bicho",
+        "type": "bug",
         "power": "25",
         "pp": "20",
         "accuracy": "95%",
@@ -345,7 +345,7 @@
     },
     {
         "name": "Mordisco",
-        "type": "siniestro",
+        "type": "dark",
         "power": "60",
         "pp": "25",
         "accuracy": "100%",
@@ -401,7 +401,7 @@
     },
     {
         "name": "�cido",
-        "type": "veneno",
+        "type": "poison",
         "power": "40",
         "pp": "30",
         "accuracy": "100%",
@@ -409,7 +409,7 @@
     },
     {
         "name": "Ascuas",
-        "type": "fuego",
+        "type": "fire",
         "power": "40",
         "pp": "25",
         "accuracy": "100%",
@@ -417,7 +417,7 @@
     },
     {
         "name": "Lanzallamas",
-        "type": "fuego",
+        "type": "fire",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -425,7 +425,7 @@
     },
     {
         "name": "Neblina",
-        "type": "hielo",
+        "type": "ice",
         "power": "--",
         "pp": "30",
         "accuracy": "--",
@@ -433,7 +433,7 @@
     },
     {
         "name": "Pistola Agua",
-        "type": "agua",
+        "type": "water",
         "power": "40",
         "pp": "25",
         "accuracy": "100%",
@@ -441,7 +441,7 @@
     },
     {
         "name": "Hidrobomba",
-        "type": "agua",
+        "type": "water",
         "power": "110",
         "pp": "5",
         "accuracy": "80%",
@@ -449,7 +449,7 @@
     },
     {
         "name": "Surf",
-        "type": "agua",
+        "type": "water",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -457,7 +457,7 @@
     },
     {
         "name": "Rayo Hielo",
-        "type": "hielo",
+        "type": "ice",
         "power": "90",
         "pp": "10",
         "accuracy": "100%",
@@ -465,7 +465,7 @@
     },
     {
         "name": "Ventisca",
-        "type": "hielo",
+        "type": "ice",
         "power": "110",
         "pp": "5",
         "accuracy": "70%",
@@ -473,7 +473,7 @@
     },
     {
         "name": "Psicorrayo",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "65",
         "pp": "20",
         "accuracy": "100%",
@@ -481,7 +481,7 @@
     },
     {
         "name": "Rayo Burbuja",
-        "type": "agua",
+        "type": "water",
         "power": "65",
         "pp": "20",
         "accuracy": "100%",
@@ -489,7 +489,7 @@
     },
     {
         "name": "Rayo Aurora",
-        "type": "hielo",
+        "type": "ice",
         "power": "65",
         "pp": "20",
         "accuracy": "100%",
@@ -505,7 +505,7 @@
     },
     {
         "name": "Picotazo",
-        "type": "volador",
+        "type": "flying",
         "power": "35",
         "pp": "35",
         "accuracy": "100%",
@@ -513,7 +513,7 @@
     },
     {
         "name": "Pico Taladro",
-        "type": "volador",
+        "type": "flying",
         "power": "80",
         "pp": "20",
         "accuracy": "100%",
@@ -521,7 +521,7 @@
     },
     {
         "name": "Sumisi�n",
-        "type": "lucha",
+        "type": "fighting",
         "power": "80",
         "pp": "20",
         "accuracy": "80%",
@@ -529,7 +529,7 @@
     },
     {
         "name": "Patada Baja",
-        "type": "lucha",
+        "type": "fighting",
         "power": "1",
         "pp": "20",
         "accuracy": "100%",
@@ -537,7 +537,7 @@
     },
     {
         "name": "Contraataque",
-        "type": "lucha",
+        "type": "fighting",
         "power": "1",
         "pp": "20",
         "accuracy": "100%",
@@ -545,7 +545,7 @@
     },
     {
         "name": "Mov. S�smico",
-        "type": "lucha",
+        "type": "fighting",
         "power": "1",
         "pp": "20",
         "accuracy": "100%",
@@ -561,7 +561,7 @@
     },
     {
         "name": "Absorber",
-        "type": "planta",
+        "type": "grass",
         "power": "20",
         "pp": "25",
         "accuracy": "100%",
@@ -569,7 +569,7 @@
     },
     {
         "name": "Megaagotar",
-        "type": "planta",
+        "type": "grass",
         "power": "40",
         "pp": "15",
         "accuracy": "100%",
@@ -577,7 +577,7 @@
     },
     {
         "name": "Drenadoras",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "10",
         "accuracy": "90%",
@@ -593,7 +593,7 @@
     },
     {
         "name": "Hoja Afilada",
-        "type": "planta",
+        "type": "grass",
         "power": "55",
         "pp": "25",
         "accuracy": "95%",
@@ -601,7 +601,7 @@
     },
     {
         "name": "Rayo Solar",
-        "type": "planta",
+        "type": "grass",
         "power": "120",
         "pp": "10",
         "accuracy": "100%",
@@ -609,7 +609,7 @@
     },
     {
         "name": "Polvo Veneno",
-        "type": "veneno",
+        "type": "poison",
         "power": "--",
         "pp": "35",
         "accuracy": "75%",
@@ -617,7 +617,7 @@
     },
     {
         "name": "Paralizador",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "30",
         "accuracy": "75%",
@@ -625,7 +625,7 @@
     },
     {
         "name": "Somn�fero",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "15",
         "accuracy": "75%",
@@ -633,7 +633,7 @@
     },
     {
         "name": "Danza P�talo",
-        "type": "planta",
+        "type": "grass",
         "power": "120",
         "pp": "10",
         "accuracy": "100%",
@@ -641,7 +641,7 @@
     },
     {
         "name": "Disparo Demora",
-        "type": "bicho",
+        "type": "bug",
         "power": "--",
         "pp": "40",
         "accuracy": "95%",
@@ -657,7 +657,7 @@
     },
     {
         "name": "Giro Fuego",
-        "type": "fuego",
+        "type": "fire",
         "power": "35",
         "pp": "15",
         "accuracy": "85%",
@@ -665,7 +665,7 @@
     },
     {
         "name": "Impactrueno",
-        "type": "electrico",
+        "type": "electric",
         "power": "40",
         "pp": "30",
         "accuracy": "100%",
@@ -673,7 +673,7 @@
     },
     {
         "name": "Rayo",
-        "type": "electrico",
+        "type": "electric",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -681,7 +681,7 @@
     },
     {
         "name": "Onda Trueno",
-        "type": "electrico",
+        "type": "electric",
         "power": "--",
         "pp": "20",
         "accuracy": "90%",
@@ -689,7 +689,7 @@
     },
     {
         "name": "Trueno",
-        "type": "electrico",
+        "type": "electric",
         "power": "110",
         "pp": "10",
         "accuracy": "70%",
@@ -697,7 +697,7 @@
     },
     {
         "name": "Lanzarrocas",
-        "type": "roca",
+        "type": "rock",
         "power": "50",
         "pp": "15",
         "accuracy": "90%",
@@ -705,7 +705,7 @@
     },
     {
         "name": "Terremoto",
-        "type": "tierra",
+        "type": "ground",
         "power": "100",
         "pp": "10",
         "accuracy": "100%",
@@ -713,7 +713,7 @@
     },
     {
         "name": "Fisura",
-        "type": "tierra",
+        "type": "ground",
         "power": "1",
         "pp": "5",
         "accuracy": "30%",
@@ -721,7 +721,7 @@
     },
     {
         "name": "Excavar",
-        "type": "tierra",
+        "type": "ground",
         "power": "80",
         "pp": "10",
         "accuracy": "100%",
@@ -729,7 +729,7 @@
     },
     {
         "name": "T�xico",
-        "type": "veneno",
+        "type": "poison",
         "power": "--",
         "pp": "10",
         "accuracy": "90%",
@@ -737,7 +737,7 @@
     },
     {
         "name": "Confusi�n",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "50",
         "pp": "25",
         "accuracy": "100%",
@@ -745,7 +745,7 @@
     },
     {
         "name": "Ps�quico",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "90",
         "pp": "10",
         "accuracy": "100%",
@@ -753,7 +753,7 @@
     },
     {
         "name": "Hipnosis",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "20",
         "accuracy": "60%",
@@ -761,7 +761,7 @@
     },
     {
         "name": "Meditaci�n",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "40",
         "accuracy": "--",
@@ -769,7 +769,7 @@
     },
     {
         "name": "Agilidad",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "30",
         "accuracy": "--",
@@ -793,7 +793,7 @@
     },
     {
         "name": "Teletransporte",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -801,7 +801,7 @@
     },
     {
         "name": "Tinieblas",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "1",
         "pp": "15",
         "accuracy": "100%",
@@ -865,7 +865,7 @@
     },
     {
         "name": "Rayo Confuso",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "--",
         "pp": "10",
         "accuracy": "100%",
@@ -873,7 +873,7 @@
     },
     {
         "name": "Refugio",
-        "type": "agua",
+        "type": "water",
         "power": "--",
         "pp": "40",
         "accuracy": "--",
@@ -889,7 +889,7 @@
     },
     {
         "name": "Barrera",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -897,7 +897,7 @@
     },
     {
         "name": "Pantalla de Luz",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "30",
         "accuracy": "--",
@@ -905,7 +905,7 @@
     },
     {
         "name": "Niebla",
-        "type": "hielo",
+        "type": "ice",
         "power": "--",
         "pp": "30",
         "accuracy": "--",
@@ -913,7 +913,7 @@
     },
     {
         "name": "Reflejo",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -945,7 +945,7 @@
     },
     {
         "name": "Mov. Espejo",
-        "type": "volador",
+        "type": "flying",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -969,7 +969,7 @@
     },
     {
         "name": "Leng�etazo",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "30",
         "pp": "30",
         "accuracy": "100%",
@@ -977,7 +977,7 @@
     },
     {
         "name": "Poluci�n",
-        "type": "veneno",
+        "type": "poison",
         "power": "30",
         "pp": "20",
         "accuracy": "70%",
@@ -985,7 +985,7 @@
     },
     {
         "name": "Residuos",
-        "type": "veneno",
+        "type": "poison",
         "power": "65",
         "pp": "20",
         "accuracy": "100%",
@@ -993,7 +993,7 @@
     },
     {
         "name": "Hueso Palo",
-        "type": "tierra",
+        "type": "ground",
         "power": "65",
         "pp": "20",
         "accuracy": "85%",
@@ -1001,7 +1001,7 @@
     },
     {
         "name": "Llamarada",
-        "type": "fuego",
+        "type": "fire",
         "power": "110",
         "pp": "5",
         "accuracy": "85%",
@@ -1009,7 +1009,7 @@
     },
     {
         "name": "Cascada",
-        "type": "agua",
+        "type": "water",
         "power": "80",
         "pp": "15",
         "accuracy": "100%",
@@ -1017,7 +1017,7 @@
     },
     {
         "name": "Tenaza",
-        "type": "agua",
+        "type": "water",
         "power": "35",
         "pp": "10",
         "accuracy": "85%",
@@ -1057,7 +1057,7 @@
     },
     {
         "name": "Amnesia",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -1065,7 +1065,7 @@
     },
     {
         "name": "Kin�tico",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "15",
         "accuracy": "80%",
@@ -1081,7 +1081,7 @@
     },
     {
         "name": "Pat. Salto Alta",
-        "type": "lucha",
+        "type": "fighting",
         "power": "130",
         "pp": "10",
         "accuracy": "90%",
@@ -1097,7 +1097,7 @@
     },
     {
         "name": "Come Sue�os",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "100",
         "pp": "15",
         "accuracy": "100%",
@@ -1105,7 +1105,7 @@
     },
     {
         "name": "Gas Venenoso",
-        "type": "veneno",
+        "type": "poison",
         "power": "--",
         "pp": "40",
         "accuracy": "90%",
@@ -1121,7 +1121,7 @@
     },
     {
         "name": "Chupavidas",
-        "type": "bicho",
+        "type": "bug",
         "power": "80",
         "pp": "10",
         "accuracy": "100%",
@@ -1137,7 +1137,7 @@
     },
     {
         "name": "Ataque A�reo",
-        "type": "volador",
+        "type": "flying",
         "power": "140",
         "pp": "5",
         "accuracy": "90%",
@@ -1153,7 +1153,7 @@
     },
     {
         "name": "Burbuja",
-        "type": "agua",
+        "type": "water",
         "power": "40",
         "pp": "30",
         "accuracy": "100%",
@@ -1169,7 +1169,7 @@
     },
     {
         "name": "Espora",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "15",
         "accuracy": "100%",
@@ -1185,7 +1185,7 @@
     },
     {
         "name": "Psicoonda",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "1",
         "pp": "15",
         "accuracy": "100%",
@@ -1201,7 +1201,7 @@
     },
     {
         "name": "Armadura �cida",
-        "type": "veneno",
+        "type": "poison",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -1209,7 +1209,7 @@
     },
     {
         "name": "Martillazo",
-        "type": "agua",
+        "type": "water",
         "power": "100",
         "pp": "10",
         "accuracy": "90%",
@@ -1233,7 +1233,7 @@
     },
     {
         "name": "Huesomerang",
-        "type": "tierra",
+        "type": "ground",
         "power": "50",
         "pp": "10",
         "accuracy": "90%",
@@ -1241,7 +1241,7 @@
     },
     {
         "name": "Descanso",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -1249,7 +1249,7 @@
     },
     {
         "name": "Avalancha",
-        "type": "roca",
+        "type": "rock",
         "power": "75",
         "pp": "10",
         "accuracy": "90%",
@@ -1329,7 +1329,7 @@
     },
     {
         "name": "Triple Patada",
-        "type": "lucha",
+        "type": "fighting",
         "power": "10",
         "pp": "10",
         "accuracy": "90%",
@@ -1337,7 +1337,7 @@
     },
     {
         "name": "Ladr�n",
-        "type": "siniestro",
+        "type": "dark",
         "power": "60",
         "pp": "25",
         "accuracy": "100%",
@@ -1345,7 +1345,7 @@
     },
     {
         "name": "Telara�a",
-        "type": "bicho",
+        "type": "bug",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -1361,7 +1361,7 @@
     },
     {
         "name": "Pesadilla",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "--",
         "pp": "15",
         "accuracy": "100%",
@@ -1369,7 +1369,7 @@
     },
     {
         "name": "Rueda Fuego",
-        "type": "fuego",
+        "type": "fire",
         "power": "60",
         "pp": "25",
         "accuracy": "100%",
@@ -1385,7 +1385,7 @@
     },
     {
         "name": "Maldici�n",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -1409,7 +1409,7 @@
     },
     {
         "name": "Aerochorro",
-        "type": "volador",
+        "type": "flying",
         "power": "100",
         "pp": "5",
         "accuracy": "95%",
@@ -1417,7 +1417,7 @@
     },
     {
         "name": "Esporagod�n",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "40",
         "accuracy": "100%",
@@ -1425,7 +1425,7 @@
     },
     {
         "name": "Inversi�n",
-        "type": "lucha",
+        "type": "fighting",
         "power": "1",
         "pp": "15",
         "accuracy": "100%",
@@ -1433,7 +1433,7 @@
     },
     {
         "name": "Rencor",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "--",
         "pp": "10",
         "accuracy": "100%",
@@ -1441,7 +1441,7 @@
     },
     {
         "name": "Nieve Polvo",
-        "type": "hielo",
+        "type": "ice",
         "power": "40",
         "pp": "25",
         "accuracy": "100%",
@@ -1457,7 +1457,7 @@
     },
     {
         "name": "Ultrapu�o",
-        "type": "lucha",
+        "type": "fighting",
         "power": "40",
         "pp": "30",
         "accuracy": "100%",
@@ -1473,7 +1473,7 @@
     },
     {
         "name": "Finta",
-        "type": "siniestro",
+        "type": "dark",
         "power": "60",
         "pp": "20",
         "accuracy": "--",
@@ -1481,7 +1481,7 @@
     },
     {
         "name": "Beso Dulce",
-        "type": "hada",
+        "type": "fairy",
         "power": "--",
         "pp": "10",
         "accuracy": "75%",
@@ -1497,7 +1497,7 @@
     },
     {
         "name": "Bomba Lodo",
-        "type": "veneno",
+        "type": "poison",
         "power": "90",
         "pp": "10",
         "accuracy": "100%",
@@ -1505,7 +1505,7 @@
     },
     {
         "name": "Bofet�n Lodo",
-        "type": "tierra",
+        "type": "ground",
         "power": "20",
         "pp": "10",
         "accuracy": "100%",
@@ -1513,7 +1513,7 @@
     },
     {
         "name": "Pulpoca��n",
-        "type": "agua",
+        "type": "water",
         "power": "65",
         "pp": "10",
         "accuracy": "85%",
@@ -1521,7 +1521,7 @@
     },
     {
         "name": "P�as",
-        "type": "tierra",
+        "type": "ground",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -1529,7 +1529,7 @@
     },
     {
         "name": "Electroca��n",
-        "type": "electrico",
+        "type": "electric",
         "power": "120",
         "pp": "5",
         "accuracy": "50%",
@@ -1545,7 +1545,7 @@
     },
     {
         "name": "Mismo Destino",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "--",
         "pp": "5",
         "accuracy": "--",
@@ -1561,7 +1561,7 @@
     },
     {
         "name": "Viento Hielo",
-        "type": "hielo",
+        "type": "ice",
         "power": "55",
         "pp": "15",
         "accuracy": "95%",
@@ -1569,7 +1569,7 @@
     },
     {
         "name": "Detecci�n",
-        "type": "lucha",
+        "type": "fighting",
         "power": "--",
         "pp": "5",
         "accuracy": "--",
@@ -1577,7 +1577,7 @@
     },
     {
         "name": "Ataque �seo",
-        "type": "tierra",
+        "type": "ground",
         "power": "25",
         "pp": "10",
         "accuracy": "90%",
@@ -1601,7 +1601,7 @@
     },
     {
         "name": "Tormenta Arena",
-        "type": "roca",
+        "type": "rock",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -1609,7 +1609,7 @@
     },
     {
         "name": "Gigadrenado",
-        "type": "planta",
+        "type": "grass",
         "power": "75",
         "pp": "10",
         "accuracy": "100%",
@@ -1625,7 +1625,7 @@
     },
     {
         "name": "Encanto",
-        "type": "hada",
+        "type": "fairy",
         "power": "--",
         "pp": "20",
         "accuracy": "100%",
@@ -1633,7 +1633,7 @@
     },
     {
         "name": "Desenrollar",
-        "type": "roca",
+        "type": "rock",
         "power": "30",
         "pp": "20",
         "accuracy": "90%",
@@ -1665,7 +1665,7 @@
     },
     {
         "name": "Chispa",
-        "type": "electrico",
+        "type": "electric",
         "power": "65",
         "pp": "20",
         "accuracy": "100%",
@@ -1673,7 +1673,7 @@
     },
     {
         "name": "Corte Furia",
-        "type": "bicho",
+        "type": "bug",
         "power": "40",
         "pp": "20",
         "accuracy": "95%",
@@ -1681,7 +1681,7 @@
     },
     {
         "name": "Ala de Acero",
-        "type": "acero",
+        "type": "steel",
         "power": "70",
         "pp": "25",
         "accuracy": "90%",
@@ -1761,7 +1761,7 @@
     },
     {
         "name": "Fuego Sagrado",
-        "type": "fuego",
+        "type": "fire",
         "power": "100",
         "pp": "5",
         "accuracy": "95%",
@@ -1769,7 +1769,7 @@
     },
     {
         "name": "Magnitud",
-        "type": "tierra",
+        "type": "ground",
         "power": "1",
         "pp": "30",
         "accuracy": "100%",
@@ -1777,7 +1777,7 @@
     },
     {
         "name": "Pu�o Din�mico",
-        "type": "lucha",
+        "type": "fighting",
         "power": "100",
         "pp": "5",
         "accuracy": "50%",
@@ -1785,7 +1785,7 @@
     },
     {
         "name": "Megacuerno",
-        "type": "bicho",
+        "type": "bug",
         "power": "120",
         "pp": "10",
         "accuracy": "85%",
@@ -1817,7 +1817,7 @@
     },
     {
         "name": "Persecuci�n",
-        "type": "siniestro",
+        "type": "dark",
         "power": "40",
         "pp": "20",
         "accuracy": "100%",
@@ -1841,7 +1841,7 @@
     },
     {
         "name": "Cola F�rrea",
-        "type": "acero",
+        "type": "steel",
         "power": "100",
         "pp": "15",
         "accuracy": "75%",
@@ -1849,7 +1849,7 @@
     },
     {
         "name": "Garra Metal",
-        "type": "acero",
+        "type": "steel",
         "power": "50",
         "pp": "35",
         "accuracy": "95%",
@@ -1857,7 +1857,7 @@
     },
     {
         "name": "Tiro Vital",
-        "type": "lucha",
+        "type": "fighting",
         "power": "70",
         "pp": "10",
         "accuracy": "--",
@@ -1873,7 +1873,7 @@
     },
     {
         "name": "S�ntesis",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "5",
         "accuracy": "--",
@@ -1881,7 +1881,7 @@
     },
     {
         "name": "Luz Lunar",
-        "type": "hada",
+        "type": "fairy",
         "power": "--",
         "pp": "5",
         "accuracy": "--",
@@ -1897,7 +1897,7 @@
     },
     {
         "name": "Tajo Cruzado",
-        "type": "lucha",
+        "type": "fighting",
         "power": "100",
         "pp": "5",
         "accuracy": "80%",
@@ -1913,7 +1913,7 @@
     },
     {
         "name": "Danza Lluvia",
-        "type": "agua",
+        "type": "water",
         "power": "--",
         "pp": "5",
         "accuracy": "--",
@@ -1921,7 +1921,7 @@
     },
     {
         "name": "D�a Soleado",
-        "type": "fuego",
+        "type": "fire",
         "power": "--",
         "pp": "5",
         "accuracy": "--",
@@ -1929,7 +1929,7 @@
     },
     {
         "name": "Triturar",
-        "type": "siniestro",
+        "type": "dark",
         "power": "80",
         "pp": "15",
         "accuracy": "100%",
@@ -1937,7 +1937,7 @@
     },
     {
         "name": "Manto Espejo",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "1",
         "pp": "20",
         "accuracy": "100%",
@@ -1961,7 +1961,7 @@
     },
     {
         "name": "Poder Pasado",
-        "type": "roca",
+        "type": "rock",
         "power": "60",
         "pp": "5",
         "accuracy": "100%",
@@ -1969,7 +1969,7 @@
     },
     {
         "name": "Bola Sombra",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "80",
         "pp": "15",
         "accuracy": "100%",
@@ -1977,7 +1977,7 @@
     },
     {
         "name": "Premonici�n",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "120",
         "pp": "10",
         "accuracy": "100%",
@@ -1985,7 +1985,7 @@
     },
     {
         "name": "Golpe Roca",
-        "type": "lucha",
+        "type": "fighting",
         "power": "40",
         "pp": "15",
         "accuracy": "100%",
@@ -1993,7 +1993,7 @@
     },
     {
         "name": "Torbellino",
-        "type": "agua",
+        "type": "water",
         "power": "35",
         "pp": "15",
         "accuracy": "85%",
@@ -2001,7 +2001,7 @@
     },
     {
         "name": "Paliza",
-        "type": "siniestro",
+        "type": "dark",
         "power": "1",
         "pp": "10",
         "accuracy": "100%",
@@ -2049,7 +2049,7 @@
     },
     {
         "name": "Onda �gnea",
-        "type": "fuego",
+        "type": "fire",
         "power": "95",
         "pp": "10",
         "accuracy": "90%",
@@ -2057,7 +2057,7 @@
     },
     {
         "name": "Granizo",
-        "type": "hielo",
+        "type": "ice",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -2065,7 +2065,7 @@
     },
     {
         "name": "Tormento",
-        "type": "siniestro",
+        "type": "dark",
         "power": "--",
         "pp": "15",
         "accuracy": "100%",
@@ -2073,7 +2073,7 @@
     },
     {
         "name": "Camelo",
-        "type": "siniestro",
+        "type": "dark",
         "power": "--",
         "pp": "15",
         "accuracy": "100%",
@@ -2081,7 +2081,7 @@
     },
     {
         "name": "Fuego Fatuo",
-        "type": "fuego",
+        "type": "fire",
         "power": "--",
         "pp": "15",
         "accuracy": "85%",
@@ -2089,7 +2089,7 @@
     },
     {
         "name": "Legado",
-        "type": "siniestro",
+        "type": "dark",
         "power": "--",
         "pp": "10",
         "accuracy": "100%",
@@ -2105,7 +2105,7 @@
     },
     {
         "name": "Pu�o Certero",
-        "type": "lucha",
+        "type": "fighting",
         "power": "150",
         "pp": "20",
         "accuracy": "100%",
@@ -2137,7 +2137,7 @@
     },
     {
         "name": "Carga",
-        "type": "electrico",
+        "type": "electric",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -2145,7 +2145,7 @@
     },
     {
         "name": "Mofa",
-        "type": "siniestro",
+        "type": "dark",
         "power": "--",
         "pp": "20",
         "accuracy": "100%",
@@ -2161,7 +2161,7 @@
     },
     {
         "name": "Truco",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "100%",
@@ -2169,7 +2169,7 @@
     },
     {
         "name": "Imitaci�n",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -2193,7 +2193,7 @@
     },
     {
         "name": "Arraigo",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -2201,7 +2201,7 @@
     },
     {
         "name": "Fuerza Bruta",
-        "type": "lucha",
+        "type": "fighting",
         "power": "120",
         "pp": "5",
         "accuracy": "100%",
@@ -2209,7 +2209,7 @@
     },
     {
         "name": "Capa M�gica",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "15",
         "accuracy": "--",
@@ -2225,7 +2225,7 @@
     },
     {
         "name": "Desquite",
-        "type": "lucha",
+        "type": "fighting",
         "power": "60",
         "pp": "10",
         "accuracy": "100%",
@@ -2233,7 +2233,7 @@
     },
     {
         "name": "Demolici�n",
-        "type": "lucha",
+        "type": "fighting",
         "power": "75",
         "pp": "15",
         "accuracy": "100%",
@@ -2249,7 +2249,7 @@
     },
     {
         "name": "Desarme",
-        "type": "siniestro",
+        "type": "dark",
         "power": "65",
         "pp": "20",
         "accuracy": "100%",
@@ -2265,7 +2265,7 @@
     },
     {
         "name": "Estallido",
-        "type": "fuego",
+        "type": "fire",
         "power": "150",
         "pp": "5",
         "accuracy": "100%",
@@ -2273,7 +2273,7 @@
     },
     {
         "name": "Intercambio",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -2281,7 +2281,7 @@
     },
     {
         "name": "Cerca",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -2297,7 +2297,7 @@
     },
     {
         "name": "Rabia",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "--",
         "pp": "5",
         "accuracy": "--",
@@ -2305,7 +2305,7 @@
     },
     {
         "name": "Robo",
-        "type": "siniestro",
+        "type": "dark",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -2321,7 +2321,7 @@
     },
     {
         "name": "Buceo",
-        "type": "agua",
+        "type": "water",
         "power": "80",
         "pp": "10",
         "accuracy": "100%",
@@ -2329,7 +2329,7 @@
     },
     {
         "name": "Empuj�n",
-        "type": "lucha",
+        "type": "fighting",
         "power": "15",
         "pp": "20",
         "accuracy": "100%",
@@ -2345,7 +2345,7 @@
     },
     {
         "name": "R�faga",
-        "type": "bicho",
+        "type": "bug",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -2353,7 +2353,7 @@
     },
     {
         "name": "Resplandor",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "70",
         "pp": "5",
         "accuracy": "100%",
@@ -2361,7 +2361,7 @@
     },
     {
         "name": "Bola Neblina",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "70",
         "pp": "5",
         "accuracy": "100%",
@@ -2369,7 +2369,7 @@
     },
     {
         "name": "Danza Pluma",
-        "type": "volador",
+        "type": "flying",
         "power": "--",
         "pp": "15",
         "accuracy": "100%",
@@ -2385,7 +2385,7 @@
     },
     {
         "name": "Patada �gnea",
-        "type": "fuego",
+        "type": "fire",
         "power": "85",
         "pp": "10",
         "accuracy": "90%",
@@ -2393,7 +2393,7 @@
     },
     {
         "name": "Chapoteo Lodo",
-        "type": "tierra",
+        "type": "ground",
         "power": "--",
         "pp": "15",
         "accuracy": "--",
@@ -2401,7 +2401,7 @@
     },
     {
         "name": "Bola Hielo",
-        "type": "hielo",
+        "type": "ice",
         "power": "30",
         "pp": "20",
         "accuracy": "90%",
@@ -2409,7 +2409,7 @@
     },
     {
         "name": "Brazo Pincho",
-        "type": "planta",
+        "type": "grass",
         "power": "60",
         "pp": "15",
         "accuracy": "100%",
@@ -2433,7 +2433,7 @@
     },
     {
         "name": "Colmillo Ven",
-        "type": "veneno",
+        "type": "poison",
         "power": "50",
         "pp": "15",
         "accuracy": "100%",
@@ -2449,7 +2449,7 @@
     },
     {
         "name": "Anillo �gneo",
-        "type": "fuego",
+        "type": "fire",
         "power": "150",
         "pp": "5",
         "accuracy": "90%",
@@ -2457,7 +2457,7 @@
     },
     {
         "name": "Hidroca��n",
-        "type": "agua",
+        "type": "water",
         "power": "150",
         "pp": "5",
         "accuracy": "90%",
@@ -2465,7 +2465,7 @@
     },
     {
         "name": "Pu�o Meteoro",
-        "type": "acero",
+        "type": "steel",
         "power": "90",
         "pp": "10",
         "accuracy": "90%",
@@ -2473,7 +2473,7 @@
     },
     {
         "name": "Impresionar",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "30",
         "pp": "15",
         "accuracy": "100%",
@@ -2489,7 +2489,7 @@
     },
     {
         "name": "Aromaterapia",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "5",
         "accuracy": "--",
@@ -2497,7 +2497,7 @@
     },
     {
         "name": "Llanto Falso",
-        "type": "siniestro",
+        "type": "dark",
         "power": "--",
         "pp": "20",
         "accuracy": "100%",
@@ -2505,7 +2505,7 @@
     },
     {
         "name": "Aire Afilado",
-        "type": "volador",
+        "type": "flying",
         "power": "60",
         "pp": "25",
         "accuracy": "95%",
@@ -2513,7 +2513,7 @@
     },
     {
         "name": "Sofoco",
-        "type": "fuego",
+        "type": "fire",
         "power": "130",
         "pp": "5",
         "accuracy": "90%",
@@ -2529,7 +2529,7 @@
     },
     {
         "name": "Tumba Rocas",
-        "type": "roca",
+        "type": "rock",
         "power": "60",
         "pp": "15",
         "accuracy": "95%",
@@ -2537,7 +2537,7 @@
     },
     {
         "name": "Viento Plata",
-        "type": "bicho",
+        "type": "bug",
         "power": "60",
         "pp": "5",
         "accuracy": "100%",
@@ -2545,7 +2545,7 @@
     },
     {
         "name": "Eco Met�lico",
-        "type": "acero",
+        "type": "steel",
         "power": "--",
         "pp": "40",
         "accuracy": "85%",
@@ -2553,7 +2553,7 @@
     },
     {
         "name": "Silbato",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "15",
         "accuracy": "55%",
@@ -2569,7 +2569,7 @@
     },
     {
         "name": "Masa C�smica",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -2577,7 +2577,7 @@
     },
     {
         "name": "Salpicar",
-        "type": "agua",
+        "type": "water",
         "power": "150",
         "pp": "5",
         "accuracy": "100%",
@@ -2585,7 +2585,7 @@
     },
     {
         "name": "Doble Rayo",
-        "type": "bicho",
+        "type": "bug",
         "power": "75",
         "pp": "15",
         "accuracy": "100%",
@@ -2593,7 +2593,7 @@
     },
     {
         "name": "Pu�o Sombra",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "60",
         "pp": "20",
         "accuracy": "--",
@@ -2601,7 +2601,7 @@
     },
     {
         "name": "Paranormal",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "80",
         "pp": "20",
         "accuracy": "100%",
@@ -2609,7 +2609,7 @@
     },
     {
         "name": "Gancho Alto",
-        "type": "lucha",
+        "type": "fighting",
         "power": "85",
         "pp": "15",
         "accuracy": "90%",
@@ -2617,7 +2617,7 @@
     },
     {
         "name": "Bucle Arena",
-        "type": "tierra",
+        "type": "ground",
         "power": "35",
         "pp": "15",
         "accuracy": "85%",
@@ -2625,7 +2625,7 @@
     },
     {
         "name": "Fr�o Polar",
-        "type": "hielo",
+        "type": "ice",
         "power": "1",
         "pp": "5",
         "accuracy": "30%",
@@ -2633,7 +2633,7 @@
     },
     {
         "name": "Agua Lodosa",
-        "type": "agua",
+        "type": "water",
         "power": "90",
         "pp": "10",
         "accuracy": "85%",
@@ -2641,7 +2641,7 @@
     },
     {
         "name": "Recurrente",
-        "type": "planta",
+        "type": "grass",
         "power": "25",
         "pp": "30",
         "accuracy": "100%",
@@ -2649,7 +2649,7 @@
     },
     {
         "name": "Golpe A�reo",
-        "type": "volador",
+        "type": "flying",
         "power": "60",
         "pp": "20",
         "accuracy": "--",
@@ -2657,7 +2657,7 @@
     },
     {
         "name": "Car�mbano",
-        "type": "hielo",
+        "type": "ice",
         "power": "25",
         "pp": "30",
         "accuracy": "100%",
@@ -2665,7 +2665,7 @@
     },
     {
         "name": "Defensa F�rrea",
-        "type": "acero",
+        "type": "steel",
         "power": "--",
         "pp": "15",
         "accuracy": "--",
@@ -2697,7 +2697,7 @@
     },
     {
         "name": "Planta Feroz",
-        "type": "planta",
+        "type": "grass",
         "power": "150",
         "pp": "5",
         "accuracy": "90%",
@@ -2705,7 +2705,7 @@
     },
     {
         "name": "Corpulencia",
-        "type": "lucha",
+        "type": "fighting",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -2713,7 +2713,7 @@
     },
     {
         "name": "Bote",
-        "type": "volador",
+        "type": "flying",
         "power": "85",
         "pp": "5",
         "accuracy": "85%",
@@ -2721,7 +2721,7 @@
     },
     {
         "name": "Disparo Lodo",
-        "type": "tierra",
+        "type": "ground",
         "power": "55",
         "pp": "15",
         "accuracy": "95%",
@@ -2729,7 +2729,7 @@
     },
     {
         "name": "Cola Veneno",
-        "type": "veneno",
+        "type": "poison",
         "power": "50",
         "pp": "25",
         "accuracy": "100%",
@@ -2745,7 +2745,7 @@
     },
     {
         "name": "Placaje El�c",
-        "type": "electrico",
+        "type": "electric",
         "power": "120",
         "pp": "15",
         "accuracy": "100%",
@@ -2753,7 +2753,7 @@
     },
     {
         "name": "Hoja M�gica",
-        "type": "planta",
+        "type": "grass",
         "power": "60",
         "pp": "20",
         "accuracy": "--",
@@ -2761,7 +2761,7 @@
     },
     {
         "name": "Hidrochorro",
-        "type": "agua",
+        "type": "water",
         "power": "--",
         "pp": "15",
         "accuracy": "--",
@@ -2769,7 +2769,7 @@
     },
     {
         "name": "Paz Mental",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -2777,7 +2777,7 @@
     },
     {
         "name": "Hoja Aguda",
-        "type": "planta",
+        "type": "grass",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -2793,7 +2793,7 @@
     },
     {
         "name": "Pedrada",
-        "type": "roca",
+        "type": "rock",
         "power": "25",
         "pp": "10",
         "accuracy": "90%",
@@ -2801,7 +2801,7 @@
     },
     {
         "name": "Onda Voltio",
-        "type": "electrico",
+        "type": "electric",
         "power": "60",
         "pp": "20",
         "accuracy": "--",
@@ -2809,7 +2809,7 @@
     },
     {
         "name": "Hidropulso",
-        "type": "agua",
+        "type": "water",
         "power": "60",
         "pp": "20",
         "accuracy": "100%",
@@ -2817,7 +2817,7 @@
     },
     {
         "name": "Deseo Oculto",
-        "type": "acero",
+        "type": "steel",
         "power": "140",
         "pp": "5",
         "accuracy": "100%",
@@ -2825,7 +2825,7 @@
     },
     {
         "name": "Psicoataque",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "140",
         "pp": "5",
         "accuracy": "90%",
@@ -2833,7 +2833,7 @@
     },
     {
         "name": "Respiro",
-        "type": "volador",
+        "type": "flying",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -2841,7 +2841,7 @@
     },
     {
         "name": "Gravedad",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "5",
         "accuracy": "--",
@@ -2849,7 +2849,7 @@
     },
     {
         "name": "Gran Ojo",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "40",
         "accuracy": "--",
@@ -2857,7 +2857,7 @@
     },
     {
         "name": "Espabila",
-        "type": "lucha",
+        "type": "fighting",
         "power": "70",
         "pp": "10",
         "accuracy": "100%",
@@ -2865,7 +2865,7 @@
     },
     {
         "name": "Machada",
-        "type": "lucha",
+        "type": "fighting",
         "power": "100",
         "pp": "10",
         "accuracy": "90%",
@@ -2873,7 +2873,7 @@
     },
     {
         "name": "Giro Bola",
-        "type": "acero",
+        "type": "steel",
         "power": "1",
         "pp": "5",
         "accuracy": "100%",
@@ -2881,7 +2881,7 @@
     },
     {
         "name": "Deseo Cura",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -2889,7 +2889,7 @@
     },
     {
         "name": "Salmuera",
-        "type": "agua",
+        "type": "water",
         "power": "65",
         "pp": "10",
         "accuracy": "100%",
@@ -2913,7 +2913,7 @@
     },
     {
         "name": "Picoteo",
-        "type": "volador",
+        "type": "flying",
         "power": "60",
         "pp": "20",
         "accuracy": "100%",
@@ -2921,7 +2921,7 @@
     },
     {
         "name": "Viento Af�n",
-        "type": "volador",
+        "type": "flying",
         "power": "--",
         "pp": "15",
         "accuracy": "--",
@@ -2937,7 +2937,7 @@
     },
     {
         "name": "Represi�n Metal",
-        "type": "acero",
+        "type": "steel",
         "power": "1",
         "pp": "10",
         "accuracy": "100%",
@@ -2945,7 +2945,7 @@
     },
     {
         "name": "Ida y Vuelta",
-        "type": "bicho",
+        "type": "bug",
         "power": "70",
         "pp": "20",
         "accuracy": "100%",
@@ -2953,7 +2953,7 @@
     },
     {
         "name": "A Bocajarro",
-        "type": "lucha",
+        "type": "fighting",
         "power": "120",
         "pp": "5",
         "accuracy": "100%",
@@ -2961,7 +2961,7 @@
     },
     {
         "name": "Vendetta",
-        "type": "siniestro",
+        "type": "dark",
         "power": "50",
         "pp": "10",
         "accuracy": "100%",
@@ -2969,7 +2969,7 @@
     },
     {
         "name": "Buena Baza",
-        "type": "siniestro",
+        "type": "dark",
         "power": "60",
         "pp": "10",
         "accuracy": "100%",
@@ -2977,7 +2977,7 @@
     },
     {
         "name": "Embargo",
-        "type": "siniestro",
+        "type": "dark",
         "power": "--",
         "pp": "15",
         "accuracy": "100%",
@@ -2985,7 +2985,7 @@
     },
     {
         "name": "Lanzamiento",
-        "type": "siniestro",
+        "type": "dark",
         "power": "1",
         "pp": "10",
         "accuracy": "100%",
@@ -2993,7 +2993,7 @@
     },
     {
         "name": "Psicocambio",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "100%",
@@ -3009,7 +3009,7 @@
     },
     {
         "name": "Anticura",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "15",
         "accuracy": "100%",
@@ -3025,7 +3025,7 @@
     },
     {
         "name": "Truco Fuerza",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -3033,7 +3033,7 @@
     },
     {
         "name": "Bilis",
-        "type": "veneno",
+        "type": "poison",
         "power": "--",
         "pp": "10",
         "accuracy": "100%",
@@ -3065,7 +3065,7 @@
     },
     {
         "name": "Cambia Fuerza",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -3073,7 +3073,7 @@
     },
     {
         "name": "Cambia Defensa",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -3081,7 +3081,7 @@
     },
     {
         "name": "Castigo",
-        "type": "siniestro",
+        "type": "dark",
         "power": "1",
         "pp": "5",
         "accuracy": "100%",
@@ -3097,7 +3097,7 @@
     },
     {
         "name": "Abatidoras",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "10",
         "accuracy": "100%",
@@ -3105,7 +3105,7 @@
     },
     {
         "name": "Golpe Bajo",
-        "type": "siniestro",
+        "type": "dark",
         "power": "70",
         "pp": "5",
         "accuracy": "100%",
@@ -3113,7 +3113,7 @@
     },
     {
         "name": "P�as T�xicas",
-        "type": "veneno",
+        "type": "poison",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -3121,7 +3121,7 @@
     },
     {
         "name": "Cambia Almas",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -3129,7 +3129,7 @@
     },
     {
         "name": "Acua Aro",
-        "type": "agua",
+        "type": "water",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -3137,7 +3137,7 @@
     },
     {
         "name": "Levit�n",
-        "type": "electrico",
+        "type": "electric",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -3145,7 +3145,7 @@
     },
     {
         "name": "Envite �gneo",
-        "type": "fuego",
+        "type": "fire",
         "power": "120",
         "pp": "15",
         "accuracy": "100%",
@@ -3153,7 +3153,7 @@
     },
     {
         "name": "Palmeo",
-        "type": "lucha",
+        "type": "fighting",
         "power": "60",
         "pp": "10",
         "accuracy": "100%",
@@ -3161,7 +3161,7 @@
     },
     {
         "name": "Esfera Aural",
-        "type": "lucha",
+        "type": "fighting",
         "power": "80",
         "pp": "20",
         "accuracy": "--",
@@ -3169,7 +3169,7 @@
     },
     {
         "name": "Pulimento",
-        "type": "roca",
+        "type": "rock",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -3177,7 +3177,7 @@
     },
     {
         "name": "Puya Nociva",
-        "type": "veneno",
+        "type": "poison",
         "power": "80",
         "pp": "20",
         "accuracy": "100%",
@@ -3185,7 +3185,7 @@
     },
     {
         "name": "Pulso Umbr�o",
-        "type": "siniestro",
+        "type": "dark",
         "power": "80",
         "pp": "15",
         "accuracy": "100%",
@@ -3193,7 +3193,7 @@
     },
     {
         "name": "Tajo Umbr�o",
-        "type": "siniestro",
+        "type": "dark",
         "power": "70",
         "pp": "15",
         "accuracy": "100%",
@@ -3201,7 +3201,7 @@
     },
     {
         "name": "Acua Cola",
-        "type": "agua",
+        "type": "water",
         "power": "90",
         "pp": "10",
         "accuracy": "90%",
@@ -3209,7 +3209,7 @@
     },
     {
         "name": "Bomba Germen",
-        "type": "planta",
+        "type": "grass",
         "power": "80",
         "pp": "15",
         "accuracy": "100%",
@@ -3217,7 +3217,7 @@
     },
     {
         "name": "Tajo A�reo",
-        "type": "volador",
+        "type": "flying",
         "power": "75",
         "pp": "15",
         "accuracy": "95%",
@@ -3225,7 +3225,7 @@
     },
     {
         "name": "Tijera X",
-        "type": "bicho",
+        "type": "bug",
         "power": "80",
         "pp": "15",
         "accuracy": "100%",
@@ -3233,7 +3233,7 @@
     },
     {
         "name": "Zumbido",
-        "type": "bicho",
+        "type": "bug",
         "power": "90",
         "pp": "10",
         "accuracy": "100%",
@@ -3257,7 +3257,7 @@
     },
     {
         "name": "Joya de Luz",
-        "type": "roca",
+        "type": "rock",
         "power": "80",
         "pp": "20",
         "accuracy": "100%",
@@ -3265,7 +3265,7 @@
     },
     {
         "name": "Pu�o Drenaje",
-        "type": "lucha",
+        "type": "fighting",
         "power": "75",
         "pp": "10",
         "accuracy": "100%",
@@ -3273,7 +3273,7 @@
     },
     {
         "name": "Onda Vac�o",
-        "type": "lucha",
+        "type": "fighting",
         "power": "40",
         "pp": "30",
         "accuracy": "100%",
@@ -3281,7 +3281,7 @@
     },
     {
         "name": "Onda Certera",
-        "type": "lucha",
+        "type": "fighting",
         "power": "120",
         "pp": "5",
         "accuracy": "70%",
@@ -3289,7 +3289,7 @@
     },
     {
         "name": "Energibola",
-        "type": "planta",
+        "type": "grass",
         "power": "90",
         "pp": "10",
         "accuracy": "100%",
@@ -3297,7 +3297,7 @@
     },
     {
         "name": "P�jaro Osado",
-        "type": "volador",
+        "type": "flying",
         "power": "120",
         "pp": "15",
         "accuracy": "100%",
@@ -3305,7 +3305,7 @@
     },
     {
         "name": "Tierra Viva",
-        "type": "tierra",
+        "type": "ground",
         "power": "90",
         "pp": "10",
         "accuracy": "100%",
@@ -3313,7 +3313,7 @@
     },
     {
         "name": "Trapicheo",
-        "type": "siniestro",
+        "type": "dark",
         "power": "--",
         "pp": "10",
         "accuracy": "100%",
@@ -3329,7 +3329,7 @@
     },
     {
         "name": "Maquinaci�n",
-        "type": "siniestro",
+        "type": "dark",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -3337,7 +3337,7 @@
     },
     {
         "name": "Pu�o Bala",
-        "type": "acero",
+        "type": "steel",
         "power": "40",
         "pp": "30",
         "accuracy": "100%",
@@ -3345,7 +3345,7 @@
     },
     {
         "name": "Alud",
-        "type": "hielo",
+        "type": "ice",
         "power": "60",
         "pp": "10",
         "accuracy": "100%",
@@ -3353,7 +3353,7 @@
     },
     {
         "name": "Canto Helado",
-        "type": "hielo",
+        "type": "ice",
         "power": "40",
         "pp": "30",
         "accuracy": "100%",
@@ -3361,7 +3361,7 @@
     },
     {
         "name": "Garra Umbr�a",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "70",
         "pp": "15",
         "accuracy": "100%",
@@ -3369,7 +3369,7 @@
     },
     {
         "name": "Colmillo Rayo",
-        "type": "electrico",
+        "type": "electric",
         "power": "65",
         "pp": "15",
         "accuracy": "95%",
@@ -3377,7 +3377,7 @@
     },
     {
         "name": "Colmillo Hielo",
-        "type": "hielo",
+        "type": "ice",
         "power": "65",
         "pp": "15",
         "accuracy": "95%",
@@ -3385,7 +3385,7 @@
     },
     {
         "name": "Colmillo �gneo",
-        "type": "fuego",
+        "type": "fire",
         "power": "65",
         "pp": "15",
         "accuracy": "95%",
@@ -3393,7 +3393,7 @@
     },
     {
         "name": "Sombra Vil",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "40",
         "pp": "30",
         "accuracy": "100%",
@@ -3401,7 +3401,7 @@
     },
     {
         "name": "Bomba Fango",
-        "type": "tierra",
+        "type": "ground",
         "power": "65",
         "pp": "10",
         "accuracy": "85%",
@@ -3409,7 +3409,7 @@
     },
     {
         "name": "Psicocorte",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "70",
         "pp": "20",
         "accuracy": "100%",
@@ -3417,7 +3417,7 @@
     },
     {
         "name": "Cabezazo Zen",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "80",
         "pp": "15",
         "accuracy": "90%",
@@ -3425,7 +3425,7 @@
     },
     {
         "name": "Disparo Espejo",
-        "type": "acero",
+        "type": "steel",
         "power": "65",
         "pp": "10",
         "accuracy": "85%",
@@ -3433,7 +3433,7 @@
     },
     {
         "name": "Foco Resplandor",
-        "type": "acero",
+        "type": "steel",
         "power": "80",
         "pp": "10",
         "accuracy": "100%",
@@ -3449,7 +3449,7 @@
     },
     {
         "name": "Despejar",
-        "type": "volador",
+        "type": "flying",
         "power": "--",
         "pp": "15",
         "accuracy": "--",
@@ -3457,7 +3457,7 @@
     },
     {
         "name": "Espacio Raro",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "5",
         "accuracy": "--",
@@ -3473,7 +3473,7 @@
     },
     {
         "name": "Chispazo",
-        "type": "electrico",
+        "type": "electric",
         "power": "80",
         "pp": "15",
         "accuracy": "100%",
@@ -3481,7 +3481,7 @@
     },
     {
         "name": "Humareda",
-        "type": "fuego",
+        "type": "fire",
         "power": "80",
         "pp": "15",
         "accuracy": "100%",
@@ -3489,7 +3489,7 @@
     },
     {
         "name": "Lluevehojas",
-        "type": "planta",
+        "type": "grass",
         "power": "130",
         "pp": "5",
         "accuracy": "90%",
@@ -3497,7 +3497,7 @@
     },
     {
         "name": "Latigazo",
-        "type": "planta",
+        "type": "grass",
         "power": "120",
         "pp": "10",
         "accuracy": "85%",
@@ -3505,7 +3505,7 @@
     },
     {
         "name": "Romperrocas",
-        "type": "roca",
+        "type": "rock",
         "power": "150",
         "pp": "5",
         "accuracy": "90%",
@@ -3513,7 +3513,7 @@
     },
     {
         "name": "Veneno X",
-        "type": "veneno",
+        "type": "poison",
         "power": "70",
         "pp": "20",
         "accuracy": "100%",
@@ -3521,7 +3521,7 @@
     },
     {
         "name": "Lanza Mugre",
-        "type": "veneno",
+        "type": "poison",
         "power": "120",
         "pp": "5",
         "accuracy": "80%",
@@ -3529,7 +3529,7 @@
     },
     {
         "name": "Cabeza de Hierro",
-        "type": "acero",
+        "type": "steel",
         "power": "80",
         "pp": "15",
         "accuracy": "100%",
@@ -3537,7 +3537,7 @@
     },
     {
         "name": "Bomba Im�n",
-        "type": "acero",
+        "type": "steel",
         "power": "60",
         "pp": "20",
         "accuracy": "--",
@@ -3545,7 +3545,7 @@
     },
     {
         "name": "Roca Afilada",
-        "type": "roca",
+        "type": "rock",
         "power": "100",
         "pp": "5",
         "accuracy": "80%",
@@ -3561,7 +3561,7 @@
     },
     {
         "name": "Trampa Rocas",
-        "type": "roca",
+        "type": "rock",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -3569,7 +3569,7 @@
     },
     {
         "name": "Hierba Lazo",
-        "type": "planta",
+        "type": "grass",
         "power": "1",
         "pp": "20",
         "accuracy": "100%",
@@ -3577,7 +3577,7 @@
     },
     {
         "name": "Ch�chara",
-        "type": "volador",
+        "type": "flying",
         "power": "65",
         "pp": "20",
         "accuracy": "100%",
@@ -3593,7 +3593,7 @@
     },
     {
         "name": "Picadura",
-        "type": "bicho",
+        "type": "bug",
         "power": "60",
         "pp": "20",
         "accuracy": "100%",
@@ -3601,7 +3601,7 @@
     },
     {
         "name": "Rayo Carga",
-        "type": "electrico",
+        "type": "electric",
         "power": "50",
         "pp": "10",
         "accuracy": "90%",
@@ -3609,7 +3609,7 @@
     },
     {
         "name": "Mazazo",
-        "type": "planta",
+        "type": "grass",
         "power": "120",
         "pp": "15",
         "accuracy": "100%",
@@ -3617,7 +3617,7 @@
     },
     {
         "name": "Acua Jet",
-        "type": "agua",
+        "type": "water",
         "power": "40",
         "pp": "20",
         "accuracy": "100%",
@@ -3625,7 +3625,7 @@
     },
     {
         "name": "Al Ataque",
-        "type": "bicho",
+        "type": "bug",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -3633,7 +3633,7 @@
     },
     {
         "name": "A Defender",
-        "type": "bicho",
+        "type": "bug",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -3641,7 +3641,7 @@
     },
     {
         "name": "Auxilio",
-        "type": "bicho",
+        "type": "bug",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -3649,7 +3649,7 @@
     },
     {
         "name": "Testarazo",
-        "type": "roca",
+        "type": "rock",
         "power": "150",
         "pp": "5",
         "accuracy": "80%",
@@ -3681,7 +3681,7 @@
     },
     {
         "name": "Danza Lunar",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -3697,7 +3697,7 @@
     },
     {
         "name": "Lluvia �gnea",
-        "type": "fuego",
+        "type": "fire",
         "power": "100",
         "pp": "5",
         "accuracy": "75%",
@@ -3705,7 +3705,7 @@
     },
     {
         "name": "Brecha Negra",
-        "type": "siniestro",
+        "type": "dark",
         "power": "--",
         "pp": "10",
         "accuracy": "50%",
@@ -3713,7 +3713,7 @@
     },
     {
         "name": "Fogonazo",
-        "type": "planta",
+        "type": "grass",
         "power": "120",
         "pp": "5",
         "accuracy": "85%",
@@ -3721,7 +3721,7 @@
     },
     {
         "name": "Viento Aciago",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "60",
         "pp": "5",
         "accuracy": "100%",
@@ -3729,7 +3729,7 @@
     },
     {
         "name": "Golpe Umbr�o",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "120",
         "pp": "5",
         "accuracy": "100%",
@@ -3737,7 +3737,7 @@
     },
     {
         "name": "Afilagarras",
-        "type": "siniestro",
+        "type": "dark",
         "power": "--",
         "pp": "15",
         "accuracy": "--",
@@ -3745,7 +3745,7 @@
     },
     {
         "name": "Vastaguardia",
-        "type": "roca",
+        "type": "rock",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -3753,7 +3753,7 @@
     },
     {
         "name": "Isoguardia",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -3761,7 +3761,7 @@
     },
     {
         "name": "Isofuerza",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -3769,7 +3769,7 @@
     },
     {
         "name": "Zona Extra�a",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -3777,7 +3777,7 @@
     },
     {
         "name": "Psicocarga",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "80",
         "pp": "10",
         "accuracy": "100%",
@@ -3785,7 +3785,7 @@
     },
     {
         "name": "Carga T�xica",
-        "type": "veneno",
+        "type": "poison",
         "power": "65",
         "pp": "10",
         "accuracy": "100%",
@@ -3793,7 +3793,7 @@
     },
     {
         "name": "Aligerar",
-        "type": "acero",
+        "type": "steel",
         "power": "--",
         "pp": "15",
         "accuracy": "--",
@@ -3801,7 +3801,7 @@
     },
     {
         "name": "Polvo Ira",
-        "type": "bicho",
+        "type": "bug",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -3809,7 +3809,7 @@
     },
     {
         "name": "Telequinesis",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "15",
         "accuracy": "--",
@@ -3817,7 +3817,7 @@
     },
     {
         "name": "Zona M�gica",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -3825,7 +3825,7 @@
     },
     {
         "name": "Antia�reo",
-        "type": "roca",
+        "type": "rock",
         "power": "50",
         "pp": "15",
         "accuracy": "100%",
@@ -3833,7 +3833,7 @@
     },
     {
         "name": "Llave Cors�",
-        "type": "lucha",
+        "type": "fighting",
         "power": "60",
         "pp": "10",
         "accuracy": "100%",
@@ -3841,7 +3841,7 @@
     },
     {
         "name": "Pirotecnia",
-        "type": "fuego",
+        "type": "fire",
         "power": "70",
         "pp": "15",
         "accuracy": "100%",
@@ -3849,7 +3849,7 @@
     },
     {
         "name": "Onda T�xica",
-        "type": "veneno",
+        "type": "poison",
         "power": "95",
         "pp": "10",
         "accuracy": "100%",
@@ -3857,7 +3857,7 @@
     },
     {
         "name": "Danza Aleteo",
-        "type": "bicho",
+        "type": "bug",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -3865,7 +3865,7 @@
     },
     {
         "name": "Cuerpo Pesado",
-        "type": "acero",
+        "type": "steel",
         "power": "1",
         "pp": "10",
         "accuracy": "100%",
@@ -3873,7 +3873,7 @@
     },
     {
         "name": "Sincrorruido",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "120",
         "pp": "15",
         "accuracy": "100%",
@@ -3881,7 +3881,7 @@
     },
     {
         "name": "Bola Voltio",
-        "type": "electrico",
+        "type": "electric",
         "power": "1",
         "pp": "10",
         "accuracy": "100%",
@@ -3889,7 +3889,7 @@
     },
     {
         "name": "Anegar",
-        "type": "agua",
+        "type": "water",
         "power": "--",
         "pp": "20",
         "accuracy": "100%",
@@ -3897,7 +3897,7 @@
     },
     {
         "name": "Nitrocarga",
-        "type": "fuego",
+        "type": "fire",
         "power": "50",
         "pp": "20",
         "accuracy": "100%",
@@ -3905,7 +3905,7 @@
     },
     {
         "name": "Enrosque",
-        "type": "veneno",
+        "type": "poison",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -3913,7 +3913,7 @@
     },
     {
         "name": "Puntapi�",
-        "type": "lucha",
+        "type": "fighting",
         "power": "65",
         "pp": "20",
         "accuracy": "100%",
@@ -3921,7 +3921,7 @@
     },
     {
         "name": "Bomba �cida",
-        "type": "veneno",
+        "type": "poison",
         "power": "40",
         "pp": "20",
         "accuracy": "100%",
@@ -3929,7 +3929,7 @@
     },
     {
         "name": "Juego Sucio",
-        "type": "siniestro",
+        "type": "dark",
         "power": "95",
         "pp": "15",
         "accuracy": "100%",
@@ -3985,7 +3985,7 @@
     },
     {
         "name": "Niebla Clara",
-        "type": "veneno",
+        "type": "poison",
         "power": "50",
         "pp": "15",
         "accuracy": "--",
@@ -3993,7 +3993,7 @@
     },
     {
         "name": "Poder Reserva",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "20",
         "pp": "10",
         "accuracy": "100%",
@@ -4001,7 +4001,7 @@
     },
     {
         "name": "Anticipo",
-        "type": "lucha",
+        "type": "fighting",
         "power": "--",
         "pp": "15",
         "accuracy": "--",
@@ -4009,7 +4009,7 @@
     },
     {
         "name": "Cambio Banda",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "15",
         "accuracy": "--",
@@ -4017,7 +4017,7 @@
     },
     {
         "name": "Escaldar",
-        "type": "agua",
+        "type": "water",
         "power": "80",
         "pp": "15",
         "accuracy": "100%",
@@ -4033,7 +4033,7 @@
     },
     {
         "name": "Pulso Cura",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -4041,7 +4041,7 @@
     },
     {
         "name": "Infortunio",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "65",
         "pp": "10",
         "accuracy": "100%",
@@ -4049,7 +4049,7 @@
     },
     {
         "name": "Ca�da Libre",
-        "type": "volador",
+        "type": "flying",
         "power": "60",
         "pp": "10",
         "accuracy": "100%",
@@ -4057,7 +4057,7 @@
     },
     {
         "name": "Cambio de Marcha",
-        "type": "acero",
+        "type": "steel",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -4065,7 +4065,7 @@
     },
     {
         "name": "Llave Giro",
-        "type": "lucha",
+        "type": "fighting",
         "power": "60",
         "pp": "10",
         "accuracy": "90%",
@@ -4073,7 +4073,7 @@
     },
     {
         "name": "Calcinaci�n",
-        "type": "fuego",
+        "type": "fire",
         "power": "60",
         "pp": "15",
         "accuracy": "100%",
@@ -4081,7 +4081,7 @@
     },
     {
         "name": "�ltimo Lugar",
-        "type": "siniestro",
+        "type": "dark",
         "power": "--",
         "pp": "15",
         "accuracy": "100%",
@@ -4089,7 +4089,7 @@
     },
     {
         "name": "Acr�bata",
-        "type": "volador",
+        "type": "flying",
         "power": "55",
         "pp": "15",
         "accuracy": "100%",
@@ -4113,7 +4113,7 @@
     },
     {
         "name": "Sacrificio",
-        "type": "lucha",
+        "type": "fighting",
         "power": "1",
         "pp": "5",
         "accuracy": "100%",
@@ -4129,7 +4129,7 @@
     },
     {
         "name": "Infierno",
-        "type": "fuego",
+        "type": "fire",
         "power": "100",
         "pp": "5",
         "accuracy": "50%",
@@ -4137,7 +4137,7 @@
     },
     {
         "name": "Voto Agua",
-        "type": "agua",
+        "type": "water",
         "power": "80",
         "pp": "10",
         "accuracy": "100%",
@@ -4145,7 +4145,7 @@
     },
     {
         "name": "Voto Fuego",
-        "type": "fuego",
+        "type": "fire",
         "power": "80",
         "pp": "10",
         "accuracy": "100%",
@@ -4153,7 +4153,7 @@
     },
     {
         "name": "Voto Planta",
-        "type": "planta",
+        "type": "grass",
         "power": "80",
         "pp": "10",
         "accuracy": "100%",
@@ -4161,7 +4161,7 @@
     },
     {
         "name": "Voltiocambio",
-        "type": "electrico",
+        "type": "electric",
         "power": "70",
         "pp": "20",
         "accuracy": "100%",
@@ -4169,7 +4169,7 @@
     },
     {
         "name": "Estoicismo",
-        "type": "bicho",
+        "type": "bug",
         "power": "50",
         "pp": "20",
         "accuracy": "100%",
@@ -4177,7 +4177,7 @@
     },
     {
         "name": "Terratemblor",
-        "type": "tierra",
+        "type": "ground",
         "power": "60",
         "pp": "20",
         "accuracy": "100%",
@@ -4185,7 +4185,7 @@
     },
     {
         "name": "Vaho G�lido",
-        "type": "hielo",
+        "type": "ice",
         "power": "60",
         "pp": "10",
         "accuracy": "90%",
@@ -4209,7 +4209,7 @@
     },
     {
         "name": "Electrotela",
-        "type": "electrico",
+        "type": "electric",
         "power": "55",
         "pp": "15",
         "accuracy": "95%",
@@ -4217,7 +4217,7 @@
     },
     {
         "name": "Voltio Cruel",
-        "type": "electrico",
+        "type": "electric",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -4225,7 +4225,7 @@
     },
     {
         "name": "Taladradora",
-        "type": "tierra",
+        "type": "ground",
         "power": "80",
         "pp": "10",
         "accuracy": "95%",
@@ -4241,7 +4241,7 @@
     },
     {
         "name": "Arrumaco",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "60",
         "pp": "25",
         "accuracy": "100%",
@@ -4249,7 +4249,7 @@
     },
     {
         "name": "Asta Drenaje",
-        "type": "planta",
+        "type": "grass",
         "power": "75",
         "pp": "10",
         "accuracy": "100%",
@@ -4257,7 +4257,7 @@
     },
     {
         "name": "Espada Santa",
-        "type": "lucha",
+        "type": "fighting",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -4265,7 +4265,7 @@
     },
     {
         "name": "Concha Filo",
-        "type": "agua",
+        "type": "water",
         "power": "75",
         "pp": "10",
         "accuracy": "95%",
@@ -4273,7 +4273,7 @@
     },
     {
         "name": "Golpe Calor",
-        "type": "fuego",
+        "type": "fire",
         "power": "1",
         "pp": "10",
         "accuracy": "100%",
@@ -4281,7 +4281,7 @@
     },
     {
         "name": "Cicl�n de Hojas",
-        "type": "planta",
+        "type": "grass",
         "power": "65",
         "pp": "10",
         "accuracy": "90%",
@@ -4289,7 +4289,7 @@
     },
     {
         "name": "Rodillo de P�as",
-        "type": "bicho",
+        "type": "bug",
         "power": "65",
         "pp": "20",
         "accuracy": "100%",
@@ -4297,7 +4297,7 @@
     },
     {
         "name": "Rizo Algod�n",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -4305,7 +4305,7 @@
     },
     {
         "name": "Pulso Noche",
-        "type": "siniestro",
+        "type": "dark",
         "power": "85",
         "pp": "10",
         "accuracy": "95%",
@@ -4313,7 +4313,7 @@
     },
     {
         "name": "Onda Mental",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "100",
         "pp": "10",
         "accuracy": "100%",
@@ -4329,7 +4329,7 @@
     },
     {
         "name": "Vendaval",
-        "type": "volador",
+        "type": "flying",
         "power": "110",
         "pp": "10",
         "accuracy": "70%",
@@ -4345,7 +4345,7 @@
     },
     {
         "name": "Rueda Doble",
-        "type": "acero",
+        "type": "steel",
         "power": "50",
         "pp": "15",
         "accuracy": "85%",
@@ -4353,7 +4353,7 @@
     },
     {
         "name": "Bomba �gnea",
-        "type": "fuego",
+        "type": "fire",
         "power": "100",
         "pp": "5",
         "accuracy": "100%",
@@ -4377,7 +4377,7 @@
     },
     {
         "name": "Sable M�stico",
-        "type": "lucha",
+        "type": "fighting",
         "power": "85",
         "pp": "10",
         "accuracy": "100%",
@@ -4385,7 +4385,7 @@
     },
     {
         "name": "Mundo G�lido",
-        "type": "hielo",
+        "type": "ice",
         "power": "65",
         "pp": "10",
         "accuracy": "95%",
@@ -4393,7 +4393,7 @@
     },
     {
         "name": "Ataque Fulgor",
-        "type": "electrico",
+        "type": "electric",
         "power": "130",
         "pp": "5",
         "accuracy": "85%",
@@ -4401,7 +4401,7 @@
     },
     {
         "name": "Llama Azul",
-        "type": "fuego",
+        "type": "fire",
         "power": "130",
         "pp": "5",
         "accuracy": "85%",
@@ -4409,7 +4409,7 @@
     },
     {
         "name": "Danza Llama",
-        "type": "fuego",
+        "type": "fire",
         "power": "80",
         "pp": "10",
         "accuracy": "100%",
@@ -4417,7 +4417,7 @@
     },
     {
         "name": "Rayo G�lido",
-        "type": "hielo",
+        "type": "ice",
         "power": "140",
         "pp": "5",
         "accuracy": "90%",
@@ -4425,7 +4425,7 @@
     },
     {
         "name": "Llama G�lida",
-        "type": "hielo",
+        "type": "ice",
         "power": "140",
         "pp": "5",
         "accuracy": "90%",
@@ -4433,7 +4433,7 @@
     },
     {
         "name": "Alarido",
-        "type": "siniestro",
+        "type": "dark",
         "power": "55",
         "pp": "15",
         "accuracy": "95%",
@@ -4441,7 +4441,7 @@
     },
     {
         "name": "Chuzos",
-        "type": "hielo",
+        "type": "ice",
         "power": "85",
         "pp": "10",
         "accuracy": "90%",
@@ -4449,7 +4449,7 @@
     },
     {
         "name": "V de Fuego",
-        "type": "fuego",
+        "type": "fire",
         "power": "180",
         "pp": "5",
         "accuracy": "95%",
@@ -4457,7 +4457,7 @@
     },
     {
         "name": "Llama Fusi�n",
-        "type": "fuego",
+        "type": "fire",
         "power": "100",
         "pp": "5",
         "accuracy": "100%",
@@ -4465,7 +4465,7 @@
     },
     {
         "name": "Rayo Fusi�n",
-        "type": "electrico",
+        "type": "electric",
         "power": "100",
         "pp": "5",
         "accuracy": "100%",
@@ -4473,7 +4473,7 @@
     },
     {
         "name": "Plancha Voladora",
-        "type": "lucha",
+        "type": "fighting",
         "power": "100",
         "pp": "10",
         "accuracy": "95%",
@@ -4481,7 +4481,7 @@
     },
     {
         "name": "Escudo Tatami",
-        "type": "lucha",
+        "type": "fighting",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -4489,7 +4489,7 @@
     },
     {
         "name": "Eructo",
-        "type": "veneno",
+        "type": "poison",
         "power": "120",
         "pp": "10",
         "accuracy": "90%",
@@ -4497,7 +4497,7 @@
     },
     {
         "name": "Fertilizante",
-        "type": "tierra",
+        "type": "ground",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -4505,7 +4505,7 @@
     },
     {
         "name": "Red Viscosa",
-        "type": "bicho",
+        "type": "bug",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -4513,7 +4513,7 @@
     },
     {
         "name": "Aguij�n Letal",
-        "type": "bicho",
+        "type": "bug",
         "power": "50",
         "pp": "25",
         "accuracy": "100%",
@@ -4521,7 +4521,7 @@
     },
     {
         "name": "Golpe Fantasma",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "90",
         "pp": "10",
         "accuracy": "100%",
@@ -4529,7 +4529,7 @@
     },
     {
         "name": "Halloween",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "--",
         "pp": "20",
         "accuracy": "100%",
@@ -4545,7 +4545,7 @@
     },
     {
         "name": "Cortina Plasma",
-        "type": "electrico",
+        "type": "electric",
         "power": "--",
         "pp": "25",
         "accuracy": "--",
@@ -4553,7 +4553,7 @@
     },
     {
         "name": "Carga Par�bola",
-        "type": "electrico",
+        "type": "electric",
         "power": "65",
         "pp": "20",
         "accuracy": "100%",
@@ -4561,7 +4561,7 @@
     },
     {
         "name": "Condena Silvana",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "20",
         "accuracy": "100%",
@@ -4569,7 +4569,7 @@
     },
     {
         "name": "Tormenta Floral",
-        "type": "planta",
+        "type": "grass",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -4577,7 +4577,7 @@
     },
     {
         "name": "Liofilizaci�n",
-        "type": "hielo",
+        "type": "ice",
         "power": "70",
         "pp": "20",
         "accuracy": "100%",
@@ -4585,7 +4585,7 @@
     },
     {
         "name": "Voz Cautivadora",
-        "type": "hada",
+        "type": "fairy",
         "power": "40",
         "pp": "15",
         "accuracy": "--",
@@ -4593,7 +4593,7 @@
     },
     {
         "name": "�ltima Palabra",
-        "type": "siniestro",
+        "type": "dark",
         "power": "--",
         "pp": "20",
         "accuracy": "100%",
@@ -4601,7 +4601,7 @@
     },
     {
         "name": "Reversi�n",
-        "type": "siniestro",
+        "type": "dark",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -4609,7 +4609,7 @@
     },
     {
         "name": "Beso Drenaje",
-        "type": "hada",
+        "type": "fairy",
         "power": "50",
         "pp": "20",
         "accuracy": "100%",
@@ -4617,7 +4617,7 @@
     },
     {
         "name": "Truco Defensa",
-        "type": "hada",
+        "type": "fairy",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -4625,7 +4625,7 @@
     },
     {
         "name": "Defensa Floral",
-        "type": "hada",
+        "type": "fairy",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -4633,7 +4633,7 @@
     },
     {
         "name": "Campo de Hierba",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -4641,7 +4641,7 @@
     },
     {
         "name": "Campo de Niebla",
-        "type": "hada",
+        "type": "fairy",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -4649,7 +4649,7 @@
     },
     {
         "name": "Electrificaci�n",
-        "type": "electrico",
+        "type": "electric",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -4657,7 +4657,7 @@
     },
     {
         "name": "Caranto�a",
-        "type": "hada",
+        "type": "fairy",
         "power": "90",
         "pp": "10",
         "accuracy": "90%",
@@ -4665,7 +4665,7 @@
     },
     {
         "name": "Viento Fe�rico",
-        "type": "hada",
+        "type": "fairy",
         "power": "40",
         "pp": "30",
         "accuracy": "100%",
@@ -4673,7 +4673,7 @@
     },
     {
         "name": "Fuerza Lunar",
-        "type": "hada",
+        "type": "fairy",
         "power": "95",
         "pp": "15",
         "accuracy": "100%",
@@ -4689,7 +4689,7 @@
     },
     {
         "name": "Cerrojo Fe�rico",
-        "type": "hada",
+        "type": "fairy",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -4697,7 +4697,7 @@
     },
     {
         "name": "Escudo Real",
-        "type": "acero",
+        "type": "steel",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -4721,7 +4721,7 @@
     },
     {
         "name": "Torm. Diamantes",
-        "type": "roca",
+        "type": "rock",
         "power": "100",
         "pp": "5",
         "accuracy": "95%",
@@ -4729,7 +4729,7 @@
     },
     {
         "name": "Chorro de Vapor",
-        "type": "agua",
+        "type": "water",
         "power": "110",
         "pp": "5",
         "accuracy": "95%",
@@ -4737,7 +4737,7 @@
     },
     {
         "name": "Paso Dimensional",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "80",
         "pp": "5",
         "accuracy": "--",
@@ -4745,7 +4745,7 @@
     },
     {
         "name": "Shuriken de Agua",
-        "type": "agua",
+        "type": "water",
         "power": "15",
         "pp": "20",
         "accuracy": "100%",
@@ -4753,7 +4753,7 @@
     },
     {
         "name": "Llama Embrujada",
-        "type": "fuego",
+        "type": "fire",
         "power": "75",
         "pp": "10",
         "accuracy": "100%",
@@ -4761,7 +4761,7 @@
     },
     {
         "name": "Barrera Espinosa",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -4769,7 +4769,7 @@
     },
     {
         "name": "Niebla Arom�tica",
-        "type": "hada",
+        "type": "fairy",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -4777,7 +4777,7 @@
     },
     {
         "name": "Onda An�mala",
-        "type": "electrico",
+        "type": "electric",
         "power": "--",
         "pp": "15",
         "accuracy": "100%",
@@ -4785,7 +4785,7 @@
     },
     {
         "name": "Trampa Venenosa",
-        "type": "veneno",
+        "type": "poison",
         "power": "--",
         "pp": "20",
         "accuracy": "100%",
@@ -4793,7 +4793,7 @@
     },
     {
         "name": "Polvo Explosivo",
-        "type": "bicho",
+        "type": "bug",
         "power": "--",
         "pp": "20",
         "accuracy": "100%",
@@ -4801,7 +4801,7 @@
     },
     {
         "name": "Geocontrol",
-        "type": "hada",
+        "type": "fairy",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -4809,7 +4809,7 @@
     },
     {
         "name": "Aura Magn�tica",
-        "type": "electrico",
+        "type": "electric",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -4825,7 +4825,7 @@
     },
     {
         "name": "Campo El�ctrico",
-        "type": "electrico",
+        "type": "electric",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -4833,7 +4833,7 @@
     },
     {
         "name": "Brillo M�gico",
-        "type": "hada",
+        "type": "fairy",
         "power": "80",
         "pp": "10",
         "accuracy": "100%",
@@ -4857,7 +4857,7 @@
     },
     {
         "name": "Ojitos Tiernos",
-        "type": "hada",
+        "type": "fairy",
         "power": "--",
         "pp": "30",
         "accuracy": "100%",
@@ -4865,7 +4865,7 @@
     },
     {
         "name": "Moflete Est�tico",
-        "type": "electrico",
+        "type": "electric",
         "power": "20",
         "pp": "20",
         "accuracy": "100%",
@@ -4881,7 +4881,7 @@
     },
     {
         "name": "Acoso",
-        "type": "bicho",
+        "type": "bug",
         "power": "20",
         "pp": "20",
         "accuracy": "100%",
@@ -4889,7 +4889,7 @@
     },
     {
         "name": "Pu�o Incremento",
-        "type": "lucha",
+        "type": "fighting",
         "power": "40",
         "pp": "30",
         "accuracy": "100%",
@@ -4897,7 +4897,7 @@
     },
     {
         "name": "Ala Mort�fera",
-        "type": "volador",
+        "type": "flying",
         "power": "80",
         "pp": "10",
         "accuracy": "100%",
@@ -4905,7 +4905,7 @@
     },
     {
         "name": "Mil Flechas",
-        "type": "tierra",
+        "type": "ground",
         "power": "90",
         "pp": "10",
         "accuracy": "100%",
@@ -4913,7 +4913,7 @@
     },
     {
         "name": "Mil Temblores",
-        "type": "tierra",
+        "type": "ground",
         "power": "90",
         "pp": "10",
         "accuracy": "100%",
@@ -4921,7 +4921,7 @@
     },
     {
         "name": "Fuerza Tel�rica",
-        "type": "tierra",
+        "type": "ground",
         "power": "90",
         "pp": "10",
         "accuracy": "100%",
@@ -4929,7 +4929,7 @@
     },
     {
         "name": "Luz Aniquiladora",
-        "type": "hada",
+        "type": "fairy",
         "power": "140",
         "pp": "5",
         "accuracy": "90%",
@@ -4937,7 +4937,7 @@
     },
     {
         "name": "Pulso Primigenio",
-        "type": "agua",
+        "type": "water",
         "power": "110",
         "pp": "10",
         "accuracy": "85%",
@@ -4945,7 +4945,7 @@
     },
     {
         "name": "Filo del Abismo",
-        "type": "tierra",
+        "type": "ground",
         "power": "120",
         "pp": "10",
         "accuracy": "85%",
@@ -4953,7 +4953,7 @@
     },
     {
         "name": "Ascenso Draco",
-        "type": "volador",
+        "type": "flying",
         "power": "120",
         "pp": "5",
         "accuracy": "100%",
@@ -4961,7 +4961,7 @@
     },
     {
         "name": "Cerco Dimensi�n",
-        "type": "siniestro",
+        "type": "dark",
         "power": "100",
         "pp": "5",
         "accuracy": "--",
@@ -4977,7 +4977,7 @@
     },
     {
         "name": "R�faga Demoledora",
-        "type": "lucha",
+        "type": "fighting",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -4985,7 +4985,7 @@
     },
     {
         "name": "Picado Supers�nico",
-        "type": "volador",
+        "type": "flying",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -4993,7 +4993,7 @@
     },
     {
         "name": "Diluvio Corrosivo",
-        "type": "veneno",
+        "type": "poison",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5001,7 +5001,7 @@
     },
     {
         "name": "Barrena Tel�rica",
-        "type": "tierra",
+        "type": "ground",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5009,7 +5009,7 @@
     },
     {
         "name": "Aplastamiento Gigal�tico",
-        "type": "roca",
+        "type": "rock",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5017,7 +5017,7 @@
     },
     {
         "name": "Guada�a Sedosa",
-        "type": "bicho",
+        "type": "bug",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5025,7 +5025,7 @@
     },
     {
         "name": "Presa Espectral",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5033,7 +5033,7 @@
     },
     {
         "name": "H�lice Trepanadora",
-        "type": "acero",
+        "type": "steel",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5041,7 +5041,7 @@
     },
     {
         "name": "Hecatombe P�rica",
-        "type": "fuego",
+        "type": "fire",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5049,7 +5049,7 @@
     },
     {
         "name": "Hidrov�rtice Abisal",
-        "type": "agua",
+        "type": "water",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5057,7 +5057,7 @@
     },
     {
         "name": "Megat�n Floral",
-        "type": "planta",
+        "type": "grass",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5065,7 +5065,7 @@
     },
     {
         "name": "Gigavoltio Destructor",
-        "type": "electrico",
+        "type": "electric",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5073,7 +5073,7 @@
     },
     {
         "name": "Disruptor Ps�quico",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5081,7 +5081,7 @@
     },
     {
         "name": "Crioaliento Despiadado",
-        "type": "hielo",
+        "type": "ice",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5097,7 +5097,7 @@
     },
     {
         "name": "Agujero Negro Aniquilador",
-        "type": "siniestro",
+        "type": "dark",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5105,7 +5105,7 @@
     },
     {
         "name": "Arrumaco Sideral",
-        "type": "hada",
+        "type": "fairy",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5113,7 +5113,7 @@
     },
     {
         "name": "Pikavoltio Letal",
-        "type": "electrico",
+        "type": "electric",
         "power": "210",
         "pp": "1",
         "accuracy": "--",
@@ -5121,7 +5121,7 @@
     },
     {
         "name": "Recogearena",
-        "type": "tierra",
+        "type": "ground",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -5129,7 +5129,7 @@
     },
     {
         "name": "Escaramuza",
-        "type": "bicho",
+        "type": "bug",
         "power": "90",
         "pp": "10",
         "accuracy": "100%",
@@ -5137,7 +5137,7 @@
     },
     {
         "name": "B�nker",
-        "type": "veneno",
+        "type": "poison",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -5145,7 +5145,7 @@
     },
     {
         "name": "Puntada Sombr�a",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "80",
         "pp": "10",
         "accuracy": "100%",
@@ -5153,7 +5153,7 @@
     },
     {
         "name": "Lariat Oscuro",
-        "type": "siniestro",
+        "type": "dark",
         "power": "85",
         "pp": "10",
         "accuracy": "100%",
@@ -5161,7 +5161,7 @@
     },
     {
         "name": "Aria Burbuja",
-        "type": "agua",
+        "type": "water",
         "power": "90",
         "pp": "10",
         "accuracy": "100%",
@@ -5169,7 +5169,7 @@
     },
     {
         "name": "Martillo Hielo",
-        "type": "hielo",
+        "type": "ice",
         "power": "100",
         "pp": "10",
         "accuracy": "90%",
@@ -5177,7 +5177,7 @@
     },
     {
         "name": "Cura Floral",
-        "type": "hada",
+        "type": "fairy",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -5185,7 +5185,7 @@
     },
     {
         "name": "Fuerza Equina",
-        "type": "tierra",
+        "type": "ground",
         "power": "95",
         "pp": "10",
         "accuracy": "95%",
@@ -5193,7 +5193,7 @@
     },
     {
         "name": "Absorbefuerza",
-        "type": "planta",
+        "type": "grass",
         "power": "--",
         "pp": "10",
         "accuracy": "100%",
@@ -5201,7 +5201,7 @@
     },
     {
         "name": "Cuchilla Solar",
-        "type": "planta",
+        "type": "grass",
         "power": "125",
         "pp": "10",
         "accuracy": "100%",
@@ -5209,7 +5209,7 @@
     },
     {
         "name": "Follaje",
-        "type": "planta",
+        "type": "grass",
         "power": "40",
         "pp": "40",
         "accuracy": "100%",
@@ -5225,7 +5225,7 @@
     },
     {
         "name": "Hilo Venenoso",
-        "type": "veneno",
+        "type": "poison",
         "power": "--",
         "pp": "20",
         "accuracy": "100%",
@@ -5241,7 +5241,7 @@
     },
     {
         "name": "Pi��n Auxiliar",
-        "type": "acero",
+        "type": "steel",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -5249,7 +5249,7 @@
     },
     {
         "name": "Golpe Mordaza",
-        "type": "siniestro",
+        "type": "dark",
         "power": "80",
         "pp": "15",
         "accuracy": "100%",
@@ -5257,7 +5257,7 @@
     },
     {
         "name": "Bola de Polen",
-        "type": "bicho",
+        "type": "bug",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -5265,7 +5265,7 @@
     },
     {
         "name": "Anclaje",
-        "type": "acero",
+        "type": "steel",
         "power": "80",
         "pp": "20",
         "accuracy": "100%",
@@ -5273,7 +5273,7 @@
     },
     {
         "name": "Campo Ps�quico",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -5281,7 +5281,7 @@
     },
     {
         "name": "Plancha",
-        "type": "bicho",
+        "type": "bug",
         "power": "80",
         "pp": "15",
         "accuracy": "100%",
@@ -5289,7 +5289,7 @@
     },
     {
         "name": "L�tigo �gneo",
-        "type": "fuego",
+        "type": "fire",
         "power": "80",
         "pp": "15",
         "accuracy": "100%",
@@ -5297,7 +5297,7 @@
     },
     {
         "name": "Chuler�a",
-        "type": "siniestro",
+        "type": "dark",
         "power": "20",
         "pp": "10",
         "accuracy": "100%",
@@ -5305,7 +5305,7 @@
     },
     {
         "name": "Llama Final",
-        "type": "fuego",
+        "type": "fire",
         "power": "130",
         "pp": "5",
         "accuracy": "100%",
@@ -5313,7 +5313,7 @@
     },
     {
         "name": "Cambia Velocidad",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "10",
         "accuracy": "--",
@@ -5321,7 +5321,7 @@
     },
     {
         "name": "Cuerno Certero",
-        "type": "acero",
+        "type": "steel",
         "power": "70",
         "pp": "10",
         "accuracy": "--",
@@ -5329,7 +5329,7 @@
     },
     {
         "name": "Purificaci�n",
-        "type": "veneno",
+        "type": "poison",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -5353,7 +5353,7 @@
     },
     {
         "name": "Patada Tropical",
-        "type": "planta",
+        "type": "grass",
         "power": "70",
         "pp": "15",
         "accuracy": "100%",
@@ -5361,7 +5361,7 @@
     },
     {
         "name": "Mandato",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "--",
         "pp": "15",
         "accuracy": "--",
@@ -5369,7 +5369,7 @@
     },
     {
         "name": "Pico Ca��n",
-        "type": "volador",
+        "type": "flying",
         "power": "100",
         "pp": "15",
         "accuracy": "100%",
@@ -5393,7 +5393,7 @@
     },
     {
         "name": "Giro Vil",
-        "type": "siniestro",
+        "type": "dark",
         "power": "60",
         "pp": "20",
         "accuracy": "100%",
@@ -5401,7 +5401,7 @@
     },
     {
         "name": "Velo Aurora",
-        "type": "hielo",
+        "type": "ice",
         "power": "--",
         "pp": "20",
         "accuracy": "--",
@@ -5409,7 +5409,7 @@
     },
     {
         "name": "Aluvi�n de Flechas Sombr�as",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "180",
         "pp": "1",
         "accuracy": "--",
@@ -5417,7 +5417,7 @@
     },
     {
         "name": "Hiperplancha Oscura",
-        "type": "siniestro",
+        "type": "dark",
         "power": "180",
         "pp": "1",
         "accuracy": "--",
@@ -5425,7 +5425,7 @@
     },
     {
         "name": "Sinfon�a de la Diva Marina",
-        "type": "agua",
+        "type": "water",
         "power": "195",
         "pp": "1",
         "accuracy": "--",
@@ -5433,7 +5433,7 @@
     },
     {
         "name": "C�lera del Guardi�n",
-        "type": "hada",
+        "type": "fairy",
         "power": "1",
         "pp": "1",
         "accuracy": "--",
@@ -5441,7 +5441,7 @@
     },
     {
         "name": "Constelaci�n Robaalmas",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "195",
         "pp": "1",
         "accuracy": "--",
@@ -5449,7 +5449,7 @@
     },
     {
         "name": "Surfeo Galv�nico",
-        "type": "electrico",
+        "type": "electric",
         "power": "175",
         "pp": "1",
         "accuracy": "--",
@@ -5473,7 +5473,7 @@
     },
     {
         "name": "Supernova Original",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "185",
         "pp": "1",
         "accuracy": "--",
@@ -5481,7 +5481,7 @@
     },
     {
         "name": "Coraza Trampa",
-        "type": "fuego",
+        "type": "fire",
         "power": "150",
         "pp": "5",
         "accuracy": "100%",
@@ -5489,7 +5489,7 @@
     },
     {
         "name": "Ca��n Floral",
-        "type": "hada",
+        "type": "fairy",
         "power": "130",
         "pp": "5",
         "accuracy": "90%",
@@ -5497,7 +5497,7 @@
     },
     {
         "name": "Psicocolmillo",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "85",
         "pp": "10",
         "accuracy": "100%",
@@ -5505,7 +5505,7 @@
     },
     {
         "name": "Pataleta",
-        "type": "tierra",
+        "type": "ground",
         "power": "75",
         "pp": "10",
         "accuracy": "100%",
@@ -5513,7 +5513,7 @@
     },
     {
         "name": "Hueso Sombr�o",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "85",
         "pp": "10",
         "accuracy": "100%",
@@ -5521,7 +5521,7 @@
     },
     {
         "name": "Roca Veloz",
-        "type": "roca",
+        "type": "rock",
         "power": "40",
         "pp": "20",
         "accuracy": "100%",
@@ -5529,7 +5529,7 @@
     },
     {
         "name": "Hidroariete",
-        "type": "agua",
+        "type": "water",
         "power": "85",
         "pp": "10",
         "accuracy": "100%",
@@ -5537,7 +5537,7 @@
     },
     {
         "name": "L�ser Prisma",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "160",
         "pp": "10",
         "accuracy": "100%",
@@ -5545,7 +5545,7 @@
     },
     {
         "name": "Robasombra",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "90",
         "pp": "10",
         "accuracy": "100%",
@@ -5553,7 +5553,7 @@
     },
     {
         "name": "Meteoimpacto",
-        "type": "acero",
+        "type": "steel",
         "power": "100",
         "pp": "5",
         "accuracy": "100%",
@@ -5561,7 +5561,7 @@
     },
     {
         "name": "Rayo Umbr�o",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "100",
         "pp": "5",
         "accuracy": "100%",
@@ -5577,7 +5577,7 @@
     },
     {
         "name": "Electropunzada",
-        "type": "electrico",
+        "type": "electric",
         "power": "80",
         "pp": "10",
         "accuracy": "100%",
@@ -5585,7 +5585,7 @@
     },
     {
         "name": "Furia Natural",
-        "type": "hada",
+        "type": "fairy",
         "power": "1",
         "pp": "10",
         "accuracy": "90%",
@@ -5601,7 +5601,7 @@
     },
     {
         "name": "Gigarrayo Fulminante",
-        "type": "electrico",
+        "type": "electric",
         "power": "195",
         "pp": "1",
         "accuracy": "--",
@@ -5609,7 +5609,7 @@
     },
     {
         "name": "Cabeza Sorpresa",
-        "type": "fuego",
+        "type": "fire",
         "power": "150",
         "pp": "5",
         "accuracy": "100%",
@@ -5617,7 +5617,7 @@
     },
     {
         "name": "Pu�os Plasma",
-        "type": "electrico",
+        "type": "electric",
         "power": "100",
         "pp": "15",
         "accuracy": "100%",
@@ -5625,7 +5625,7 @@
     },
     {
         "name": "G�iser Fot�nico",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "100",
         "pp": "5",
         "accuracy": "100%",
@@ -5633,7 +5633,7 @@
     },
     {
         "name": "Fotodestrucci�n Apocal�ptica",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "200",
         "pp": "1",
         "accuracy": "--",
@@ -5641,7 +5641,7 @@
     },
     {
         "name": "Embestida Solar",
-        "type": "acero",
+        "type": "steel",
         "power": "200",
         "pp": "1",
         "accuracy": "--",
@@ -5649,7 +5649,7 @@
     },
     {
         "name": "Deflagraci�n Lunar",
-        "type": "fantasma",
+        "type": "ghost",
         "power": "200",
         "pp": "1",
         "accuracy": "--",
@@ -5657,7 +5657,7 @@
     },
     {
         "name": "Somanta Amistosa",
-        "type": "hada",
+        "type": "fairy",
         "power": "190",
         "pp": "1",
         "accuracy": "--",
@@ -5665,7 +5665,7 @@
     },
     {
         "name": "Tempestad Rocosa",
-        "type": "roca",
+        "type": "rock",
         "power": "190",
         "pp": "1",
         "accuracy": "--",
@@ -5681,7 +5681,7 @@
     },
     {
         "name": "Pikaturbo",
-        "type": "electrico",
+        "type": "electric",
         "power": "50",
         "pp": "15",
         "accuracy": "100%",
@@ -5689,7 +5689,7 @@
     },
     {
         "name": "Salpikasurf",
-        "type": "agua",
+        "type": "water",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -5697,7 +5697,7 @@
     },
     {
         "name": "Pikapicado",
-        "type": "volador",
+        "type": "flying",
         "power": "90",
         "pp": "15",
         "accuracy": "95%",
@@ -5705,7 +5705,7 @@
     },
     {
         "name": "Pikatormenta",
-        "type": "electrico",
+        "type": "electric",
         "power": "1",
         "pp": "20",
         "accuracy": "--",
@@ -5713,7 +5713,7 @@
     },
     {
         "name": "Vapodrenaje",
-        "type": "agua",
+        "type": "water",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -5721,7 +5721,7 @@
     },
     {
         "name": "Joltiopar�lisis",
-        "type": "electrico",
+        "type": "electric",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -5729,7 +5729,7 @@
     },
     {
         "name": "Flarembestida",
-        "type": "fuego",
+        "type": "fire",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -5737,7 +5737,7 @@
     },
     {
         "name": "Espeaura",
-        "type": "psiquico",
+        "type": "psychic",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -5745,7 +5745,7 @@
     },
     {
         "name": "Umbreozona",
-        "type": "siniestro",
+        "type": "dark",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -5753,7 +5753,7 @@
     },
     {
         "name": "Leafitobombas",
-        "type": "planta",
+        "type": "grass",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -5761,7 +5761,7 @@
     },
     {
         "name": "Glaceoprisma",
-        "type": "hielo",
+        "type": "ice",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -5769,7 +5769,7 @@
     },
     {
         "name": "Sylveotornado",
-        "type": "hada",
+        "type": "fairy",
         "power": "90",
         "pp": "15",
         "accuracy": "100%",
@@ -5785,7 +5785,7 @@
     },
     {
         "name": "Ferropu�o Doble",
-        "type": "acero",
+        "type": "steel",
         "power": "60",
         "pp": "5",
         "accuracy": "100%",

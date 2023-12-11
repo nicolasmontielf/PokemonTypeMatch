@@ -105,7 +105,7 @@
     },
     "grass": {
         "data": {
-            "name": "Hierba",
+            "name": "Planta",
             "icon": "https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png/64px-Grass_icon_SwSh.png"
         },
         "versus": {
@@ -391,7 +391,7 @@
     },
     "dark": {
         "data": {
-            "name": "Oscuro",
+            "name": "Siniestro",
             "icon": "https://archives.bulbagarden.net/media/upload/thumb/d/d5/Dark_icon_SwSh.png/64px-Dark_icon_SwSh.png"
         },
         "versus": {
